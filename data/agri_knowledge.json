@@ -1,0 +1,177 @@
+[
+  {
+    "id": "treatment_early_blight",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Early Blight",
+    "content": "Disease: Early Blight\nTreatment Protocol: Apply copper-based fungicide every 7\u201310 days. Remove infected lower leaves. Improve air circulation.\nSeverity: Medium\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Early Blight can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "treatment_late_blight",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Late Blight",
+    "content": "Disease: Late Blight\nTreatment Protocol: Apply mancozeb or chlorothalonil IMMEDIATELY. Destroy severely infected plants. Switch to drip irrigation.\nSeverity: High\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Late Blight can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "treatment_leaf_mold",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Leaf Mold",
+    "content": "Disease: Leaf Mold\nTreatment Protocol: Reduce humidity below 85%. Apply chlorothalonil. Ensure 24-hour dry periods between irrigations.\nSeverity: Medium\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Leaf Mold can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "treatment_septoria_leaf_spot",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Septoria Leaf Spot",
+    "content": "Disease: Septoria Leaf Spot\nTreatment Protocol: Apply mancozeb or chlorothalonil. Avoid working in wet fields. Rotate crops next season.\nSeverity: Medium\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Septoria Leaf Spot can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "treatment_gray_leaf_spot",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Gray Leaf Spot",
+    "content": "Disease: Gray Leaf Spot\nTreatment Protocol: Apply strobilurin or triazole fungicide. Rotate crops annually. Use resistant hybrids.\nSeverity: Medium\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Gray Leaf Spot can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "treatment_common_rust",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Common Rust",
+    "content": "Disease: Common Rust\nTreatment Protocol: Apply triazole fungicide early. Plant resistant varieties next season. Scout bi-weekly.\nSeverity: Medium\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Common Rust can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "treatment_northern_leaf_blight",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Northern Leaf Blight",
+    "content": "Disease: Northern Leaf Blight\nTreatment Protocol: Apply propiconazole or azoxystrobin. Improve drainage. Till under crop residue.\nSeverity: Medium\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Northern Leaf Blight can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "treatment_yellow_rust",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Yellow Rust",
+    "content": "Disease: Yellow Rust\nTreatment Protocol: Apply propiconazole IMMEDIATELY (spreads fast in cool weather). Scout fields bi-weekly.\nSeverity: High\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Yellow Rust can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "treatment_brown_rust",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Brown Rust",
+    "content": "Disease: Brown Rust\nTreatment Protocol: Apply tebuconazole. Monitor flag leaf closely. Maintain balanced N fertilisation.\nSeverity: Medium\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Brown Rust can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "treatment_blast",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Blast",
+    "content": "Disease: Blast\nTreatment Protocol: Apply tricyclazole or azoxystrobin. Avoid excess nitrogen. Drain fields periodically.\nSeverity: Medium\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Blast can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "treatment_bacterial_blight",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Bacterial Blight",
+    "content": "Disease: Bacterial Blight\nTreatment Protocol: No effective chemical. Remove infected plants. Use resistant varieties next season.\nSeverity: Medium\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Bacterial Blight can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "treatment_brown_spot",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Brown Spot",
+    "content": "Disease: Brown Spot\nTreatment Protocol: Apply mancozeb or iprodione. Ensure balanced potassium. Avoid water stress.\nSeverity: Medium\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Brown Spot can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "treatment_frogeye_leaf_spot",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Frogeye Leaf Spot",
+    "content": "Disease: Frogeye Leaf Spot\nTreatment Protocol: Apply azoxystrobin or pyraclostrobin. Rotate crops with non-host plants.\nSeverity: Medium\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Frogeye Leaf Spot can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "treatment_sudden_death_syndrome",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Sudden Death Syndrome",
+    "content": "Disease: Sudden Death Syndrome\nTreatment Protocol: No curative treatment. Improve drainage. Apply seed treatments next season.\nSeverity: Medium\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Sudden Death Syndrome can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "treatment_verticillium_wilt",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Verticillium Wilt",
+    "content": "Disease: Verticillium Wilt\nTreatment Protocol: No chemical cure. Remove infected plants. Solarise soil. Use resistant varieties.\nSeverity: Medium\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Verticillium Wilt can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "treatment_healthy",
+    "type": "disease_treatment",
+    "title": "Treatment Guide: Healthy",
+    "content": "Disease: Healthy\nTreatment Protocol: No treatment needed. Scout every 5\u20137 days. Maintain balanced fertilisation.\nSeverity: Medium\nPrevention: Rotate crops, use certified seeds, maintain field hygiene, scout regularly.\nEconomic Impact: Untreated Healthy can cause 20\u201380% yield loss.\nOrganic Option: Neem oil (5ml/L) + Trichoderma bio-agent as preventive spray.\n",
+    "crop": "General"
+  },
+  {
+    "id": "irrigation_tomato",
+    "type": "irrigation_guide",
+    "title": "Irrigation Guide: Tomato",
+    "content": "Tomato Irrigation Management:\nFrequency: every 2\u20133 days\nWater requirement: 25\u201330mm/week\nCritical growth stage: flowering and fruit set\nDeficit irrigation warning: Soil moisture below 40% field capacity triggers stress.\nExcess water warning: Waterlogging >48h causes root hypoxia and disease susceptibility.\nDrip irrigation saves 30\u201340% water and improves yield 15\u201325% vs flood irrigation.\n",
+    "crop": "Tomato"
+  },
+  {
+    "id": "irrigation_potato",
+    "type": "irrigation_guide",
+    "title": "Irrigation Guide: Potato",
+    "content": "Potato Irrigation Management:\nFrequency: every 3\u20134 days\nWater requirement: 20\u201325mm/week\nCritical growth stage: tuber initiation\nDeficit irrigation warning: Soil moisture below 40% field capacity triggers stress.\nExcess water warning: Waterlogging >48h causes root hypoxia and disease susceptibility.\nDrip irrigation saves 30\u201340% water and improves yield 15\u201325% vs flood irrigation.\n",
+    "crop": "Potato"
+  },
+  {
+    "id": "irrigation_rice",
+    "type": "irrigation_guide",
+    "title": "Irrigation Guide: Rice",
+    "content": "Rice Irrigation Management:\nFrequency: continuous flood\nWater requirement: 1200\u20132000mm/season\nCritical growth stage: tillering and heading\nDeficit irrigation warning: Soil moisture below 40% field capacity triggers stress.\nExcess water warning: Waterlogging >48h causes root hypoxia and disease susceptibility.\nDrip irrigation saves 30\u201340% water and improves yield 15\u201325% vs flood irrigation.\n",
+    "crop": "Rice"
+  },
+  {
+    "id": "irrigation_wheat",
+    "type": "irrigation_guide",
+    "title": "Irrigation Guide: Wheat",
+    "content": "Wheat Irrigation Management:\nFrequency: every 7\u201310 days\nWater requirement: 450\u2013650mm/season\nCritical growth stage: jointing and grain fill\nDeficit irrigation warning: Soil moisture below 40% field capacity triggers stress.\nExcess water warning: Waterlogging >48h causes root hypoxia and disease susceptibility.\nDrip irrigation saves 30\u201340% water and improves yield 15\u201325% vs flood irrigation.\n",
+    "crop": "Wheat"
+  },
+  {
+    "id": "irrigation_corn",
+    "type": "irrigation_guide",
+    "title": "Irrigation Guide: Corn",
+    "content": "Corn Irrigation Management:\nFrequency: every 4\u20135 days\nWater requirement: 500\u2013800mm/season\nCritical growth stage: silking and grain fill\nDeficit irrigation warning: Soil moisture below 40% field capacity triggers stress.\nExcess water warning: Waterlogging >48h causes root hypoxia and disease susceptibility.\nDrip irrigation saves 30\u201340% water and improves yield 15\u201325% vs flood irrigation.\n",
+    "crop": "Corn"
+  },
+  {
+    "id": "irrigation_soybean",
+    "type": "irrigation_guide",
+    "title": "Irrigation Guide: Soybean",
+    "content": "Soybean Irrigation Management:\nFrequency: every 5\u20137 days\nWater requirement: 450\u2013700mm/season\nCritical growth stage: pod fill\nDeficit irrigation warning: Soil moisture below 40% field capacity triggers stress.\nExcess water warning: Waterlogging >48h causes root hypoxia and disease susceptibility.\nDrip irrigation saves 30\u201340% water and improves yield 15\u201325% vs flood irrigation.\n",
+    "crop": "Soybean"
+  },
+  {
+    "id": "irrigation_cotton",
+    "type": "irrigation_guide",
+    "title": "Irrigation Guide: Cotton",
+    "content": "Cotton Irrigation Management:\nFrequency: every 7\u201310 days\nWater requirement: 700\u20131300mm/season\nCritical growth stage: boll development\nDeficit irrigation warning: Soil moisture below 40% field capacity triggers stress.\nExcess water warning: Waterlogging >48h causes root hypoxia and disease susceptibility.\nDrip irrigation saves 30\u201340% water and improves yield 15\u201325% vs flood irrigation.\n",
+    "crop": "Cotton"
+  },
+  {
+    "id": "market_timing_tomato",
+    "type": "market_advisory",
+    "title": "Tomato Market Timing Guide",
+    "content": "Tomato prices peak December\u2013February (winter demand) and May\u2013June (summer scarcity).\nAvoid selling October\u2013November when harvest glut drops prices 40\u201360%.\nCold storage extends shelf life 3\u20134 weeks; use to shift selling window.\nDirect farm-to-hotel channel bypasses APMC 8% commission.\nMSP reference: \u20b9600\u2013800/quintal for processing grade.\n",
+    "crop": "Tomato"
+  },
+  {
+    "id": "market_general_strategy",
+    "type": "market_advisory",
+    "title": "General Crop Market Strategy",
+    "content": "Forward contracts with food processors lock in price 3\u20136 months ahead.\nFarmer Producer Organisations (FPOs) aggregate volume for better mandi bargaining.\neNAM (National Agriculture Market) gives pan-India price discovery \u2014 register free.\nValue addition: Tomato\u2192puree 3\u20135x, Potato\u2192chips 8\u201310x, Cotton\u2192handloom 2\u20133x.\nExport windows: Basmati rice Aug\u2013Nov. Soybean exports March\u2013June.\n",
+    "crop": "General"
+  }
+]

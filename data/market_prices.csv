@@ -1,0 +1,2556 @@
+date,crop,price_per_quintal_inr,market,state,arrivals_tonnes
+2023-01-01,Tomato,50.9,Mumbai APMC,Gujarat,2449.6
+2023-01-01,Potato,22.95,Koyambedu,Maharashtra,2764.7
+2023-01-01,Corn,28.12,Coimbatore APMC,Gujarat,744.3
+2023-01-01,Wheat,35.44,Delhi Azadpur,Karnataka,894.4
+2023-01-01,Rice,39.8,Chennai APMC,Maharashtra,927.3
+2023-01-01,Soybean,56.8,Koyambedu,Rajasthan,3720.2
+2023-01-01,Cotton,75.52,Madurai,Maharashtra,3373.4
+2023-01-02,Tomato,51.36,Chennai APMC,Uttar Pradesh,809.8
+2023-01-02,Potato,22.5,Mumbai APMC,Karnataka,1122.5
+2023-01-02,Corn,28.02,Chennai APMC,Rajasthan,1120.0
+2023-01-02,Wheat,32.51,Chennai APMC,Rajasthan,3223.0
+2023-01-02,Rice,39.51,Koyambedu,Haryana,3467.2
+2023-01-02,Soybean,57.57,Hyderabad,Tamil Nadu,3011.1
+2023-01-02,Cotton,70.33,Chennai APMC,Haryana,3847.2
+2023-01-03,Tomato,47.67,Coimbatore APMC,Punjab,4548.3
+2023-01-03,Potato,22.41,Coimbatore APMC,Maharashtra,129.4
+2023-01-03,Corn,25.74,Chennai APMC,Tamil Nadu,1718.7
+2023-01-03,Wheat,33.73,Coimbatore APMC,Maharashtra,1141.8
+2023-01-03,Rice,38.89,Koyambedu,Karnataka,3633.9
+2023-01-03,Soybean,55.14,Chennai APMC,Haryana,2586.9
+2023-01-03,Cotton,75.45,Mumbai APMC,Punjab,2832.2
+2023-01-04,Tomato,49.97,Coimbatore APMC,Andhra Pradesh,4674.9
+2023-01-04,Potato,23.41,Bengaluru APMC,Haryana,648.0
+2023-01-04,Corn,25.17,Coimbatore APMC,Maharashtra,1815.1
+2023-01-04,Wheat,32.49,Madurai,Tamil Nadu,2040.6
+2023-01-04,Rice,40.47,Mumbai APMC,Tamil Nadu,1976.5
+2023-01-04,Soybean,55.58,Hyderabad,Andhra Pradesh,376.8
+2023-01-04,Cotton,73.87,Delhi Azadpur,Punjab,267.5
+2023-01-05,Tomato,49.45,Coimbatore APMC,Haryana,1542.6
+2023-01-05,Potato,22.91,Hyderabad,Maharashtra,3577.0
+2023-01-05,Corn,26.45,Madurai,Uttar Pradesh,4797.2
+2023-01-05,Wheat,36.13,Mumbai APMC,Haryana,3405.6
+2023-01-05,Rice,40.33,Madurai,Punjab,917.9
+2023-01-05,Soybean,55.77,Mumbai APMC,Gujarat,384.2
+2023-01-05,Cotton,74.59,Chennai APMC,Gujarat,1942.7
+2023-01-06,Tomato,48.57,Coimbatore APMC,Rajasthan,2958.0
+2023-01-06,Potato,23.71,Chennai APMC,Andhra Pradesh,155.0
+2023-01-06,Corn,24.46,Koyambedu,Uttar Pradesh,1220.2
+2023-01-06,Wheat,31.41,Bengaluru APMC,Andhra Pradesh,3117.8
+2023-01-06,Rice,40.69,Chennai APMC,Karnataka,1903.9
+2023-01-06,Soybean,58.51,Delhi Azadpur,Andhra Pradesh,800.8
+2023-01-06,Cotton,73.65,Coimbatore APMC,Tamil Nadu,1228.4
+2023-01-07,Tomato,50.27,Hyderabad,Punjab,714.6
+2023-01-07,Potato,22.99,Mumbai APMC,Tamil Nadu,2628.3
+2023-01-07,Corn,25.22,Bengaluru APMC,Uttar Pradesh,3765.2
+2023-01-07,Wheat,32.36,Coimbatore APMC,Punjab,1746.5
+2023-01-07,Rice,39.75,Coimbatore APMC,Rajasthan,317.7
+2023-01-07,Soybean,59.03,Coimbatore APMC,Andhra Pradesh,3059.9
+2023-01-07,Cotton,73.96,Bengaluru APMC,Rajasthan,1642.1
+2023-01-08,Tomato,47.84,Hyderabad,Tamil Nadu,369.9
+2023-01-08,Potato,23.97,Hyderabad,Maharashtra,4770.6
+2023-01-08,Corn,26.91,Chennai APMC,Karnataka,4694.5
+2023-01-08,Wheat,32.47,Madurai,Maharashtra,909.7
+2023-01-08,Rice,41.4,Coimbatore APMC,Andhra Pradesh,2561.8
+2023-01-08,Soybean,59.03,Bengaluru APMC,Gujarat,1591.7
+2023-01-08,Cotton,74.88,Coimbatore APMC,Andhra Pradesh,2148.9
+2023-01-09,Tomato,49.27,Coimbatore APMC,Uttar Pradesh,1462.5
+2023-01-09,Potato,23.06,Hyderabad,Andhra Pradesh,1395.7
+2023-01-09,Corn,28.02,Hyderabad,Maharashtra,4757.5
+2023-01-09,Wheat,34.99,Mumbai APMC,Haryana,1919.7
+2023-01-09,Rice,39.81,Hyderabad,Gujarat,2142.4
+2023-01-09,Soybean,57.25,Bengaluru APMC,Karnataka,4107.0
+2023-01-09,Cotton,71.87,Hyderabad,Tamil Nadu,3821.6
+2023-01-10,Tomato,48.77,Bengaluru APMC,Maharashtra,3806.3
+2023-01-10,Potato,24.78,Delhi Azadpur,Rajasthan,806.4
+2023-01-10,Corn,29.6,Madurai,Uttar Pradesh,1933.2
+2023-01-10,Wheat,33.46,Delhi Azadpur,Gujarat,1452.0
+2023-01-10,Rice,42.07,Hyderabad,Maharashtra,1699.5
+2023-01-10,Soybean,58.11,Hyderabad,Andhra Pradesh,815.9
+2023-01-10,Cotton,72.6,Coimbatore APMC,Tamil Nadu,113.5
+2023-01-11,Tomato,51.15,Mumbai APMC,Gujarat,2052.5
+2023-01-11,Potato,25.91,Bengaluru APMC,Haryana,4853.9
+2023-01-11,Corn,27.55,Mumbai APMC,Haryana,2473.3
+2023-01-11,Wheat,35.95,Koyambedu,Haryana,4430.7
+2023-01-11,Rice,36.67,Koyambedu,Haryana,4664.0
+2023-01-11,Soybean,58.84,Madurai,Andhra Pradesh,3826.6
+2023-01-11,Cotton,73.73,Delhi Azadpur,Punjab,2572.6
+2023-01-12,Tomato,50.19,Hyderabad,Punjab,3497.5
+2023-01-12,Potato,23.78,Bengaluru APMC,Haryana,3691.5
+2023-01-12,Corn,24.66,Coimbatore APMC,Gujarat,220.8
+2023-01-12,Wheat,33.31,Mumbai APMC,Tamil Nadu,3502.5
+2023-01-12,Rice,41.17,Madurai,Uttar Pradesh,3046.9
+2023-01-12,Soybean,59.86,Madurai,Uttar Pradesh,1274.7
+2023-01-12,Cotton,72.86,Madurai,Tamil Nadu,627.8
+2023-01-13,Tomato,49.46,Koyambedu,Haryana,2018.5
+2023-01-13,Potato,22.92,Koyambedu,Rajasthan,4554.2
+2023-01-13,Corn,29.05,Bengaluru APMC,Karnataka,4157.3
+2023-01-13,Wheat,34.17,Delhi Azadpur,Uttar Pradesh,2528.2
+2023-01-13,Rice,39.88,Bengaluru APMC,Uttar Pradesh,3683.0
+2023-01-13,Soybean,58.44,Koyambedu,Maharashtra,3199.1
+2023-01-13,Cotton,73.82,Mumbai APMC,Karnataka,1381.7
+2023-01-14,Tomato,52.16,Coimbatore APMC,Haryana,3510.1
+2023-01-14,Potato,22.65,Chennai APMC,Karnataka,4091.1
+2023-01-14,Corn,27.21,Chennai APMC,Maharashtra,395.7
+2023-01-14,Wheat,33.12,Bengaluru APMC,Rajasthan,2113.4
+2023-01-14,Rice,38.51,Delhi Azadpur,Haryana,894.6
+2023-01-14,Soybean,58.15,Mumbai APMC,Karnataka,3535.0
+2023-01-14,Cotton,74.1,Coimbatore APMC,Gujarat,950.8
+2023-01-15,Tomato,50.75,Koyambedu,Gujarat,2857.1
+2023-01-15,Potato,23.39,Coimbatore APMC,Karnataka,1044.7
+2023-01-15,Corn,25.61,Madurai,Andhra Pradesh,1333.8
+2023-01-15,Wheat,33.11,Bengaluru APMC,Gujarat,3152.8
+2023-01-15,Rice,40.22,Koyambedu,Karnataka,445.1
+2023-01-15,Soybean,56.53,Koyambedu,Haryana,667.2
+2023-01-15,Cotton,73.5,Koyambedu,Punjab,196.8
+2023-01-16,Tomato,51.37,Coimbatore APMC,Gujarat,2451.7
+2023-01-16,Potato,26.6,Koyambedu,Tamil Nadu,352.2
+2023-01-16,Corn,28.03,Chennai APMC,Tamil Nadu,529.4
+2023-01-16,Wheat,34.15,Chennai APMC,Haryana,3034.8
+2023-01-16,Rice,40.66,Delhi Azadpur,Gujarat,2392.5
+2023-01-16,Soybean,54.89,Mumbai APMC,Haryana,1715.9
+2023-01-16,Cotton,73.73,Mumbai APMC,Punjab,4093.4
+2023-01-17,Tomato,50.88,Mumbai APMC,Haryana,1923.3
+2023-01-17,Potato,27.49,Chennai APMC,Punjab,4371.7
+2023-01-17,Corn,27.51,Koyambedu,Tamil Nadu,2311.8
+2023-01-17,Wheat,34.25,Bengaluru APMC,Karnataka,177.1
+2023-01-17,Rice,40.74,Koyambedu,Rajasthan,1433.4
+2023-01-17,Soybean,56.04,Coimbatore APMC,Punjab,2287.0
+2023-01-17,Cotton,75.51,Hyderabad,Rajasthan,2095.0
+2023-01-18,Tomato,51.95,Coimbatore APMC,Tamil Nadu,4931.6
+2023-01-18,Potato,25.01,Mumbai APMC,Tamil Nadu,3187.2
+2023-01-18,Corn,26.46,Chennai APMC,Punjab,3405.8
+2023-01-18,Wheat,35.92,Coimbatore APMC,Gujarat,2030.8
+2023-01-18,Rice,38.72,Koyambedu,Punjab,2168.2
+2023-01-18,Soybean,58.7,Hyderabad,Maharashtra,3684.7
+2023-01-18,Cotton,77.11,Delhi Azadpur,Andhra Pradesh,3574.1
+2023-01-19,Tomato,49.36,Chennai APMC,Karnataka,2514.7
+2023-01-19,Potato,23.0,Koyambedu,Uttar Pradesh,4170.2
+2023-01-19,Corn,27.99,Hyderabad,Karnataka,4487.2
+2023-01-19,Wheat,33.09,Koyambedu,Gujarat,3330.1
+2023-01-19,Rice,38.52,Coimbatore APMC,Andhra Pradesh,1097.6
+2023-01-19,Soybean,57.95,Koyambedu,Maharashtra,2202.7
+2023-01-19,Cotton,72.25,Chennai APMC,Karnataka,4648.6
+2023-01-20,Tomato,51.58,Mumbai APMC,Haryana,3843.2
+2023-01-20,Potato,22.49,Coimbatore APMC,Uttar Pradesh,3346.4
+2023-01-20,Corn,30.19,Koyambedu,Karnataka,4617.5
+2023-01-20,Wheat,32.69,Hyderabad,Maharashtra,3987.9
+2023-01-20,Rice,40.38,Mumbai APMC,Andhra Pradesh,4662.3
+2023-01-20,Soybean,59.09,Koyambedu,Punjab,1916.2
+2023-01-20,Cotton,72.02,Bengaluru APMC,Rajasthan,4832.9
+2023-01-21,Tomato,51.23,Bengaluru APMC,Andhra Pradesh,1156.6
+2023-01-21,Potato,25.85,Koyambedu,Uttar Pradesh,484.0
+2023-01-21,Corn,25.48,Koyambedu,Punjab,3715.9
+2023-01-21,Wheat,34.16,Coimbatore APMC,Maharashtra,2885.6
+2023-01-21,Rice,41.28,Madurai,Punjab,4772.6
+2023-01-21,Soybean,59.06,Chennai APMC,Uttar Pradesh,356.3
+2023-01-21,Cotton,72.03,Coimbatore APMC,Haryana,4900.3
+2023-01-22,Tomato,48.93,Mumbai APMC,Punjab,3997.7
+2023-01-22,Potato,24.69,Madurai,Rajasthan,3335.5
+2023-01-22,Corn,28.35,Coimbatore APMC,Maharashtra,2006.8
+2023-01-22,Wheat,34.28,Hyderabad,Punjab,766.3
+2023-01-22,Rice,41.43,Delhi Azadpur,Andhra Pradesh,2524.2
+2023-01-22,Soybean,56.89,Hyderabad,Karnataka,3027.3
+2023-01-22,Cotton,74.26,Madurai,Tamil Nadu,3014.5
+2023-01-23,Tomato,51.36,Delhi Azadpur,Rajasthan,4952.2
+2023-01-23,Potato,22.85,Koyambedu,Uttar Pradesh,4984.4
+2023-01-23,Corn,30.72,Hyderabad,Andhra Pradesh,2500.4
+2023-01-23,Wheat,34.63,Bengaluru APMC,Tamil Nadu,4906.7
+2023-01-23,Rice,39.14,Mumbai APMC,Karnataka,4148.0
+2023-01-23,Soybean,58.91,Coimbatore APMC,Andhra Pradesh,3517.0
+2023-01-23,Cotton,72.46,Chennai APMC,Karnataka,4291.1
+2023-01-24,Tomato,52.12,Bengaluru APMC,Uttar Pradesh,4922.7
+2023-01-24,Potato,25.68,Madurai,Tamil Nadu,2762.3
+2023-01-24,Corn,26.71,Mumbai APMC,Haryana,3405.6
+2023-01-24,Wheat,35.38,Mumbai APMC,Haryana,1985.8
+2023-01-24,Rice,41.56,Delhi Azadpur,Uttar Pradesh,3497.1
+2023-01-24,Soybean,59.17,Coimbatore APMC,Rajasthan,1999.2
+2023-01-24,Cotton,76.78,Madurai,Punjab,3773.7
+2023-01-25,Tomato,50.59,Chennai APMC,Uttar Pradesh,2314.8
+2023-01-25,Potato,22.82,Madurai,Karnataka,2237.3
+2023-01-25,Corn,26.62,Hyderabad,Uttar Pradesh,4491.2
+2023-01-25,Wheat,32.73,Coimbatore APMC,Andhra Pradesh,4031.6
+2023-01-25,Rice,40.84,Coimbatore APMC,Tamil Nadu,1843.0
+2023-01-25,Soybean,58.47,Koyambedu,Karnataka,1914.0
+2023-01-25,Cotton,74.37,Bengaluru APMC,Karnataka,4633.6
+2023-01-26,Tomato,52.21,Koyambedu,Punjab,4872.1
+2023-01-26,Potato,23.98,Madurai,Tamil Nadu,630.9
+2023-01-26,Corn,30.15,Mumbai APMC,Haryana,4850.1
+2023-01-26,Wheat,33.57,Bengaluru APMC,Andhra Pradesh,218.3
+2023-01-26,Rice,45.05,Coimbatore APMC,Haryana,2468.7
+2023-01-26,Soybean,58.9,Madurai,Haryana,3890.5
+2023-01-26,Cotton,72.68,Koyambedu,Gujarat,4331.2
+2023-01-27,Tomato,49.37,Bengaluru APMC,Uttar Pradesh,3180.1
+2023-01-27,Potato,24.7,Hyderabad,Punjab,107.4
+2023-01-27,Corn,27.64,Koyambedu,Maharashtra,654.2
+2023-01-27,Wheat,35.05,Coimbatore APMC,Tamil Nadu,2954.9
+2023-01-27,Rice,41.69,Hyderabad,Uttar Pradesh,3483.9
+2023-01-27,Soybean,57.87,Koyambedu,Karnataka,1950.6
+2023-01-27,Cotton,72.71,Bengaluru APMC,Uttar Pradesh,2878.5
+2023-01-28,Tomato,48.71,Koyambedu,Punjab,364.3
+2023-01-28,Potato,23.31,Madurai,Haryana,4073.7
+2023-01-28,Corn,29.27,Chennai APMC,Haryana,2802.5
+2023-01-28,Wheat,34.31,Hyderabad,Maharashtra,2618.6
+2023-01-28,Rice,39.12,Koyambedu,Andhra Pradesh,4830.1
+2023-01-28,Soybean,58.24,Koyambedu,Karnataka,4316.9
+2023-01-28,Cotton,74.56,Madurai,Tamil Nadu,2795.9
+2023-01-29,Tomato,49.66,Mumbai APMC,Maharashtra,243.8
+2023-01-29,Potato,24.22,Coimbatore APMC,Karnataka,484.7
+2023-01-29,Corn,28.08,Delhi Azadpur,Tamil Nadu,468.8
+2023-01-29,Wheat,32.28,Koyambedu,Rajasthan,1528.0
+2023-01-29,Rice,41.53,Madurai,Haryana,4886.7
+2023-01-29,Soybean,58.83,Chennai APMC,Andhra Pradesh,1538.0
+2023-01-29,Cotton,75.62,Delhi Azadpur,Rajasthan,2252.4
+2023-01-30,Tomato,52.58,Hyderabad,Punjab,2637.2
+2023-01-30,Potato,21.93,Mumbai APMC,Rajasthan,2577.4
+2023-01-30,Corn,26.59,Koyambedu,Tamil Nadu,1223.6
+2023-01-30,Wheat,34.77,Coimbatore APMC,Karnataka,1533.6
+2023-01-30,Rice,41.77,Coimbatore APMC,Karnataka,3030.6
+2023-01-30,Soybean,58.77,Coimbatore APMC,Punjab,1423.1
+2023-01-30,Cotton,79.77,Bengaluru APMC,Maharashtra,2771.8
+2023-01-31,Tomato,51.85,Delhi Azadpur,Haryana,3266.4
+2023-01-31,Potato,25.7,Madurai,Haryana,2307.5
+2023-01-31,Corn,29.43,Delhi Azadpur,Haryana,4704.0
+2023-01-31,Wheat,34.98,Madurai,Rajasthan,1058.6
+2023-01-31,Rice,40.53,Delhi Azadpur,Andhra Pradesh,3586.5
+2023-01-31,Soybean,59.14,Madurai,Haryana,4116.8
+2023-01-31,Cotton,72.84,Mumbai APMC,Haryana,1925.8
+2023-02-01,Tomato,50.64,Coimbatore APMC,Maharashtra,1387.1
+2023-02-01,Potato,23.27,Koyambedu,Rajasthan,2063.6
+2023-02-01,Corn,28.12,Mumbai APMC,Maharashtra,1846.0
+2023-02-01,Wheat,37.47,Mumbai APMC,Uttar Pradesh,774.3
+2023-02-01,Rice,38.2,Coimbatore APMC,Uttar Pradesh,98.8
+2023-02-01,Soybean,59.03,Bengaluru APMC,Andhra Pradesh,1924.2
+2023-02-01,Cotton,71.58,Koyambedu,Maharashtra,919.9
+2023-02-02,Tomato,50.29,Delhi Azadpur,Gujarat,522.9
+2023-02-02,Potato,25.63,Mumbai APMC,Uttar Pradesh,2780.1
+2023-02-02,Corn,28.1,Koyambedu,Tamil Nadu,895.2
+2023-02-02,Wheat,32.38,Bengaluru APMC,Karnataka,1758.6
+2023-02-02,Rice,39.93,Bengaluru APMC,Gujarat,2981.9
+2023-02-02,Soybean,59.02,Delhi Azadpur,Tamil Nadu,3449.0
+2023-02-02,Cotton,72.9,Madurai,Karnataka,756.2
+2023-02-03,Tomato,51.32,Delhi Azadpur,Tamil Nadu,4596.3
+2023-02-03,Potato,24.07,Mumbai APMC,Andhra Pradesh,3407.2
+2023-02-03,Corn,27.02,Bengaluru APMC,Gujarat,956.4
+2023-02-03,Wheat,37.21,Mumbai APMC,Gujarat,2536.0
+2023-02-03,Rice,41.95,Delhi Azadpur,Haryana,2626.9
+2023-02-03,Soybean,54.96,Coimbatore APMC,Uttar Pradesh,3196.4
+2023-02-03,Cotton,74.28,Koyambedu,Uttar Pradesh,2062.2
+2023-02-04,Tomato,50.0,Mumbai APMC,Maharashtra,3191.6
+2023-02-04,Potato,25.27,Koyambedu,Andhra Pradesh,4727.1
+2023-02-04,Corn,26.8,Madurai,Tamil Nadu,468.7
+2023-02-04,Wheat,33.82,Delhi Azadpur,Rajasthan,4651.5
+2023-02-04,Rice,41.75,Chennai APMC,Haryana,3401.3
+2023-02-04,Soybean,59.29,Madurai,Gujarat,2514.1
+2023-02-04,Cotton,72.19,Koyambedu,Haryana,118.8
+2023-02-05,Tomato,50.49,Coimbatore APMC,Tamil Nadu,3585.1
+2023-02-05,Potato,23.28,Mumbai APMC,Andhra Pradesh,4971.4
+2023-02-05,Corn,27.01,Chennai APMC,Gujarat,4825.0
+2023-02-05,Wheat,36.64,Coimbatore APMC,Karnataka,421.9
+2023-02-05,Rice,41.59,Madurai,Rajasthan,1798.8
+2023-02-05,Soybean,56.1,Chennai APMC,Haryana,2502.8
+2023-02-05,Cotton,75.36,Madurai,Punjab,4850.2
+2023-02-06,Tomato,54.16,Mumbai APMC,Andhra Pradesh,4167.0
+2023-02-06,Potato,25.53,Koyambedu,Uttar Pradesh,1530.9
+2023-02-06,Corn,25.7,Delhi Azadpur,Uttar Pradesh,1104.7
+2023-02-06,Wheat,33.25,Bengaluru APMC,Andhra Pradesh,4619.1
+2023-02-06,Rice,42.88,Chennai APMC,Gujarat,4467.8
+2023-02-06,Soybean,56.92,Hyderabad,Tamil Nadu,1810.9
+2023-02-06,Cotton,74.65,Hyderabad,Punjab,1526.8
+2023-02-07,Tomato,52.13,Koyambedu,Tamil Nadu,1781.1
+2023-02-07,Potato,22.58,Madurai,Haryana,1804.9
+2023-02-07,Corn,27.88,Koyambedu,Haryana,2485.6
+2023-02-07,Wheat,29.11,Koyambedu,Rajasthan,2595.9
+2023-02-07,Rice,39.43,Madurai,Haryana,663.0
+2023-02-07,Soybean,57.59,Hyderabad,Tamil Nadu,820.4
+2023-02-07,Cotton,72.1,Delhi Azadpur,Andhra Pradesh,2380.0
+2023-02-08,Tomato,53.41,Mumbai APMC,Uttar Pradesh,1854.3
+2023-02-08,Potato,21.81,Madurai,Rajasthan,4067.1
+2023-02-08,Corn,27.3,Koyambedu,Gujarat,3298.6
+2023-02-08,Wheat,34.16,Hyderabad,Karnataka,742.4
+2023-02-08,Rice,43.12,Bengaluru APMC,Tamil Nadu,1828.2
+2023-02-08,Soybean,55.81,Coimbatore APMC,Maharashtra,988.4
+2023-02-08,Cotton,75.7,Chennai APMC,Karnataka,2003.0
+2023-02-09,Tomato,50.96,Mumbai APMC,Tamil Nadu,843.5
+2023-02-09,Potato,22.47,Coimbatore APMC,Gujarat,4800.5
+2023-02-09,Corn,28.64,Delhi Azadpur,Maharashtra,2134.4
+2023-02-09,Wheat,34.25,Hyderabad,Karnataka,1658.2
+2023-02-09,Rice,40.05,Bengaluru APMC,Rajasthan,3643.7
+2023-02-09,Soybean,58.05,Bengaluru APMC,Karnataka,593.2
+2023-02-09,Cotton,73.37,Koyambedu,Tamil Nadu,674.3
+2023-02-10,Tomato,51.1,Mumbai APMC,Rajasthan,117.6
+2023-02-10,Potato,24.93,Coimbatore APMC,Tamil Nadu,3407.6
+2023-02-10,Corn,30.31,Mumbai APMC,Haryana,4883.4
+2023-02-10,Wheat,32.08,Chennai APMC,Haryana,2427.0
+2023-02-10,Rice,44.13,Delhi Azadpur,Gujarat,458.9
+2023-02-10,Soybean,55.0,Bengaluru APMC,Andhra Pradesh,3107.2
+2023-02-10,Cotton,73.7,Madurai,Andhra Pradesh,1441.6
+2023-02-11,Tomato,51.8,Koyambedu,Uttar Pradesh,4971.6
+2023-02-11,Potato,24.34,Coimbatore APMC,Haryana,1032.1
+2023-02-11,Corn,26.98,Koyambedu,Rajasthan,3074.9
+2023-02-11,Wheat,33.6,Coimbatore APMC,Karnataka,1185.5
+2023-02-11,Rice,40.18,Madurai,Haryana,239.9
+2023-02-11,Soybean,57.03,Coimbatore APMC,Karnataka,2160.2
+2023-02-11,Cotton,75.19,Coimbatore APMC,Maharashtra,4328.5
+2023-02-12,Tomato,51.43,Bengaluru APMC,Haryana,2648.6
+2023-02-12,Potato,22.86,Coimbatore APMC,Andhra Pradesh,1714.1
+2023-02-12,Corn,29.25,Hyderabad,Tamil Nadu,2573.8
+2023-02-12,Wheat,34.36,Chennai APMC,Uttar Pradesh,594.8
+2023-02-12,Rice,42.12,Mumbai APMC,Uttar Pradesh,4717.8
+2023-02-12,Soybean,58.84,Bengaluru APMC,Andhra Pradesh,1633.2
+2023-02-12,Cotton,72.65,Chennai APMC,Karnataka,252.4
+2023-02-13,Tomato,50.04,Chennai APMC,Punjab,1099.3
+2023-02-13,Potato,25.0,Hyderabad,Uttar Pradesh,4547.0
+2023-02-13,Corn,28.79,Koyambedu,Haryana,965.0
+2023-02-13,Wheat,33.85,Hyderabad,Punjab,1704.7
+2023-02-13,Rice,41.05,Koyambedu,Maharashtra,3361.3
+2023-02-13,Soybean,59.79,Madurai,Punjab,1834.8
+2023-02-13,Cotton,72.99,Mumbai APMC,Rajasthan,3043.3
+2023-02-14,Tomato,51.68,Coimbatore APMC,Uttar Pradesh,1089.7
+2023-02-14,Potato,23.55,Bengaluru APMC,Maharashtra,4441.6
+2023-02-14,Corn,27.53,Madurai,Maharashtra,253.1
+2023-02-14,Wheat,35.5,Coimbatore APMC,Andhra Pradesh,3538.1
+2023-02-14,Rice,42.09,Koyambedu,Maharashtra,4712.0
+2023-02-14,Soybean,59.08,Mumbai APMC,Uttar Pradesh,3640.5
+2023-02-14,Cotton,75.81,Coimbatore APMC,Rajasthan,3617.8
+2023-02-15,Tomato,50.86,Chennai APMC,Karnataka,998.9
+2023-02-15,Potato,24.86,Delhi Azadpur,Rajasthan,4876.9
+2023-02-15,Corn,27.37,Mumbai APMC,Gujarat,3167.8
+2023-02-15,Wheat,34.32,Koyambedu,Haryana,385.2
+2023-02-15,Rice,40.64,Bengaluru APMC,Rajasthan,4660.1
+2023-02-15,Soybean,57.98,Chennai APMC,Karnataka,3015.8
+2023-02-15,Cotton,74.73,Madurai,Uttar Pradesh,275.0
+2023-02-16,Tomato,49.58,Chennai APMC,Andhra Pradesh,3716.5
+2023-02-16,Potato,26.95,Bengaluru APMC,Gujarat,3439.2
+2023-02-16,Corn,26.3,Koyambedu,Karnataka,2216.8
+2023-02-16,Wheat,31.99,Bengaluru APMC,Rajasthan,3907.9
+2023-02-16,Rice,42.54,Bengaluru APMC,Uttar Pradesh,1074.3
+2023-02-16,Soybean,59.0,Chennai APMC,Karnataka,2880.9
+2023-02-16,Cotton,74.74,Chennai APMC,Rajasthan,2304.4
+2023-02-17,Tomato,51.72,Delhi Azadpur,Uttar Pradesh,4269.8
+2023-02-17,Potato,23.76,Delhi Azadpur,Uttar Pradesh,2783.1
+2023-02-17,Corn,26.43,Madurai,Andhra Pradesh,275.8
+2023-02-17,Wheat,33.89,Coimbatore APMC,Uttar Pradesh,243.5
+2023-02-17,Rice,39.77,Madurai,Uttar Pradesh,4639.9
+2023-02-17,Soybean,59.24,Delhi Azadpur,Tamil Nadu,3229.9
+2023-02-17,Cotton,73.56,Coimbatore APMC,Andhra Pradesh,2696.2
+2023-02-18,Tomato,49.51,Chennai APMC,Punjab,3181.8
+2023-02-18,Potato,23.27,Mumbai APMC,Punjab,462.1
+2023-02-18,Corn,28.37,Delhi Azadpur,Karnataka,2071.3
+2023-02-18,Wheat,32.91,Delhi Azadpur,Punjab,4927.0
+2023-02-18,Rice,39.52,Chennai APMC,Punjab,1135.4
+2023-02-18,Soybean,58.12,Delhi Azadpur,Karnataka,1317.1
+2023-02-18,Cotton,74.12,Chennai APMC,Rajasthan,3303.7
+2023-02-19,Tomato,49.96,Koyambedu,Haryana,4731.0
+2023-02-19,Potato,23.02,Delhi Azadpur,Rajasthan,1070.5
+2023-02-19,Corn,28.07,Hyderabad,Andhra Pradesh,1655.1
+2023-02-19,Wheat,31.55,Coimbatore APMC,Haryana,820.4
+2023-02-19,Rice,38.61,Coimbatore APMC,Haryana,1874.8
+2023-02-19,Soybean,56.64,Hyderabad,Maharashtra,2505.0
+2023-02-19,Cotton,73.4,Hyderabad,Karnataka,4087.2
+2023-02-20,Tomato,51.16,Madurai,Andhra Pradesh,2869.8
+2023-02-20,Potato,25.9,Madurai,Uttar Pradesh,154.2
+2023-02-20,Corn,28.98,Madurai,Karnataka,4096.6
+2023-02-20,Wheat,33.45,Coimbatore APMC,Maharashtra,760.4
+2023-02-20,Rice,40.66,Bengaluru APMC,Andhra Pradesh,2302.4
+2023-02-20,Soybean,56.19,Bengaluru APMC,Maharashtra,3635.3
+2023-02-20,Cotton,73.66,Madurai,Tamil Nadu,3036.3
+2023-02-21,Tomato,50.22,Bengaluru APMC,Haryana,152.5
+2023-02-21,Potato,24.14,Chennai APMC,Tamil Nadu,704.3
+2023-02-21,Corn,26.42,Koyambedu,Uttar Pradesh,756.0
+2023-02-21,Wheat,34.44,Chennai APMC,Tamil Nadu,4790.2
+2023-02-21,Rice,42.96,Koyambedu,Rajasthan,3693.9
+2023-02-21,Soybean,57.49,Mumbai APMC,Maharashtra,1051.5
+2023-02-21,Cotton,74.26,Hyderabad,Gujarat,4086.6
+2023-02-22,Tomato,51.66,Delhi Azadpur,Punjab,2420.6
+2023-02-22,Potato,23.02,Coimbatore APMC,Tamil Nadu,2740.5
+2023-02-22,Corn,27.96,Delhi Azadpur,Rajasthan,659.2
+2023-02-22,Wheat,33.64,Chennai APMC,Maharashtra,2746.0
+2023-02-22,Rice,40.77,Koyambedu,Rajasthan,4438.0
+2023-02-22,Soybean,56.46,Bengaluru APMC,Karnataka,56.0
+2023-02-22,Cotton,73.66,Coimbatore APMC,Tamil Nadu,1172.0
+2023-02-23,Tomato,51.33,Bengaluru APMC,Karnataka,1798.9
+2023-02-23,Potato,25.76,Delhi Azadpur,Andhra Pradesh,4612.4
+2023-02-23,Corn,29.02,Bengaluru APMC,Maharashtra,2484.5
+2023-02-23,Wheat,36.81,Koyambedu,Andhra Pradesh,553.6
+2023-02-23,Rice,39.43,Delhi Azadpur,Punjab,427.6
+2023-02-23,Soybean,58.89,Mumbai APMC,Maharashtra,1834.4
+2023-02-23,Cotton,73.86,Koyambedu,Tamil Nadu,3042.3
+2023-02-24,Tomato,53.83,Madurai,Haryana,2675.9
+2023-02-24,Potato,22.33,Madurai,Haryana,793.6
+2023-02-24,Corn,26.29,Delhi Azadpur,Uttar Pradesh,1774.5
+2023-02-24,Wheat,32.65,Koyambedu,Uttar Pradesh,4585.4
+2023-02-24,Rice,37.36,Mumbai APMC,Uttar Pradesh,4063.1
+2023-02-24,Soybean,56.76,Koyambedu,Tamil Nadu,4315.5
+2023-02-24,Cotton,72.41,Madurai,Karnataka,1635.3
+2023-02-25,Tomato,50.73,Bengaluru APMC,Gujarat,3620.7
+2023-02-25,Potato,24.02,Hyderabad,Maharashtra,610.2
+2023-02-25,Corn,30.32,Bengaluru APMC,Uttar Pradesh,766.1
+2023-02-25,Wheat,34.93,Mumbai APMC,Karnataka,950.3
+2023-02-25,Rice,39.64,Bengaluru APMC,Punjab,1630.6
+2023-02-25,Soybean,56.16,Bengaluru APMC,Gujarat,3482.4
+2023-02-25,Cotton,74.24,Bengaluru APMC,Punjab,734.2
+2023-02-26,Tomato,48.48,Coimbatore APMC,Haryana,2122.4
+2023-02-26,Potato,26.21,Hyderabad,Rajasthan,2692.2
+2023-02-26,Corn,29.23,Coimbatore APMC,Haryana,463.9
+2023-02-26,Wheat,32.76,Bengaluru APMC,Rajasthan,2910.5
+2023-02-26,Rice,37.89,Coimbatore APMC,Maharashtra,1214.2
+2023-02-26,Soybean,59.49,Chennai APMC,Andhra Pradesh,4969.8
+2023-02-26,Cotton,73.29,Chennai APMC,Punjab,2814.0
+2023-02-27,Tomato,52.28,Madurai,Maharashtra,344.9
+2023-02-27,Potato,21.03,Mumbai APMC,Punjab,4251.3
+2023-02-27,Corn,26.52,Madurai,Uttar Pradesh,2328.9
+2023-02-27,Wheat,33.43,Bengaluru APMC,Andhra Pradesh,1093.1
+2023-02-27,Rice,40.49,Coimbatore APMC,Tamil Nadu,3747.6
+2023-02-27,Soybean,56.75,Koyambedu,Karnataka,1918.4
+2023-02-27,Cotton,74.35,Chennai APMC,Haryana,1889.8
+2023-02-28,Tomato,48.77,Koyambedu,Maharashtra,2410.3
+2023-02-28,Potato,23.16,Madurai,Tamil Nadu,777.1
+2023-02-28,Corn,27.56,Madurai,Maharashtra,1263.0
+2023-02-28,Wheat,34.15,Chennai APMC,Haryana,791.1
+2023-02-28,Rice,41.44,Madurai,Gujarat,3730.6
+2023-02-28,Soybean,55.69,Delhi Azadpur,Gujarat,2087.0
+2023-02-28,Cotton,71.07,Mumbai APMC,Gujarat,3917.9
+2023-03-01,Tomato,52.24,Chennai APMC,Uttar Pradesh,600.8
+2023-03-01,Potato,23.83,Chennai APMC,Tamil Nadu,3040.7
+2023-03-01,Corn,26.21,Madurai,Rajasthan,843.7
+2023-03-01,Wheat,35.66,Bengaluru APMC,Haryana,3415.5
+2023-03-01,Rice,40.5,Hyderabad,Rajasthan,3571.5
+2023-03-01,Soybean,59.1,Delhi Azadpur,Rajasthan,1564.9
+2023-03-01,Cotton,73.43,Coimbatore APMC,Haryana,4660.7
+2023-03-02,Tomato,53.37,Delhi Azadpur,Maharashtra,2631.4
+2023-03-02,Potato,25.91,Madurai,Andhra Pradesh,2032.0
+2023-03-02,Corn,26.91,Chennai APMC,Andhra Pradesh,1991.8
+2023-03-02,Wheat,34.74,Koyambedu,Gujarat,2413.2
+2023-03-02,Rice,41.25,Bengaluru APMC,Haryana,865.9
+2023-03-02,Soybean,59.33,Mumbai APMC,Haryana,1013.9
+2023-03-02,Cotton,71.83,Koyambedu,Maharashtra,435.2
+2023-03-03,Tomato,51.26,Mumbai APMC,Tamil Nadu,1235.7
+2023-03-03,Potato,24.82,Madurai,Rajasthan,577.0
+2023-03-03,Corn,24.59,Coimbatore APMC,Tamil Nadu,3794.8
+2023-03-03,Wheat,31.46,Delhi Azadpur,Andhra Pradesh,2780.9
+2023-03-03,Rice,37.17,Chennai APMC,Andhra Pradesh,1382.4
+2023-03-03,Soybean,56.83,Chennai APMC,Gujarat,276.1
+2023-03-03,Cotton,74.31,Mumbai APMC,Maharashtra,4720.4
+2023-03-04,Tomato,52.43,Chennai APMC,Punjab,3770.8
+2023-03-04,Potato,23.29,Bengaluru APMC,Rajasthan,1014.7
+2023-03-04,Corn,29.62,Bengaluru APMC,Punjab,4870.6
+2023-03-04,Wheat,31.11,Koyambedu,Punjab,2066.1
+2023-03-04,Rice,37.62,Koyambedu,Rajasthan,4047.1
+2023-03-04,Soybean,57.1,Madurai,Tamil Nadu,2956.5
+2023-03-04,Cotton,73.75,Bengaluru APMC,Gujarat,2952.5
+2023-03-05,Tomato,50.08,Chennai APMC,Uttar Pradesh,848.1
+2023-03-05,Potato,20.02,Hyderabad,Maharashtra,4431.8
+2023-03-05,Corn,26.99,Koyambedu,Andhra Pradesh,4427.8
+2023-03-05,Wheat,31.17,Madurai,Karnataka,4967.4
+2023-03-05,Rice,41.13,Mumbai APMC,Gujarat,3937.5
+2023-03-05,Soybean,57.68,Mumbai APMC,Uttar Pradesh,1833.6
+2023-03-05,Cotton,71.72,Bengaluru APMC,Tamil Nadu,4458.9
+2023-03-06,Tomato,49.3,Bengaluru APMC,Andhra Pradesh,1083.7
+2023-03-06,Potato,21.48,Koyambedu,Karnataka,2856.2
+2023-03-06,Corn,26.98,Hyderabad,Maharashtra,4033.4
+2023-03-06,Wheat,34.5,Madurai,Uttar Pradesh,2758.3
+2023-03-06,Rice,38.59,Koyambedu,Gujarat,515.9
+2023-03-06,Soybean,57.83,Mumbai APMC,Karnataka,4673.6
+2023-03-06,Cotton,72.28,Madurai,Maharashtra,1436.6
+2023-03-07,Tomato,48.83,Mumbai APMC,Punjab,491.7
+2023-03-07,Potato,22.86,Madurai,Gujarat,1326.8
+2023-03-07,Corn,25.46,Hyderabad,Uttar Pradesh,3827.6
+2023-03-07,Wheat,32.19,Hyderabad,Karnataka,4702.2
+2023-03-07,Rice,38.22,Hyderabad,Tamil Nadu,1849.2
+2023-03-07,Soybean,59.96,Delhi Azadpur,Haryana,2074.7
+2023-03-07,Cotton,73.07,Madurai,Gujarat,1865.3
+2023-03-08,Tomato,48.91,Mumbai APMC,Punjab,463.3
+2023-03-08,Potato,23.28,Bengaluru APMC,Rajasthan,2278.0
+2023-03-08,Corn,26.79,Chennai APMC,Tamil Nadu,3718.2
+2023-03-08,Wheat,32.63,Coimbatore APMC,Rajasthan,89.3
+2023-03-08,Rice,40.88,Koyambedu,Uttar Pradesh,1910.3
+2023-03-08,Soybean,58.09,Bengaluru APMC,Maharashtra,1154.1
+2023-03-08,Cotton,72.16,Hyderabad,Maharashtra,1777.2
+2023-03-09,Tomato,49.04,Hyderabad,Rajasthan,4505.6
+2023-03-09,Potato,22.49,Hyderabad,Maharashtra,474.8
+2023-03-09,Corn,23.45,Koyambedu,Haryana,3852.7
+2023-03-09,Wheat,30.63,Coimbatore APMC,Haryana,1677.2
+2023-03-09,Rice,41.95,Mumbai APMC,Punjab,4982.4
+2023-03-09,Soybean,59.37,Hyderabad,Andhra Pradesh,3526.3
+2023-03-09,Cotton,72.53,Hyderabad,Maharashtra,1428.0
+2023-03-10,Tomato,50.7,Chennai APMC,Rajasthan,820.9
+2023-03-10,Potato,23.31,Hyderabad,Karnataka,3219.1
+2023-03-10,Corn,31.46,Mumbai APMC,Tamil Nadu,4939.7
+2023-03-10,Wheat,34.52,Bengaluru APMC,Tamil Nadu,4685.5
+2023-03-10,Rice,39.65,Mumbai APMC,Haryana,4893.9
+2023-03-10,Soybean,55.41,Coimbatore APMC,Tamil Nadu,1096.9
+2023-03-10,Cotton,70.43,Chennai APMC,Haryana,1385.7
+2023-03-11,Tomato,50.08,Madurai,Maharashtra,751.6
+2023-03-11,Potato,21.64,Delhi Azadpur,Haryana,454.5
+2023-03-11,Corn,24.64,Hyderabad,Haryana,2647.7
+2023-03-11,Wheat,31.81,Delhi Azadpur,Karnataka,4161.2
+2023-03-11,Rice,38.15,Koyambedu,Haryana,1743.0
+2023-03-11,Soybean,59.31,Delhi Azadpur,Karnataka,1033.1
+2023-03-11,Cotton,74.1,Bengaluru APMC,Gujarat,2403.7
+2023-03-12,Tomato,49.7,Madurai,Haryana,1805.7
+2023-03-12,Potato,24.93,Bengaluru APMC,Tamil Nadu,2826.5
+2023-03-12,Corn,26.83,Coimbatore APMC,Maharashtra,3627.5
+2023-03-12,Wheat,31.42,Madurai,Punjab,3337.1
+2023-03-12,Rice,42.0,Mumbai APMC,Tamil Nadu,795.0
+2023-03-12,Soybean,57.52,Hyderabad,Karnataka,2522.3
+2023-03-12,Cotton,71.16,Mumbai APMC,Maharashtra,3970.5
+2023-03-13,Tomato,49.36,Bengaluru APMC,Uttar Pradesh,2627.4
+2023-03-13,Potato,21.34,Chennai APMC,Gujarat,4719.5
+2023-03-13,Corn,24.58,Madurai,Gujarat,3212.6
+2023-03-13,Wheat,34.04,Koyambedu,Tamil Nadu,1132.2
+2023-03-13,Rice,42.51,Coimbatore APMC,Haryana,3497.4
+2023-03-13,Soybean,54.55,Madurai,Haryana,1119.9
+2023-03-13,Cotton,73.49,Coimbatore APMC,Andhra Pradesh,4860.1
+2023-03-14,Tomato,48.61,Chennai APMC,Punjab,4078.2
+2023-03-14,Potato,21.85,Chennai APMC,Uttar Pradesh,4488.4
+2023-03-14,Corn,25.69,Koyambedu,Gujarat,3262.1
+2023-03-14,Wheat,31.29,Hyderabad,Haryana,2081.4
+2023-03-14,Rice,39.66,Mumbai APMC,Rajasthan,2158.0
+2023-03-14,Soybean,55.34,Mumbai APMC,Maharashtra,4635.4
+2023-03-14,Cotton,72.99,Hyderabad,Haryana,1897.0
+2023-03-15,Tomato,49.44,Madurai,Rajasthan,2207.6
+2023-03-15,Potato,22.16,Delhi Azadpur,Haryana,3188.8
+2023-03-15,Corn,25.15,Koyambedu,Maharashtra,4039.4
+2023-03-15,Wheat,31.65,Koyambedu,Maharashtra,3265.6
+2023-03-15,Rice,40.65,Bengaluru APMC,Maharashtra,2507.2
+2023-03-15,Soybean,57.27,Koyambedu,Gujarat,2541.6
+2023-03-15,Cotton,71.05,Chennai APMC,Uttar Pradesh,4265.9
+2023-03-16,Tomato,49.6,Coimbatore APMC,Andhra Pradesh,3895.6
+2023-03-16,Potato,23.57,Bengaluru APMC,Maharashtra,1018.0
+2023-03-16,Corn,23.94,Hyderabad,Maharashtra,1785.5
+2023-03-16,Wheat,33.26,Hyderabad,Haryana,4544.6
+2023-03-16,Rice,38.45,Bengaluru APMC,Tamil Nadu,4701.1
+2023-03-16,Soybean,57.3,Coimbatore APMC,Rajasthan,1453.8
+2023-03-16,Cotton,71.3,Delhi Azadpur,Uttar Pradesh,4200.5
+2023-03-17,Tomato,46.67,Bengaluru APMC,Andhra Pradesh,70.6
+2023-03-17,Potato,19.94,Bengaluru APMC,Tamil Nadu,126.9
+2023-03-17,Corn,26.45,Madurai,Punjab,4211.8
+2023-03-17,Wheat,32.77,Mumbai APMC,Punjab,893.5
+2023-03-17,Rice,38.02,Bengaluru APMC,Andhra Pradesh,2800.9
+2023-03-17,Soybean,57.34,Bengaluru APMC,Andhra Pradesh,3100.5
+2023-03-17,Cotton,69.89,Bengaluru APMC,Tamil Nadu,4016.6
+2023-03-18,Tomato,49.21,Bengaluru APMC,Karnataka,4700.0
+2023-03-18,Potato,20.49,Bengaluru APMC,Karnataka,2045.4
+2023-03-18,Corn,25.33,Mumbai APMC,Rajasthan,834.3
+2023-03-18,Wheat,32.38,Coimbatore APMC,Maharashtra,3564.6
+2023-03-18,Rice,38.02,Madurai,Rajasthan,635.9
+2023-03-18,Soybean,55.73,Bengaluru APMC,Uttar Pradesh,4194.8
+2023-03-18,Cotton,73.82,Madurai,Punjab,1058.6
+2023-03-19,Tomato,48.37,Koyambedu,Tamil Nadu,2215.2
+2023-03-19,Potato,23.49,Madurai,Tamil Nadu,3109.6
+2023-03-19,Corn,24.54,Koyambedu,Haryana,175.2
+2023-03-19,Wheat,33.03,Madurai,Gujarat,3190.6
+2023-03-19,Rice,41.4,Mumbai APMC,Karnataka,1236.6
+2023-03-19,Soybean,52.53,Coimbatore APMC,Uttar Pradesh,1009.5
+2023-03-19,Cotton,71.04,Coimbatore APMC,Haryana,3863.4
+2023-03-20,Tomato,50.03,Chennai APMC,Uttar Pradesh,460.7
+2023-03-20,Potato,21.86,Madurai,Tamil Nadu,3210.0
+2023-03-20,Corn,26.72,Koyambedu,Maharashtra,2322.7
+2023-03-20,Wheat,31.25,Koyambedu,Maharashtra,752.1
+2023-03-20,Rice,39.29,Delhi Azadpur,Karnataka,509.2
+2023-03-20,Soybean,55.93,Hyderabad,Punjab,4568.0
+2023-03-20,Cotton,73.91,Coimbatore APMC,Haryana,548.3
+2023-03-21,Tomato,49.47,Chennai APMC,Haryana,414.2
+2023-03-21,Potato,22.59,Koyambedu,Andhra Pradesh,3452.3
+2023-03-21,Corn,25.47,Bengaluru APMC,Punjab,3186.1
+2023-03-21,Wheat,31.35,Hyderabad,Karnataka,940.0
+2023-03-21,Rice,38.44,Chennai APMC,Karnataka,3315.3
+2023-03-21,Soybean,56.68,Chennai APMC,Maharashtra,4880.8
+2023-03-21,Cotton,71.45,Mumbai APMC,Gujarat,4974.8
+2023-03-22,Tomato,49.44,Chennai APMC,Karnataka,2632.7
+2023-03-22,Potato,25.12,Delhi Azadpur,Maharashtra,1004.6
+2023-03-22,Corn,27.32,Chennai APMC,Rajasthan,164.0
+2023-03-22,Wheat,31.52,Madurai,Andhra Pradesh,4341.0
+2023-03-22,Rice,40.81,Koyambedu,Andhra Pradesh,196.0
+2023-03-22,Soybean,55.4,Madurai,Andhra Pradesh,463.0
+2023-03-22,Cotton,68.95,Madurai,Uttar Pradesh,1404.6
+2023-03-23,Tomato,47.42,Coimbatore APMC,Maharashtra,1775.3
+2023-03-23,Potato,19.12,Delhi Azadpur,Gujarat,3738.7
+2023-03-23,Corn,25.4,Hyderabad,Haryana,2587.6
+2023-03-23,Wheat,31.96,Bengaluru APMC,Andhra Pradesh,1288.0
+2023-03-23,Rice,41.45,Coimbatore APMC,Uttar Pradesh,4811.3
+2023-03-23,Soybean,56.42,Koyambedu,Uttar Pradesh,870.0
+2023-03-23,Cotton,71.6,Coimbatore APMC,Gujarat,2195.7
+2023-03-24,Tomato,50.1,Hyderabad,Haryana,3001.8
+2023-03-24,Potato,18.54,Delhi Azadpur,Punjab,3133.4
+2023-03-24,Corn,26.21,Bengaluru APMC,Haryana,1038.6
+2023-03-24,Wheat,33.01,Mumbai APMC,Punjab,4494.6
+2023-03-24,Rice,36.63,Koyambedu,Gujarat,877.9
+2023-03-24,Soybean,57.57,Chennai APMC,Rajasthan,1302.7
+2023-03-24,Cotton,72.36,Bengaluru APMC,Uttar Pradesh,3039.2
+2023-03-25,Tomato,48.15,Mumbai APMC,Haryana,198.2
+2023-03-25,Potato,22.72,Madurai,Punjab,2175.5
+2023-03-25,Corn,29.18,Madurai,Punjab,1264.3
+2023-03-25,Wheat,32.05,Coimbatore APMC,Punjab,1891.2
+2023-03-25,Rice,39.14,Mumbai APMC,Maharashtra,97.7
+2023-03-25,Soybean,55.08,Chennai APMC,Punjab,1108.2
+2023-03-25,Cotton,70.5,Mumbai APMC,Andhra Pradesh,2830.1
+2023-03-26,Tomato,49.94,Bengaluru APMC,Uttar Pradesh,3028.9
+2023-03-26,Potato,20.41,Coimbatore APMC,Maharashtra,2826.7
+2023-03-26,Corn,25.8,Koyambedu,Haryana,3426.6
+2023-03-26,Wheat,30.98,Bengaluru APMC,Punjab,4076.3
+2023-03-26,Rice,39.41,Coimbatore APMC,Andhra Pradesh,295.8
+2023-03-26,Soybean,56.19,Hyderabad,Gujarat,281.6
+2023-03-26,Cotton,73.25,Delhi Azadpur,Haryana,640.3
+2023-03-27,Tomato,47.84,Hyderabad,Karnataka,3027.1
+2023-03-27,Potato,21.2,Bengaluru APMC,Andhra Pradesh,2903.2
+2023-03-27,Corn,24.14,Delhi Azadpur,Tamil Nadu,3236.1
+2023-03-27,Wheat,30.94,Chennai APMC,Gujarat,1457.6
+2023-03-27,Rice,39.18,Bengaluru APMC,Tamil Nadu,4484.4
+2023-03-27,Soybean,56.75,Chennai APMC,Punjab,3241.6
+2023-03-27,Cotton,70.23,Koyambedu,Gujarat,520.8
+2023-03-28,Tomato,49.83,Bengaluru APMC,Uttar Pradesh,1409.6
+2023-03-28,Potato,23.56,Mumbai APMC,Haryana,444.8
+2023-03-28,Corn,26.15,Mumbai APMC,Gujarat,3081.0
+2023-03-28,Wheat,34.34,Bengaluru APMC,Uttar Pradesh,3497.5
+2023-03-28,Rice,37.37,Hyderabad,Gujarat,4250.9
+2023-03-28,Soybean,53.66,Koyambedu,Punjab,4691.6
+2023-03-28,Cotton,68.86,Koyambedu,Tamil Nadu,1158.9
+2023-03-29,Tomato,50.69,Chennai APMC,Karnataka,570.4
+2023-03-29,Potato,22.42,Mumbai APMC,Haryana,1170.4
+2023-03-29,Corn,25.36,Koyambedu,Andhra Pradesh,3634.3
+2023-03-29,Wheat,31.86,Mumbai APMC,Rajasthan,4948.3
+2023-03-29,Rice,36.75,Chennai APMC,Uttar Pradesh,4422.4
+2023-03-29,Soybean,59.11,Chennai APMC,Maharashtra,287.6
+2023-03-29,Cotton,71.64,Delhi Azadpur,Maharashtra,1355.4
+2023-03-30,Tomato,48.52,Bengaluru APMC,Uttar Pradesh,3508.4
+2023-03-30,Potato,22.45,Madurai,Gujarat,643.5
+2023-03-30,Corn,26.08,Mumbai APMC,Karnataka,3777.5
+2023-03-30,Wheat,31.69,Bengaluru APMC,Gujarat,3357.8
+2023-03-30,Rice,37.17,Coimbatore APMC,Gujarat,3323.3
+2023-03-30,Soybean,56.06,Delhi Azadpur,Punjab,3874.6
+2023-03-30,Cotton,74.18,Hyderabad,Andhra Pradesh,504.4
+2023-03-31,Tomato,50.29,Delhi Azadpur,Maharashtra,1797.4
+2023-03-31,Potato,23.66,Coimbatore APMC,Andhra Pradesh,3490.1
+2023-03-31,Corn,24.5,Koyambedu,Gujarat,348.3
+2023-03-31,Wheat,29.79,Chennai APMC,Andhra Pradesh,2367.3
+2023-03-31,Rice,38.08,Bengaluru APMC,Andhra Pradesh,2463.8
+2023-03-31,Soybean,55.36,Mumbai APMC,Andhra Pradesh,4079.3
+2023-03-31,Cotton,72.91,Mumbai APMC,Uttar Pradesh,3557.1
+2023-04-01,Tomato,45.65,Madurai,Rajasthan,573.0
+2023-04-01,Potato,23.48,Madurai,Andhra Pradesh,4587.7
+2023-04-01,Corn,24.95,Bengaluru APMC,Gujarat,4345.9
+2023-04-01,Wheat,30.54,Coimbatore APMC,Haryana,980.4
+2023-04-01,Rice,36.67,Delhi Azadpur,Haryana,862.8
+2023-04-01,Soybean,52.7,Delhi Azadpur,Maharashtra,779.1
+2023-04-01,Cotton,72.42,Koyambedu,Maharashtra,1240.8
+2023-04-02,Tomato,48.21,Hyderabad,Karnataka,1370.4
+2023-04-02,Potato,19.16,Hyderabad,Rajasthan,2290.6
+2023-04-02,Corn,23.15,Delhi Azadpur,Maharashtra,4638.3
+2023-04-02,Wheat,30.59,Koyambedu,Punjab,2185.8
+2023-04-02,Rice,40.6,Madurai,Haryana,2535.8
+2023-04-02,Soybean,54.71,Mumbai APMC,Tamil Nadu,2234.6
+2023-04-02,Cotton,68.84,Mumbai APMC,Maharashtra,293.2
+2023-04-03,Tomato,47.64,Bengaluru APMC,Haryana,1010.0
+2023-04-03,Potato,20.6,Coimbatore APMC,Haryana,924.4
+2023-04-03,Corn,20.96,Delhi Azadpur,Rajasthan,3056.9
+2023-04-03,Wheat,30.93,Bengaluru APMC,Maharashtra,3421.7
+2023-04-03,Rice,37.66,Coimbatore APMC,Maharashtra,1136.9
+2023-04-03,Soybean,56.05,Chennai APMC,Tamil Nadu,2897.4
+2023-04-03,Cotton,73.78,Coimbatore APMC,Maharashtra,2684.1
+2023-04-04,Tomato,49.61,Delhi Azadpur,Andhra Pradesh,4418.9
+2023-04-04,Potato,20.51,Bengaluru APMC,Haryana,1994.8
+2023-04-04,Corn,23.26,Coimbatore APMC,Uttar Pradesh,2501.1
+2023-04-04,Wheat,34.78,Madurai,Andhra Pradesh,1770.8
+2023-04-04,Rice,38.01,Delhi Azadpur,Uttar Pradesh,3682.7
+2023-04-04,Soybean,54.94,Koyambedu,Karnataka,2541.0
+2023-04-04,Cotton,70.88,Hyderabad,Uttar Pradesh,4270.2
+2023-04-05,Tomato,48.12,Coimbatore APMC,Karnataka,1609.8
+2023-04-05,Potato,20.61,Koyambedu,Karnataka,977.4
+2023-04-05,Corn,23.97,Hyderabad,Karnataka,4813.1
+2023-04-05,Wheat,30.01,Hyderabad,Haryana,1703.6
+2023-04-05,Rice,37.78,Madurai,Uttar Pradesh,4412.2
+2023-04-05,Soybean,54.01,Madurai,Tamil Nadu,2990.3
+2023-04-05,Cotton,69.76,Hyderabad,Tamil Nadu,2467.1
+2023-04-06,Tomato,47.9,Coimbatore APMC,Gujarat,591.5
+2023-04-06,Potato,20.35,Chennai APMC,Uttar Pradesh,4185.0
+2023-04-06,Corn,26.99,Madurai,Karnataka,3887.5
+2023-04-06,Wheat,26.76,Koyambedu,Uttar Pradesh,4029.3
+2023-04-06,Rice,39.37,Mumbai APMC,Gujarat,2478.8
+2023-04-06,Soybean,56.6,Mumbai APMC,Rajasthan,1323.8
+2023-04-06,Cotton,67.63,Hyderabad,Uttar Pradesh,1853.2
+2023-04-07,Tomato,47.13,Chennai APMC,Punjab,1540.6
+2023-04-07,Potato,20.09,Mumbai APMC,Rajasthan,3883.9
+2023-04-07,Corn,22.53,Hyderabad,Maharashtra,1386.2
+2023-04-07,Wheat,29.48,Chennai APMC,Karnataka,4894.3
+2023-04-07,Rice,35.98,Coimbatore APMC,Karnataka,1818.1
+2023-04-07,Soybean,57.27,Chennai APMC,Andhra Pradesh,2909.0
+2023-04-07,Cotton,72.05,Bengaluru APMC,Punjab,1071.2
+2023-04-08,Tomato,49.46,Koyambedu,Andhra Pradesh,4607.2
+2023-04-08,Potato,21.63,Bengaluru APMC,Maharashtra,4829.0
+2023-04-08,Corn,22.86,Hyderabad,Rajasthan,916.0
+2023-04-08,Wheat,29.76,Mumbai APMC,Punjab,1985.6
+2023-04-08,Rice,38.28,Bengaluru APMC,Uttar Pradesh,1581.2
+2023-04-08,Soybean,52.72,Chennai APMC,Rajasthan,3524.1
+2023-04-08,Cotton,71.62,Koyambedu,Haryana,3986.9
+2023-04-09,Tomato,47.1,Mumbai APMC,Uttar Pradesh,595.4
+2023-04-09,Potato,19.89,Chennai APMC,Gujarat,4639.8
+2023-04-09,Corn,25.52,Madurai,Gujarat,3420.6
+2023-04-09,Wheat,31.12,Delhi Azadpur,Rajasthan,3338.4
+2023-04-09,Rice,36.91,Delhi Azadpur,Gujarat,1476.9
+2023-04-09,Soybean,56.2,Delhi Azadpur,Tamil Nadu,2296.6
+2023-04-09,Cotton,68.83,Coimbatore APMC,Uttar Pradesh,4136.1
+2023-04-10,Tomato,48.29,Koyambedu,Tamil Nadu,2467.4
+2023-04-10,Potato,21.25,Chennai APMC,Haryana,1793.7
+2023-04-10,Corn,23.9,Chennai APMC,Tamil Nadu,1294.6
+2023-04-10,Wheat,30.85,Mumbai APMC,Uttar Pradesh,3937.1
+2023-04-10,Rice,35.48,Madurai,Maharashtra,3580.3
+2023-04-10,Soybean,55.75,Madurai,Andhra Pradesh,2188.7
+2023-04-10,Cotton,70.08,Koyambedu,Uttar Pradesh,1133.3
+2023-04-11,Tomato,46.48,Hyderabad,Punjab,1281.2
+2023-04-11,Potato,21.84,Bengaluru APMC,Haryana,2025.6
+2023-04-11,Corn,23.21,Koyambedu,Uttar Pradesh,4605.0
+2023-04-11,Wheat,28.15,Delhi Azadpur,Karnataka,2841.3
+2023-04-11,Rice,34.93,Mumbai APMC,Karnataka,3432.4
+2023-04-11,Soybean,55.18,Coimbatore APMC,Uttar Pradesh,721.7
+2023-04-11,Cotton,68.35,Coimbatore APMC,Uttar Pradesh,1559.7
+2023-04-12,Tomato,49.8,Delhi Azadpur,Gujarat,2751.9
+2023-04-12,Potato,17.05,Bengaluru APMC,Haryana,525.4
+2023-04-12,Corn,26.71,Hyderabad,Punjab,2543.9
+2023-04-12,Wheat,30.49,Mumbai APMC,Gujarat,1803.3
+2023-04-12,Rice,37.03,Hyderabad,Haryana,4809.2
+2023-04-12,Soybean,53.35,Hyderabad,Tamil Nadu,4567.2
+2023-04-12,Cotton,70.77,Chennai APMC,Haryana,487.7
+2023-04-13,Tomato,47.02,Madurai,Uttar Pradesh,3943.8
+2023-04-13,Potato,21.73,Mumbai APMC,Karnataka,3123.4
+2023-04-13,Corn,24.25,Delhi Azadpur,Tamil Nadu,3788.9
+2023-04-13,Wheat,30.3,Bengaluru APMC,Karnataka,2044.6
+2023-04-13,Rice,36.53,Chennai APMC,Gujarat,4047.0
+2023-04-13,Soybean,53.99,Hyderabad,Tamil Nadu,469.1
+2023-04-13,Cotton,70.54,Delhi Azadpur,Maharashtra,1700.7
+2023-04-14,Tomato,44.41,Koyambedu,Uttar Pradesh,2848.9
+2023-04-14,Potato,17.95,Mumbai APMC,Tamil Nadu,651.1
+2023-04-14,Corn,25.09,Chennai APMC,Andhra Pradesh,2605.5
+2023-04-14,Wheat,30.23,Hyderabad,Karnataka,1156.5
+2023-04-14,Rice,36.7,Madurai,Uttar Pradesh,3159.8
+2023-04-14,Soybean,54.0,Chennai APMC,Gujarat,3137.1
+2023-04-14,Cotton,70.5,Coimbatore APMC,Maharashtra,382.4
+2023-04-15,Tomato,46.07,Madurai,Maharashtra,2623.1
+2023-04-15,Potato,18.71,Coimbatore APMC,Andhra Pradesh,562.9
+2023-04-15,Corn,24.17,Chennai APMC,Rajasthan,2246.9
+2023-04-15,Wheat,28.41,Chennai APMC,Maharashtra,1534.6
+2023-04-15,Rice,37.49,Hyderabad,Karnataka,4110.3
+2023-04-15,Soybean,51.32,Delhi Azadpur,Gujarat,4303.6
+2023-04-15,Cotton,71.42,Koyambedu,Haryana,773.9
+2023-04-16,Tomato,47.49,Chennai APMC,Karnataka,751.3
+2023-04-16,Potato,20.16,Coimbatore APMC,Karnataka,2582.0
+2023-04-16,Corn,25.25,Coimbatore APMC,Gujarat,2428.3
+2023-04-16,Wheat,32.28,Delhi Azadpur,Maharashtra,4797.5
+2023-04-16,Rice,38.3,Hyderabad,Punjab,3355.1
+2023-04-16,Soybean,51.02,Bengaluru APMC,Haryana,3503.4
+2023-04-16,Cotton,67.86,Koyambedu,Gujarat,2113.6
+2023-04-17,Tomato,45.74,Bengaluru APMC,Karnataka,188.5
+2023-04-17,Potato,19.72,Hyderabad,Maharashtra,2842.8
+2023-04-17,Corn,24.46,Chennai APMC,Uttar Pradesh,218.7
+2023-04-17,Wheat,28.59,Hyderabad,Tamil Nadu,4545.1
+2023-04-17,Rice,36.96,Mumbai APMC,Karnataka,2366.1
+2023-04-17,Soybean,52.55,Hyderabad,Uttar Pradesh,95.1
+2023-04-17,Cotton,68.76,Madurai,Punjab,2528.2
+2023-04-18,Tomato,44.47,Coimbatore APMC,Punjab,4517.6
+2023-04-18,Potato,18.2,Bengaluru APMC,Rajasthan,360.7
+2023-04-18,Corn,21.55,Madurai,Punjab,3296.9
+2023-04-18,Wheat,28.12,Mumbai APMC,Gujarat,3590.2
+2023-04-18,Rice,38.16,Madurai,Uttar Pradesh,3935.6
+2023-04-18,Soybean,52.16,Delhi Azadpur,Haryana,387.6
+2023-04-18,Cotton,73.53,Hyderabad,Haryana,4814.6
+2023-04-19,Tomato,47.22,Madurai,Rajasthan,3888.2
+2023-04-19,Potato,19.76,Delhi Azadpur,Karnataka,3504.0
+2023-04-19,Corn,22.19,Mumbai APMC,Haryana,384.5
+2023-04-19,Wheat,30.53,Chennai APMC,Karnataka,1196.9
+2023-04-19,Rice,35.62,Koyambedu,Gujarat,4674.5
+2023-04-19,Soybean,53.67,Hyderabad,Punjab,3811.6
+2023-04-19,Cotton,73.32,Coimbatore APMC,Maharashtra,4504.0
+2023-04-20,Tomato,46.24,Madurai,Haryana,3791.3
+2023-04-20,Potato,21.11,Bengaluru APMC,Maharashtra,356.5
+2023-04-20,Corn,22.33,Delhi Azadpur,Maharashtra,235.2
+2023-04-20,Wheat,29.33,Koyambedu,Gujarat,3828.6
+2023-04-20,Rice,39.04,Chennai APMC,Karnataka,1639.7
+2023-04-20,Soybean,52.44,Hyderabad,Haryana,709.4
+2023-04-20,Cotton,72.1,Coimbatore APMC,Andhra Pradesh,1299.8
+2023-04-21,Tomato,47.34,Hyderabad,Uttar Pradesh,1166.2
+2023-04-21,Potato,18.44,Madurai,Haryana,4078.5
+2023-04-21,Corn,24.23,Coimbatore APMC,Maharashtra,2931.4
+2023-04-21,Wheat,30.74,Koyambedu,Andhra Pradesh,214.5
+2023-04-21,Rice,37.21,Madurai,Tamil Nadu,1829.8
+2023-04-21,Soybean,50.93,Bengaluru APMC,Rajasthan,4329.2
+2023-04-21,Cotton,68.19,Mumbai APMC,Karnataka,3427.7
+2023-04-22,Tomato,45.81,Hyderabad,Andhra Pradesh,4170.4
+2023-04-22,Potato,19.07,Hyderabad,Rajasthan,1792.9
+2023-04-22,Corn,24.11,Madurai,Maharashtra,2222.4
+2023-04-22,Wheat,29.45,Bengaluru APMC,Maharashtra,2867.3
+2023-04-22,Rice,34.18,Madurai,Rajasthan,1526.2
+2023-04-22,Soybean,53.75,Koyambedu,Gujarat,1191.3
+2023-04-22,Cotton,70.1,Mumbai APMC,Tamil Nadu,1158.9
+2023-04-23,Tomato,46.92,Delhi Azadpur,Uttar Pradesh,1982.6
+2023-04-23,Potato,20.7,Mumbai APMC,Maharashtra,4368.6
+2023-04-23,Corn,24.33,Madurai,Uttar Pradesh,420.1
+2023-04-23,Wheat,29.77,Coimbatore APMC,Rajasthan,4662.5
+2023-04-23,Rice,35.97,Delhi Azadpur,Haryana,3112.3
+2023-04-23,Soybean,50.59,Koyambedu,Gujarat,4687.8
+2023-04-23,Cotton,69.72,Delhi Azadpur,Tamil Nadu,209.8
+2023-04-24,Tomato,46.29,Bengaluru APMC,Uttar Pradesh,1042.5
+2023-04-24,Potato,19.38,Chennai APMC,Karnataka,1061.0
+2023-04-24,Corn,21.06,Mumbai APMC,Tamil Nadu,1216.3
+2023-04-24,Wheat,27.36,Koyambedu,Tamil Nadu,1761.9
+2023-04-24,Rice,37.56,Koyambedu,Haryana,3010.8
+2023-04-24,Soybean,52.92,Koyambedu,Rajasthan,2419.9
+2023-04-24,Cotton,70.0,Madurai,Uttar Pradesh,3630.5
+2023-04-25,Tomato,45.92,Koyambedu,Tamil Nadu,2508.2
+2023-04-25,Potato,18.92,Coimbatore APMC,Punjab,2186.0
+2023-04-25,Corn,24.28,Delhi Azadpur,Andhra Pradesh,156.1
+2023-04-25,Wheat,28.1,Chennai APMC,Tamil Nadu,3879.4
+2023-04-25,Rice,36.02,Coimbatore APMC,Rajasthan,3060.3
+2023-04-25,Soybean,52.18,Bengaluru APMC,Tamil Nadu,2784.9
+2023-04-25,Cotton,68.22,Chennai APMC,Haryana,3840.1
+2023-04-26,Tomato,45.31,Madurai,Haryana,3521.6
+2023-04-26,Potato,19.11,Madurai,Maharashtra,2217.9
+2023-04-26,Corn,22.05,Mumbai APMC,Punjab,1008.5
+2023-04-26,Wheat,30.66,Bengaluru APMC,Tamil Nadu,1228.9
+2023-04-26,Rice,34.43,Koyambedu,Tamil Nadu,1174.3
+2023-04-26,Soybean,52.49,Chennai APMC,Tamil Nadu,4372.6
+2023-04-26,Cotton,68.11,Coimbatore APMC,Tamil Nadu,429.2
+2023-04-27,Tomato,47.84,Madurai,Gujarat,943.9
+2023-04-27,Potato,18.96,Chennai APMC,Punjab,1780.9
+2023-04-27,Corn,24.22,Coimbatore APMC,Uttar Pradesh,692.1
+2023-04-27,Wheat,26.44,Bengaluru APMC,Gujarat,3305.0
+2023-04-27,Rice,36.07,Koyambedu,Maharashtra,1288.5
+2023-04-27,Soybean,54.0,Coimbatore APMC,Gujarat,3541.0
+2023-04-27,Cotton,68.79,Mumbai APMC,Andhra Pradesh,2245.5
+2023-04-28,Tomato,47.17,Delhi Azadpur,Punjab,3912.0
+2023-04-28,Potato,17.79,Delhi Azadpur,Andhra Pradesh,2657.9
+2023-04-28,Corn,24.68,Delhi Azadpur,Punjab,3504.0
+2023-04-28,Wheat,32.02,Koyambedu,Tamil Nadu,1765.8
+2023-04-28,Rice,35.02,Bengaluru APMC,Gujarat,1434.9
+2023-04-28,Soybean,51.9,Coimbatore APMC,Karnataka,4215.1
+2023-04-28,Cotton,70.75,Coimbatore APMC,Uttar Pradesh,3722.4
+2023-04-29,Tomato,47.83,Coimbatore APMC,Maharashtra,1893.3
+2023-04-29,Potato,17.68,Madurai,Tamil Nadu,4890.7
+2023-04-29,Corn,21.83,Hyderabad,Gujarat,4767.6
+2023-04-29,Wheat,28.04,Chennai APMC,Gujarat,4189.8
+2023-04-29,Rice,33.45,Delhi Azadpur,Uttar Pradesh,2961.8
+2023-04-29,Soybean,51.09,Delhi Azadpur,Maharashtra,345.6
+2023-04-29,Cotton,66.96,Bengaluru APMC,Gujarat,143.3
+2023-04-30,Tomato,44.21,Bengaluru APMC,Haryana,2247.9
+2023-04-30,Potato,18.31,Coimbatore APMC,Andhra Pradesh,1927.7
+2023-04-30,Corn,22.71,Bengaluru APMC,Rajasthan,308.7
+2023-04-30,Wheat,30.69,Delhi Azadpur,Tamil Nadu,2730.7
+2023-04-30,Rice,33.86,Mumbai APMC,Tamil Nadu,4554.8
+2023-04-30,Soybean,53.84,Mumbai APMC,Uttar Pradesh,4060.7
+2023-04-30,Cotton,68.04,Coimbatore APMC,Tamil Nadu,1737.7
+2023-05-01,Tomato,45.18,Bengaluru APMC,Haryana,3923.9
+2023-05-01,Potato,19.27,Chennai APMC,Maharashtra,2788.8
+2023-05-01,Corn,20.57,Delhi Azadpur,Rajasthan,2344.3
+2023-05-01,Wheat,28.83,Delhi Azadpur,Karnataka,4803.5
+2023-05-01,Rice,35.51,Hyderabad,Andhra Pradesh,702.8
+2023-05-01,Soybean,53.0,Chennai APMC,Uttar Pradesh,4008.0
+2023-05-01,Cotton,68.69,Delhi Azadpur,Maharashtra,4994.1
+2023-05-02,Tomato,48.84,Delhi Azadpur,Punjab,2876.9
+2023-05-02,Potato,17.2,Chennai APMC,Uttar Pradesh,1840.4
+2023-05-02,Corn,21.36,Delhi Azadpur,Tamil Nadu,665.3
+2023-05-02,Wheat,27.22,Mumbai APMC,Uttar Pradesh,4245.6
+2023-05-02,Rice,34.32,Hyderabad,Gujarat,135.5
+2023-05-02,Soybean,51.2,Chennai APMC,Gujarat,233.2
+2023-05-02,Cotton,69.94,Mumbai APMC,Gujarat,3206.8
+2023-05-03,Tomato,47.18,Coimbatore APMC,Haryana,340.0
+2023-05-03,Potato,17.2,Koyambedu,Uttar Pradesh,4490.4
+2023-05-03,Corn,20.8,Mumbai APMC,Maharashtra,2230.2
+2023-05-03,Wheat,28.76,Delhi Azadpur,Uttar Pradesh,1334.7
+2023-05-03,Rice,34.22,Hyderabad,Karnataka,1175.7
+2023-05-03,Soybean,53.0,Madurai,Karnataka,4362.6
+2023-05-03,Cotton,68.36,Chennai APMC,Andhra Pradesh,616.5
+2023-05-04,Tomato,42.67,Chennai APMC,Karnataka,3438.0
+2023-05-04,Potato,20.27,Hyderabad,Punjab,257.7
+2023-05-04,Corn,24.64,Coimbatore APMC,Tamil Nadu,4760.9
+2023-05-04,Wheat,27.03,Delhi Azadpur,Uttar Pradesh,129.8
+2023-05-04,Rice,34.37,Mumbai APMC,Rajasthan,3605.7
+2023-05-04,Soybean,52.38,Coimbatore APMC,Punjab,590.4
+2023-05-04,Cotton,68.45,Hyderabad,Maharashtra,2579.6
+2023-05-05,Tomato,45.83,Coimbatore APMC,Andhra Pradesh,1662.7
+2023-05-05,Potato,20.86,Mumbai APMC,Haryana,403.4
+2023-05-05,Corn,21.58,Bengaluru APMC,Uttar Pradesh,758.2
+2023-05-05,Wheat,26.65,Mumbai APMC,Punjab,1708.2
+2023-05-05,Rice,32.78,Bengaluru APMC,Punjab,2379.9
+2023-05-05,Soybean,50.75,Delhi Azadpur,Tamil Nadu,843.5
+2023-05-05,Cotton,67.8,Chennai APMC,Uttar Pradesh,4655.0
+2023-05-06,Tomato,47.43,Chennai APMC,Maharashtra,3064.7
+2023-05-06,Potato,16.97,Mumbai APMC,Rajasthan,3593.1
+2023-05-06,Corn,22.08,Mumbai APMC,Andhra Pradesh,1925.3
+2023-05-06,Wheat,27.72,Chennai APMC,Karnataka,1936.4
+2023-05-06,Rice,36.52,Koyambedu,Maharashtra,4795.2
+2023-05-06,Soybean,55.53,Coimbatore APMC,Rajasthan,4989.2
+2023-05-06,Cotton,66.95,Bengaluru APMC,Rajasthan,3678.6
+2023-05-07,Tomato,43.9,Chennai APMC,Gujarat,3313.0
+2023-05-07,Potato,19.2,Hyderabad,Punjab,1382.5
+2023-05-07,Corn,22.66,Delhi Azadpur,Andhra Pradesh,1677.0
+2023-05-07,Wheat,30.41,Mumbai APMC,Andhra Pradesh,2306.3
+2023-05-07,Rice,35.51,Koyambedu,Andhra Pradesh,2252.8
+2023-05-07,Soybean,51.1,Bengaluru APMC,Punjab,444.5
+2023-05-07,Cotton,68.52,Koyambedu,Punjab,3284.0
+2023-05-08,Tomato,46.2,Coimbatore APMC,Gujarat,3942.2
+2023-05-08,Potato,18.77,Coimbatore APMC,Karnataka,4632.3
+2023-05-08,Corn,22.3,Coimbatore APMC,Haryana,3386.8
+2023-05-08,Wheat,29.14,Madurai,Uttar Pradesh,3989.5
+2023-05-08,Rice,36.29,Mumbai APMC,Punjab,633.9
+2023-05-08,Soybean,53.61,Bengaluru APMC,Haryana,2549.9
+2023-05-08,Cotton,68.51,Madurai,Gujarat,3181.5
+2023-05-09,Tomato,44.18,Coimbatore APMC,Karnataka,4388.2
+2023-05-09,Potato,17.65,Chennai APMC,Karnataka,647.9
+2023-05-09,Corn,23.24,Delhi Azadpur,Rajasthan,3571.3
+2023-05-09,Wheat,26.21,Hyderabad,Maharashtra,675.7
+2023-05-09,Rice,34.99,Chennai APMC,Haryana,168.5
+2023-05-09,Soybean,50.84,Madurai,Maharashtra,705.3
+2023-05-09,Cotton,67.48,Bengaluru APMC,Haryana,1804.1
+2023-05-10,Tomato,46.25,Bengaluru APMC,Rajasthan,1245.1
+2023-05-10,Potato,17.62,Delhi Azadpur,Maharashtra,1717.2
+2023-05-10,Corn,21.4,Mumbai APMC,Maharashtra,4971.0
+2023-05-10,Wheat,25.29,Chennai APMC,Maharashtra,3706.8
+2023-05-10,Rice,35.45,Mumbai APMC,Gujarat,4557.8
+2023-05-10,Soybean,52.3,Hyderabad,Haryana,1482.0
+2023-05-10,Cotton,70.57,Hyderabad,Karnataka,3680.5
+2023-05-11,Tomato,43.77,Koyambedu,Karnataka,4483.2
+2023-05-11,Potato,17.56,Mumbai APMC,Gujarat,1927.9
+2023-05-11,Corn,21.6,Hyderabad,Karnataka,2567.9
+2023-05-11,Wheat,29.59,Delhi Azadpur,Maharashtra,1199.7
+2023-05-11,Rice,34.08,Hyderabad,Punjab,289.0
+2023-05-11,Soybean,51.65,Bengaluru APMC,Uttar Pradesh,1647.9
+2023-05-11,Cotton,68.14,Mumbai APMC,Karnataka,4769.9
+2023-05-12,Tomato,44.41,Chennai APMC,Andhra Pradesh,2181.2
+2023-05-12,Potato,16.46,Delhi Azadpur,Punjab,542.4
+2023-05-12,Corn,21.42,Delhi Azadpur,Karnataka,636.8
+2023-05-12,Wheat,28.74,Delhi Azadpur,Gujarat,2222.6
+2023-05-12,Rice,32.59,Madurai,Uttar Pradesh,4699.1
+2023-05-12,Soybean,51.32,Delhi Azadpur,Maharashtra,4626.4
+2023-05-12,Cotton,66.08,Delhi Azadpur,Karnataka,525.1
+2023-05-13,Tomato,45.82,Madurai,Tamil Nadu,3012.0
+2023-05-13,Potato,14.74,Chennai APMC,Rajasthan,2712.7
+2023-05-13,Corn,20.18,Coimbatore APMC,Tamil Nadu,2467.4
+2023-05-13,Wheat,27.59,Chennai APMC,Punjab,1055.5
+2023-05-13,Rice,36.37,Bengaluru APMC,Gujarat,2628.4
+2023-05-13,Soybean,50.92,Hyderabad,Uttar Pradesh,4594.1
+2023-05-13,Cotton,66.19,Koyambedu,Gujarat,4450.0
+2023-05-14,Tomato,46.74,Hyderabad,Uttar Pradesh,480.0
+2023-05-14,Potato,14.75,Madurai,Uttar Pradesh,3671.6
+2023-05-14,Corn,17.62,Koyambedu,Punjab,4028.0
+2023-05-14,Wheat,27.58,Coimbatore APMC,Maharashtra,1669.2
+2023-05-14,Rice,33.17,Mumbai APMC,Uttar Pradesh,2294.6
+2023-05-14,Soybean,49.39,Koyambedu,Punjab,4466.7
+2023-05-14,Cotton,67.98,Chennai APMC,Haryana,547.2
+2023-05-15,Tomato,44.19,Mumbai APMC,Andhra Pradesh,4215.1
+2023-05-15,Potato,15.97,Chennai APMC,Tamil Nadu,1267.3
+2023-05-15,Corn,18.9,Bengaluru APMC,Andhra Pradesh,3383.1
+2023-05-15,Wheat,28.13,Delhi Azadpur,Gujarat,799.6
+2023-05-15,Rice,34.8,Madurai,Gujarat,1448.9
+2023-05-15,Soybean,50.67,Coimbatore APMC,Maharashtra,4756.6
+2023-05-15,Cotton,69.59,Coimbatore APMC,Tamil Nadu,2199.9
+2023-05-16,Tomato,42.11,Hyderabad,Rajasthan,3075.5
+2023-05-16,Potato,14.43,Madurai,Tamil Nadu,2119.9
+2023-05-16,Corn,19.68,Delhi Azadpur,Haryana,3173.6
+2023-05-16,Wheat,26.65,Coimbatore APMC,Punjab,2447.0
+2023-05-16,Rice,34.08,Madurai,Uttar Pradesh,4211.4
+2023-05-16,Soybean,50.36,Delhi Azadpur,Gujarat,2476.6
+2023-05-16,Cotton,67.25,Bengaluru APMC,Punjab,2739.9
+2023-05-17,Tomato,41.74,Delhi Azadpur,Maharashtra,1133.7
+2023-05-17,Potato,18.78,Delhi Azadpur,Haryana,4848.3
+2023-05-17,Corn,20.49,Mumbai APMC,Andhra Pradesh,3329.0
+2023-05-17,Wheat,28.29,Koyambedu,Karnataka,2350.4
+2023-05-17,Rice,34.13,Mumbai APMC,Maharashtra,1770.5
+2023-05-17,Soybean,51.3,Bengaluru APMC,Karnataka,3879.7
+2023-05-17,Cotton,67.47,Hyderabad,Gujarat,3025.2
+2023-05-18,Tomato,44.19,Coimbatore APMC,Tamil Nadu,1490.1
+2023-05-18,Potato,17.48,Coimbatore APMC,Haryana,351.0
+2023-05-18,Corn,22.51,Mumbai APMC,Uttar Pradesh,3391.2
+2023-05-18,Wheat,26.81,Bengaluru APMC,Haryana,4054.7
+2023-05-18,Rice,34.58,Bengaluru APMC,Haryana,1340.5
+2023-05-18,Soybean,50.38,Chennai APMC,Uttar Pradesh,2453.3
+2023-05-18,Cotton,68.68,Coimbatore APMC,Punjab,3199.5
+2023-05-19,Tomato,42.4,Chennai APMC,Uttar Pradesh,2265.8
+2023-05-19,Potato,19.12,Coimbatore APMC,Karnataka,2703.3
+2023-05-19,Corn,20.36,Koyambedu,Punjab,689.6
+2023-05-19,Wheat,24.27,Chennai APMC,Tamil Nadu,4021.9
+2023-05-19,Rice,33.61,Koyambedu,Punjab,4565.5
+2023-05-19,Soybean,49.4,Koyambedu,Tamil Nadu,2617.3
+2023-05-19,Cotton,67.68,Mumbai APMC,Rajasthan,1032.3
+2023-05-20,Tomato,42.34,Madurai,Rajasthan,2007.9
+2023-05-20,Potato,15.65,Coimbatore APMC,Uttar Pradesh,4016.4
+2023-05-20,Corn,17.48,Mumbai APMC,Punjab,2096.3
+2023-05-20,Wheat,25.64,Coimbatore APMC,Tamil Nadu,228.6
+2023-05-20,Rice,29.68,Chennai APMC,Rajasthan,557.5
+2023-05-20,Soybean,47.94,Bengaluru APMC,Gujarat,259.3
+2023-05-20,Cotton,67.46,Delhi Azadpur,Uttar Pradesh,170.0
+2023-05-21,Tomato,44.4,Coimbatore APMC,Tamil Nadu,1398.7
+2023-05-21,Potato,16.86,Koyambedu,Haryana,3293.6
+2023-05-21,Corn,18.77,Madurai,Uttar Pradesh,4316.8
+2023-05-21,Wheat,26.15,Koyambedu,Maharashtra,2547.3
+2023-05-21,Rice,33.21,Bengaluru APMC,Tamil Nadu,123.0
+2023-05-21,Soybean,48.48,Madurai,Maharashtra,3692.6
+2023-05-21,Cotton,68.47,Bengaluru APMC,Andhra Pradesh,4165.8
+2023-05-22,Tomato,44.44,Delhi Azadpur,Punjab,2154.5
+2023-05-22,Potato,15.79,Chennai APMC,Uttar Pradesh,1406.5
+2023-05-22,Corn,20.16,Coimbatore APMC,Maharashtra,1358.1
+2023-05-22,Wheat,26.43,Hyderabad,Haryana,1491.6
+2023-05-22,Rice,30.06,Koyambedu,Andhra Pradesh,4836.1
+2023-05-22,Soybean,49.75,Delhi Azadpur,Gujarat,1457.9
+2023-05-22,Cotton,65.1,Coimbatore APMC,Haryana,135.2
+2023-05-23,Tomato,41.52,Hyderabad,Haryana,4759.7
+2023-05-23,Potato,15.6,Koyambedu,Gujarat,1159.1
+2023-05-23,Corn,22.72,Chennai APMC,Haryana,3867.5
+2023-05-23,Wheat,26.98,Hyderabad,Punjab,2410.2
+2023-05-23,Rice,32.17,Koyambedu,Uttar Pradesh,1695.6
+2023-05-23,Soybean,50.88,Koyambedu,Maharashtra,2826.4
+2023-05-23,Cotton,68.12,Coimbatore APMC,Gujarat,2987.4
+2023-05-24,Tomato,44.31,Koyambedu,Karnataka,2045.8
+2023-05-24,Potato,16.02,Hyderabad,Rajasthan,3629.0
+2023-05-24,Corn,18.96,Coimbatore APMC,Tamil Nadu,3848.7
+2023-05-24,Wheat,26.97,Delhi Azadpur,Haryana,1591.7
+2023-05-24,Rice,33.52,Mumbai APMC,Karnataka,230.7
+2023-05-24,Soybean,51.27,Bengaluru APMC,Tamil Nadu,1377.3
+2023-05-24,Cotton,66.88,Coimbatore APMC,Rajasthan,3983.7
+2023-05-25,Tomato,44.4,Hyderabad,Punjab,4799.4
+2023-05-25,Potato,15.03,Coimbatore APMC,Punjab,2333.8
+2023-05-25,Corn,21.81,Hyderabad,Rajasthan,2796.3
+2023-05-25,Wheat,26.13,Koyambedu,Maharashtra,2157.2
+2023-05-25,Rice,35.94,Koyambedu,Haryana,680.0
+2023-05-25,Soybean,48.8,Chennai APMC,Karnataka,2623.7
+2023-05-25,Cotton,68.43,Koyambedu,Karnataka,1027.0
+2023-05-26,Tomato,43.03,Koyambedu,Tamil Nadu,4433.2
+2023-05-26,Potato,14.76,Hyderabad,Karnataka,3149.5
+2023-05-26,Corn,19.01,Hyderabad,Karnataka,3757.5
+2023-05-26,Wheat,25.25,Bengaluru APMC,Haryana,95.8
+2023-05-26,Rice,33.37,Koyambedu,Haryana,4978.9
+2023-05-26,Soybean,50.52,Delhi Azadpur,Rajasthan,1645.8
+2023-05-26,Cotton,64.87,Mumbai APMC,Karnataka,750.5
+2023-05-27,Tomato,42.6,Coimbatore APMC,Punjab,2620.9
+2023-05-27,Potato,18.85,Delhi Azadpur,Gujarat,2341.3
+2023-05-27,Corn,22.23,Mumbai APMC,Karnataka,863.0
+2023-05-27,Wheat,26.29,Hyderabad,Tamil Nadu,1622.6
+2023-05-27,Rice,32.7,Madurai,Karnataka,2378.9
+2023-05-27,Soybean,49.82,Chennai APMC,Uttar Pradesh,3522.2
+2023-05-27,Cotton,66.56,Coimbatore APMC,Maharashtra,2711.8
+2023-05-28,Tomato,41.01,Mumbai APMC,Maharashtra,352.5
+2023-05-28,Potato,15.16,Hyderabad,Karnataka,380.5
+2023-05-28,Corn,17.04,Coimbatore APMC,Punjab,3162.7
+2023-05-28,Wheat,26.14,Coimbatore APMC,Uttar Pradesh,1456.7
+2023-05-28,Rice,33.51,Bengaluru APMC,Uttar Pradesh,1868.0
+2023-05-28,Soybean,48.82,Bengaluru APMC,Uttar Pradesh,2827.5
+2023-05-28,Cotton,67.9,Coimbatore APMC,Maharashtra,2983.6
+2023-05-29,Tomato,40.61,Koyambedu,Andhra Pradesh,1435.9
+2023-05-29,Potato,13.25,Delhi Azadpur,Maharashtra,677.2
+2023-05-29,Corn,19.79,Bengaluru APMC,Punjab,2899.5
+2023-05-29,Wheat,27.02,Delhi Azadpur,Gujarat,1086.1
+2023-05-29,Rice,34.98,Chennai APMC,Andhra Pradesh,4946.0
+2023-05-29,Soybean,48.76,Koyambedu,Karnataka,759.5
+2023-05-29,Cotton,67.07,Hyderabad,Tamil Nadu,1650.5
+2023-05-30,Tomato,42.3,Chennai APMC,Karnataka,2582.9
+2023-05-30,Potato,15.1,Hyderabad,Haryana,3341.0
+2023-05-30,Corn,20.68,Mumbai APMC,Uttar Pradesh,2526.9
+2023-05-30,Wheat,26.34,Koyambedu,Andhra Pradesh,2822.7
+2023-05-30,Rice,29.99,Bengaluru APMC,Haryana,3545.9
+2023-05-30,Soybean,51.57,Mumbai APMC,Uttar Pradesh,4201.3
+2023-05-30,Cotton,67.43,Mumbai APMC,Rajasthan,437.1
+2023-05-31,Tomato,41.33,Coimbatore APMC,Karnataka,4730.2
+2023-05-31,Potato,15.86,Delhi Azadpur,Karnataka,4207.4
+2023-05-31,Corn,20.01,Hyderabad,Gujarat,3490.7
+2023-05-31,Wheat,25.66,Delhi Azadpur,Maharashtra,2811.6
+2023-05-31,Rice,31.44,Bengaluru APMC,Punjab,931.2
+2023-05-31,Soybean,48.26,Mumbai APMC,Gujarat,3865.2
+2023-05-31,Cotton,65.23,Mumbai APMC,Haryana,1108.2
+2023-06-01,Tomato,43.93,Coimbatore APMC,Haryana,1902.3
+2023-06-01,Potato,15.99,Chennai APMC,Andhra Pradesh,2238.3
+2023-06-01,Corn,18.62,Coimbatore APMC,Tamil Nadu,2951.6
+2023-06-01,Wheat,26.33,Mumbai APMC,Maharashtra,4559.7
+2023-06-01,Rice,27.9,Delhi Azadpur,Rajasthan,4611.7
+2023-06-01,Soybean,50.9,Delhi Azadpur,Tamil Nadu,3253.7
+2023-06-01,Cotton,62.56,Hyderabad,Haryana,267.4
+2023-06-02,Tomato,41.54,Delhi Azadpur,Uttar Pradesh,3145.1
+2023-06-02,Potato,13.4,Chennai APMC,Gujarat,4986.3
+2023-06-02,Corn,17.14,Hyderabad,Gujarat,910.2
+2023-06-02,Wheat,26.82,Koyambedu,Tamil Nadu,1879.2
+2023-06-02,Rice,31.38,Madurai,Karnataka,4361.0
+2023-06-02,Soybean,49.6,Madurai,Maharashtra,2126.9
+2023-06-02,Cotton,65.01,Koyambedu,Tamil Nadu,2244.7
+2023-06-03,Tomato,42.71,Chennai APMC,Punjab,532.5
+2023-06-03,Potato,15.11,Delhi Azadpur,Andhra Pradesh,3292.8
+2023-06-03,Corn,17.07,Chennai APMC,Punjab,4194.5
+2023-06-03,Wheat,26.49,Mumbai APMC,Karnataka,4533.3
+2023-06-03,Rice,31.25,Mumbai APMC,Rajasthan,120.1
+2023-06-03,Soybean,46.66,Bengaluru APMC,Haryana,4196.7
+2023-06-03,Cotton,64.35,Chennai APMC,Maharashtra,1005.1
+2023-06-04,Tomato,44.15,Madurai,Uttar Pradesh,465.6
+2023-06-04,Potato,16.18,Hyderabad,Tamil Nadu,1413.9
+2023-06-04,Corn,18.38,Coimbatore APMC,Rajasthan,2075.8
+2023-06-04,Wheat,24.38,Chennai APMC,Uttar Pradesh,1405.1
+2023-06-04,Rice,31.42,Mumbai APMC,Maharashtra,1740.2
+2023-06-04,Soybean,52.02,Koyambedu,Gujarat,486.4
+2023-06-04,Cotton,65.48,Koyambedu,Karnataka,3661.3
+2023-06-05,Tomato,42.46,Madurai,Punjab,2976.2
+2023-06-05,Potato,16.36,Chennai APMC,Karnataka,3954.2
+2023-06-05,Corn,19.17,Coimbatore APMC,Punjab,2328.7
+2023-06-05,Wheat,24.43,Coimbatore APMC,Uttar Pradesh,4194.7
+2023-06-05,Rice,31.52,Coimbatore APMC,Karnataka,1586.9
+2023-06-05,Soybean,48.71,Bengaluru APMC,Uttar Pradesh,931.1
+2023-06-05,Cotton,64.76,Madurai,Punjab,2099.2
+2023-06-06,Tomato,42.82,Coimbatore APMC,Uttar Pradesh,4423.7
+2023-06-06,Potato,14.81,Madurai,Uttar Pradesh,1333.8
+2023-06-06,Corn,19.83,Hyderabad,Uttar Pradesh,507.4
+2023-06-06,Wheat,24.61,Mumbai APMC,Punjab,1776.9
+2023-06-06,Rice,31.85,Hyderabad,Karnataka,231.8
+2023-06-06,Soybean,45.73,Bengaluru APMC,Karnataka,2712.8
+2023-06-06,Cotton,66.1,Coimbatore APMC,Haryana,1767.3
+2023-06-07,Tomato,42.16,Delhi Azadpur,Andhra Pradesh,1743.8
+2023-06-07,Potato,16.14,Delhi Azadpur,Maharashtra,2590.7
+2023-06-07,Corn,14.3,Coimbatore APMC,Uttar Pradesh,1130.4
+2023-06-07,Wheat,27.78,Delhi Azadpur,Tamil Nadu,4613.5
+2023-06-07,Rice,31.43,Madurai,Gujarat,742.1
+2023-06-07,Soybean,50.3,Mumbai APMC,Punjab,2840.7
+2023-06-07,Cotton,63.08,Chennai APMC,Punjab,3521.4
+2023-06-08,Tomato,42.48,Mumbai APMC,Tamil Nadu,835.8
+2023-06-08,Potato,12.98,Hyderabad,Punjab,1716.5
+2023-06-08,Corn,17.62,Koyambedu,Karnataka,4570.1
+2023-06-08,Wheat,27.43,Delhi Azadpur,Karnataka,2360.9
+2023-06-08,Rice,31.27,Madurai,Tamil Nadu,2223.1
+2023-06-08,Soybean,48.88,Hyderabad,Haryana,3668.2
+2023-06-08,Cotton,65.86,Hyderabad,Andhra Pradesh,1300.2
+2023-06-09,Tomato,42.22,Mumbai APMC,Punjab,2438.7
+2023-06-09,Potato,14.7,Bengaluru APMC,Uttar Pradesh,248.6
+2023-06-09,Corn,19.02,Coimbatore APMC,Rajasthan,583.9
+2023-06-09,Wheat,28.08,Bengaluru APMC,Uttar Pradesh,4772.2
+2023-06-09,Rice,31.39,Bengaluru APMC,Tamil Nadu,861.9
+2023-06-09,Soybean,48.77,Madurai,Uttar Pradesh,4438.6
+2023-06-09,Cotton,66.05,Coimbatore APMC,Karnataka,693.0
+2023-06-10,Tomato,43.05,Mumbai APMC,Tamil Nadu,4853.1
+2023-06-10,Potato,16.17,Delhi Azadpur,Karnataka,4017.4
+2023-06-10,Corn,19.35,Hyderabad,Haryana,868.4
+2023-06-10,Wheat,22.68,Chennai APMC,Karnataka,1042.0
+2023-06-10,Rice,33.84,Madurai,Uttar Pradesh,1572.3
+2023-06-10,Soybean,46.67,Madurai,Andhra Pradesh,4295.9
+2023-06-10,Cotton,64.84,Bengaluru APMC,Maharashtra,3634.5
+2023-06-11,Tomato,40.18,Madurai,Rajasthan,4236.1
+2023-06-11,Potato,14.21,Mumbai APMC,Tamil Nadu,2412.9
+2023-06-11,Corn,18.8,Mumbai APMC,Maharashtra,2380.5
+2023-06-11,Wheat,24.79,Bengaluru APMC,Andhra Pradesh,4568.5
+2023-06-11,Rice,31.94,Bengaluru APMC,Gujarat,3545.8
+2023-06-11,Soybean,50.73,Koyambedu,Haryana,686.1
+2023-06-11,Cotton,64.99,Madurai,Haryana,3877.6
+2023-06-12,Tomato,40.86,Delhi Azadpur,Haryana,3004.8
+2023-06-12,Potato,15.67,Koyambedu,Punjab,2467.1
+2023-06-12,Corn,20.01,Chennai APMC,Andhra Pradesh,4433.7
+2023-06-12,Wheat,22.39,Madurai,Andhra Pradesh,1877.2
+2023-06-12,Rice,32.12,Mumbai APMC,Rajasthan,4125.0
+2023-06-12,Soybean,49.28,Bengaluru APMC,Maharashtra,3245.6
+2023-06-12,Cotton,63.78,Madurai,Gujarat,980.5
+2023-06-13,Tomato,43.21,Coimbatore APMC,Uttar Pradesh,2205.2
+2023-06-13,Potato,13.92,Mumbai APMC,Haryana,3287.5
+2023-06-13,Corn,18.34,Bengaluru APMC,Karnataka,1460.6
+2023-06-13,Wheat,23.89,Bengaluru APMC,Gujarat,222.4
+2023-06-13,Rice,31.17,Bengaluru APMC,Karnataka,859.5
+2023-06-13,Soybean,46.5,Koyambedu,Gujarat,4040.8
+2023-06-13,Cotton,61.99,Mumbai APMC,Maharashtra,3296.5
+2023-06-14,Tomato,43.46,Bengaluru APMC,Tamil Nadu,846.4
+2023-06-14,Potato,12.8,Madurai,Rajasthan,1950.8
+2023-06-14,Corn,16.58,Hyderabad,Tamil Nadu,2456.4
+2023-06-14,Wheat,20.84,Bengaluru APMC,Haryana,3868.2
+2023-06-14,Rice,30.11,Delhi Azadpur,Haryana,1330.3
+2023-06-14,Soybean,46.08,Koyambedu,Gujarat,2535.2
+2023-06-14,Cotton,66.53,Hyderabad,Punjab,4228.6
+2023-06-15,Tomato,42.51,Mumbai APMC,Maharashtra,3938.2
+2023-06-15,Potato,12.96,Bengaluru APMC,Rajasthan,3810.1
+2023-06-15,Corn,21.37,Koyambedu,Karnataka,84.4
+2023-06-15,Wheat,25.46,Delhi Azadpur,Andhra Pradesh,2598.7
+2023-06-15,Rice,30.5,Hyderabad,Haryana,290.3
+2023-06-15,Soybean,44.24,Delhi Azadpur,Tamil Nadu,651.7
+2023-06-15,Cotton,67.43,Hyderabad,Gujarat,1867.2
+2023-06-16,Tomato,38.83,Mumbai APMC,Uttar Pradesh,2157.2
+2023-06-16,Potato,11.45,Delhi Azadpur,Tamil Nadu,2736.6
+2023-06-16,Corn,19.45,Madurai,Uttar Pradesh,1816.6
+2023-06-16,Wheat,27.57,Chennai APMC,Gujarat,1656.9
+2023-06-16,Rice,32.99,Chennai APMC,Maharashtra,1818.4
+2023-06-16,Soybean,48.76,Chennai APMC,Rajasthan,3706.5
+2023-06-16,Cotton,64.81,Coimbatore APMC,Karnataka,466.0
+2023-06-17,Tomato,42.12,Koyambedu,Karnataka,3647.6
+2023-06-17,Potato,14.98,Hyderabad,Haryana,4468.9
+2023-06-17,Corn,18.26,Mumbai APMC,Gujarat,3460.5
+2023-06-17,Wheat,24.0,Coimbatore APMC,Rajasthan,2866.9
+2023-06-17,Rice,30.75,Chennai APMC,Maharashtra,1666.6
+2023-06-17,Soybean,46.71,Chennai APMC,Karnataka,3066.3
+2023-06-17,Cotton,63.42,Koyambedu,Haryana,2587.5
+2023-06-18,Tomato,38.23,Koyambedu,Punjab,4640.8
+2023-06-18,Potato,13.62,Delhi Azadpur,Haryana,2033.7
+2023-06-18,Corn,16.28,Madurai,Uttar Pradesh,3621.9
+2023-06-18,Wheat,22.11,Koyambedu,Haryana,4827.5
+2023-06-18,Rice,31.04,Coimbatore APMC,Uttar Pradesh,4974.8
+2023-06-18,Soybean,49.85,Coimbatore APMC,Tamil Nadu,1902.5
+2023-06-18,Cotton,65.14,Hyderabad,Andhra Pradesh,3815.6
+2023-06-19,Tomato,38.34,Bengaluru APMC,Uttar Pradesh,3747.0
+2023-06-19,Potato,12.21,Madurai,Uttar Pradesh,2532.7
+2023-06-19,Corn,19.11,Chennai APMC,Haryana,4553.2
+2023-06-19,Wheat,22.22,Delhi Azadpur,Uttar Pradesh,75.0
+2023-06-19,Rice,30.36,Coimbatore APMC,Tamil Nadu,3921.2
+2023-06-19,Soybean,48.52,Madurai,Uttar Pradesh,1371.9
+2023-06-19,Cotton,62.24,Mumbai APMC,Maharashtra,1145.6
+2023-06-20,Tomato,40.78,Chennai APMC,Punjab,1144.2
+2023-06-20,Potato,11.62,Delhi Azadpur,Gujarat,2960.2
+2023-06-20,Corn,16.72,Mumbai APMC,Rajasthan,1975.7
+2023-06-20,Wheat,24.1,Chennai APMC,Punjab,1736.0
+2023-06-20,Rice,28.23,Mumbai APMC,Gujarat,801.3
+2023-06-20,Soybean,48.28,Hyderabad,Andhra Pradesh,2684.6
+2023-06-20,Cotton,63.59,Madurai,Haryana,1315.7
+2023-06-21,Tomato,41.38,Chennai APMC,Maharashtra,3175.4
+2023-06-21,Potato,13.89,Mumbai APMC,Maharashtra,1077.4
+2023-06-21,Corn,19.6,Mumbai APMC,Uttar Pradesh,1494.5
+2023-06-21,Wheat,23.74,Mumbai APMC,Gujarat,3388.8
+2023-06-21,Rice,29.91,Chennai APMC,Karnataka,3143.1
+2023-06-21,Soybean,47.74,Madurai,Punjab,2846.2
+2023-06-21,Cotton,64.37,Bengaluru APMC,Tamil Nadu,3769.4
+2023-06-22,Tomato,40.56,Delhi Azadpur,Rajasthan,3733.1
+2023-06-22,Potato,13.54,Coimbatore APMC,Haryana,4609.8
+2023-06-22,Corn,16.43,Madurai,Haryana,3055.3
+2023-06-22,Wheat,22.49,Koyambedu,Maharashtra,2009.0
+2023-06-22,Rice,28.38,Coimbatore APMC,Maharashtra,2875.2
+2023-06-22,Soybean,50.11,Madurai,Karnataka,3846.0
+2023-06-22,Cotton,61.62,Bengaluru APMC,Rajasthan,2072.2
+2023-06-23,Tomato,39.38,Coimbatore APMC,Haryana,4507.3
+2023-06-23,Potato,12.34,Delhi Azadpur,Punjab,3864.0
+2023-06-23,Corn,18.76,Koyambedu,Punjab,2536.4
+2023-06-23,Wheat,22.97,Bengaluru APMC,Andhra Pradesh,4302.3
+2023-06-23,Rice,32.29,Hyderabad,Gujarat,1467.1
+2023-06-23,Soybean,46.41,Hyderabad,Karnataka,4623.4
+2023-06-23,Cotton,63.84,Madurai,Haryana,1477.6
+2023-06-24,Tomato,39.1,Mumbai APMC,Gujarat,3298.1
+2023-06-24,Potato,16.57,Koyambedu,Haryana,2921.8
+2023-06-24,Corn,15.57,Bengaluru APMC,Haryana,2081.0
+2023-06-24,Wheat,23.82,Chennai APMC,Andhra Pradesh,735.9
+2023-06-24,Rice,31.3,Koyambedu,Haryana,4730.2
+2023-06-24,Soybean,47.97,Mumbai APMC,Andhra Pradesh,874.0
+2023-06-24,Cotton,63.07,Hyderabad,Maharashtra,4761.6
+2023-06-25,Tomato,40.09,Chennai APMC,Haryana,2782.7
+2023-06-25,Potato,13.35,Coimbatore APMC,Karnataka,2316.0
+2023-06-25,Corn,17.07,Coimbatore APMC,Karnataka,2387.2
+2023-06-25,Wheat,24.73,Coimbatore APMC,Punjab,706.6
+2023-06-25,Rice,33.6,Koyambedu,Tamil Nadu,1074.7
+2023-06-25,Soybean,46.45,Hyderabad,Gujarat,1263.0
+2023-06-25,Cotton,61.23,Hyderabad,Andhra Pradesh,3993.9
+2023-06-26,Tomato,40.09,Hyderabad,Rajasthan,3224.8
+2023-06-26,Potato,17.09,Mumbai APMC,Karnataka,1262.1
+2023-06-26,Corn,16.02,Koyambedu,Tamil Nadu,3755.6
+2023-06-26,Wheat,25.68,Bengaluru APMC,Rajasthan,4977.9
+2023-06-26,Rice,32.74,Bengaluru APMC,Maharashtra,3926.1
+2023-06-26,Soybean,46.39,Delhi Azadpur,Rajasthan,648.9
+2023-06-26,Cotton,64.08,Chennai APMC,Gujarat,2430.0
+2023-06-27,Tomato,42.6,Chennai APMC,Uttar Pradesh,4067.7
+2023-06-27,Potato,12.59,Chennai APMC,Punjab,2027.2
+2023-06-27,Corn,16.86,Hyderabad,Haryana,3947.7
+2023-06-27,Wheat,22.29,Koyambedu,Karnataka,4243.0
+2023-06-27,Rice,28.64,Koyambedu,Karnataka,1864.0
+2023-06-27,Soybean,46.19,Mumbai APMC,Karnataka,4569.2
+2023-06-27,Cotton,61.33,Hyderabad,Andhra Pradesh,1359.3
+2023-06-28,Tomato,40.15,Mumbai APMC,Maharashtra,2318.3
+2023-06-28,Potato,11.95,Hyderabad,Andhra Pradesh,3797.1
+2023-06-28,Corn,17.45,Mumbai APMC,Uttar Pradesh,3461.5
+2023-06-28,Wheat,20.77,Mumbai APMC,Gujarat,3512.8
+2023-06-28,Rice,30.6,Delhi Azadpur,Tamil Nadu,3818.5
+2023-06-28,Soybean,48.35,Madurai,Rajasthan,1477.7
+2023-06-28,Cotton,60.11,Coimbatore APMC,Punjab,2839.5
+2023-06-29,Tomato,40.6,Delhi Azadpur,Uttar Pradesh,4726.7
+2023-06-29,Potato,14.88,Madurai,Uttar Pradesh,2402.7
+2023-06-29,Corn,15.23,Hyderabad,Uttar Pradesh,814.5
+2023-06-29,Wheat,25.55,Madurai,Karnataka,3056.9
+2023-06-29,Rice,30.67,Bengaluru APMC,Uttar Pradesh,3202.0
+2023-06-29,Soybean,45.98,Chennai APMC,Andhra Pradesh,2937.0
+2023-06-29,Cotton,62.96,Madurai,Tamil Nadu,1334.1
+2023-06-30,Tomato,40.82,Bengaluru APMC,Gujarat,3111.4
+2023-06-30,Potato,13.1,Madurai,Punjab,3237.1
+2023-06-30,Corn,17.79,Mumbai APMC,Rajasthan,1903.1
+2023-06-30,Wheat,21.6,Hyderabad,Karnataka,4360.4
+2023-06-30,Rice,30.24,Hyderabad,Karnataka,2445.8
+2023-06-30,Soybean,44.86,Bengaluru APMC,Tamil Nadu,3360.3
+2023-06-30,Cotton,62.82,Koyambedu,Punjab,1162.9
+2023-07-01,Tomato,38.57,Coimbatore APMC,Andhra Pradesh,792.9
+2023-07-01,Potato,11.83,Koyambedu,Andhra Pradesh,1814.7
+2023-07-01,Corn,18.78,Hyderabad,Tamil Nadu,4207.9
+2023-07-01,Wheat,24.57,Coimbatore APMC,Andhra Pradesh,1849.6
+2023-07-01,Rice,30.84,Chennai APMC,Haryana,3150.7
+2023-07-01,Soybean,45.29,Mumbai APMC,Rajasthan,382.6
+2023-07-01,Cotton,62.45,Koyambedu,Tamil Nadu,2260.8
+2023-07-02,Tomato,41.69,Coimbatore APMC,Andhra Pradesh,1317.6
+2023-07-02,Potato,13.09,Madurai,Andhra Pradesh,1180.3
+2023-07-02,Corn,20.35,Hyderabad,Karnataka,249.2
+2023-07-02,Wheat,23.46,Delhi Azadpur,Rajasthan,1423.5
+2023-07-02,Rice,30.16,Coimbatore APMC,Maharashtra,4535.4
+2023-07-02,Soybean,46.41,Madurai,Rajasthan,1548.7
+2023-07-02,Cotton,63.07,Coimbatore APMC,Andhra Pradesh,1257.5
+2023-07-03,Tomato,39.59,Hyderabad,Gujarat,536.4
+2023-07-03,Potato,13.88,Chennai APMC,Punjab,3960.6
+2023-07-03,Corn,18.26,Koyambedu,Andhra Pradesh,2417.6
+2023-07-03,Wheat,21.64,Hyderabad,Maharashtra,2406.4
+2023-07-03,Rice,27.82,Koyambedu,Rajasthan,2967.4
+2023-07-03,Soybean,44.07,Hyderabad,Uttar Pradesh,2868.2
+2023-07-03,Cotton,63.58,Bengaluru APMC,Maharashtra,3613.9
+2023-07-04,Tomato,38.11,Hyderabad,Andhra Pradesh,2965.2
+2023-07-04,Potato,9.54,Hyderabad,Tamil Nadu,1296.2
+2023-07-04,Corn,17.35,Bengaluru APMC,Uttar Pradesh,2488.4
+2023-07-04,Wheat,26.51,Madurai,Punjab,2561.1
+2023-07-04,Rice,29.76,Delhi Azadpur,Uttar Pradesh,1357.8
+2023-07-04,Soybean,48.03,Coimbatore APMC,Punjab,1412.7
+2023-07-04,Cotton,62.89,Delhi Azadpur,Gujarat,601.8
+2023-07-05,Tomato,39.57,Madurai,Gujarat,82.3
+2023-07-05,Potato,14.1,Hyderabad,Gujarat,857.5
+2023-07-05,Corn,16.28,Koyambedu,Haryana,3381.2
+2023-07-05,Wheat,23.12,Koyambedu,Gujarat,1745.0
+2023-07-05,Rice,30.2,Madurai,Andhra Pradesh,3905.0
+2023-07-05,Soybean,45.72,Coimbatore APMC,Andhra Pradesh,1570.6
+2023-07-05,Cotton,64.21,Delhi Azadpur,Punjab,3843.8
+2023-07-06,Tomato,39.41,Hyderabad,Maharashtra,3439.5
+2023-07-06,Potato,11.54,Coimbatore APMC,Karnataka,1652.6
+2023-07-06,Corn,17.48,Coimbatore APMC,Haryana,3939.8
+2023-07-06,Wheat,21.32,Madurai,Karnataka,1662.1
+2023-07-06,Rice,29.71,Hyderabad,Haryana,3909.8
+2023-07-06,Soybean,46.66,Delhi Azadpur,Andhra Pradesh,4667.6
+2023-07-06,Cotton,64.3,Hyderabad,Uttar Pradesh,1885.4
+2023-07-07,Tomato,40.34,Delhi Azadpur,Punjab,3647.2
+2023-07-07,Potato,12.59,Mumbai APMC,Gujarat,1574.7
+2023-07-07,Corn,17.85,Bengaluru APMC,Haryana,78.1
+2023-07-07,Wheat,24.71,Bengaluru APMC,Tamil Nadu,4845.0
+2023-07-07,Rice,30.46,Mumbai APMC,Karnataka,4876.2
+2023-07-07,Soybean,46.64,Delhi Azadpur,Tamil Nadu,4101.7
+2023-07-07,Cotton,60.66,Coimbatore APMC,Andhra Pradesh,3327.2
+2023-07-08,Tomato,37.98,Delhi Azadpur,Uttar Pradesh,4171.1
+2023-07-08,Potato,12.12,Chennai APMC,Punjab,2166.1
+2023-07-08,Corn,15.67,Bengaluru APMC,Punjab,2812.4
+2023-07-08,Wheat,22.3,Coimbatore APMC,Andhra Pradesh,3106.9
+2023-07-08,Rice,29.66,Hyderabad,Uttar Pradesh,578.8
+2023-07-08,Soybean,47.37,Coimbatore APMC,Karnataka,1661.1
+2023-07-08,Cotton,62.47,Hyderabad,Gujarat,4762.6
+2023-07-09,Tomato,40.27,Chennai APMC,Haryana,3454.6
+2023-07-09,Potato,12.63,Hyderabad,Andhra Pradesh,1436.7
+2023-07-09,Corn,13.57,Bengaluru APMC,Tamil Nadu,552.1
+2023-07-09,Wheat,21.13,Mumbai APMC,Uttar Pradesh,2712.6
+2023-07-09,Rice,29.32,Hyderabad,Uttar Pradesh,599.6
+2023-07-09,Soybean,44.72,Madurai,Maharashtra,1656.5
+2023-07-09,Cotton,63.44,Bengaluru APMC,Karnataka,4376.1
+2023-07-10,Tomato,41.79,Delhi Azadpur,Andhra Pradesh,2831.1
+2023-07-10,Potato,14.32,Hyderabad,Andhra Pradesh,1672.8
+2023-07-10,Corn,16.17,Delhi Azadpur,Rajasthan,2678.6
+2023-07-10,Wheat,24.73,Delhi Azadpur,Tamil Nadu,745.3
+2023-07-10,Rice,29.72,Koyambedu,Punjab,4788.1
+2023-07-10,Soybean,45.99,Mumbai APMC,Gujarat,3749.0
+2023-07-10,Cotton,61.57,Coimbatore APMC,Karnataka,1640.3
+2023-07-11,Tomato,39.0,Coimbatore APMC,Gujarat,1842.9
+2023-07-11,Potato,11.87,Coimbatore APMC,Uttar Pradesh,1314.0
+2023-07-11,Corn,16.71,Chennai APMC,Karnataka,640.0
+2023-07-11,Wheat,22.7,Bengaluru APMC,Haryana,2011.7
+2023-07-11,Rice,29.46,Hyderabad,Tamil Nadu,4166.8
+2023-07-11,Soybean,47.11,Chennai APMC,Rajasthan,1898.7
+2023-07-11,Cotton,64.24,Bengaluru APMC,Tamil Nadu,4801.0
+2023-07-12,Tomato,40.84,Mumbai APMC,Rajasthan,2485.4
+2023-07-12,Potato,10.19,Mumbai APMC,Maharashtra,3685.4
+2023-07-12,Corn,12.58,Koyambedu,Rajasthan,3913.9
+2023-07-12,Wheat,23.82,Madurai,Rajasthan,4239.2
+2023-07-12,Rice,27.37,Koyambedu,Gujarat,3069.7
+2023-07-12,Soybean,46.08,Coimbatore APMC,Maharashtra,3847.2
+2023-07-12,Cotton,60.66,Bengaluru APMC,Uttar Pradesh,2355.3
+2023-07-13,Tomato,36.68,Madurai,Punjab,411.5
+2023-07-13,Potato,13.19,Mumbai APMC,Gujarat,2662.2
+2023-07-13,Corn,17.52,Bengaluru APMC,Tamil Nadu,2037.3
+2023-07-13,Wheat,21.51,Delhi Azadpur,Tamil Nadu,3137.3
+2023-07-13,Rice,25.49,Bengaluru APMC,Tamil Nadu,92.3
+2023-07-13,Soybean,45.56,Mumbai APMC,Haryana,794.9
+2023-07-13,Cotton,62.97,Coimbatore APMC,Punjab,2685.2
+2023-07-14,Tomato,37.13,Coimbatore APMC,Punjab,4471.6
+2023-07-14,Potato,12.62,Madurai,Andhra Pradesh,3876.3
+2023-07-14,Corn,16.32,Coimbatore APMC,Uttar Pradesh,948.9
+2023-07-14,Wheat,23.21,Chennai APMC,Rajasthan,3029.5
+2023-07-14,Rice,29.52,Chennai APMC,Karnataka,2723.4
+2023-07-14,Soybean,44.88,Koyambedu,Punjab,4359.3
+2023-07-14,Cotton,64.14,Coimbatore APMC,Andhra Pradesh,1048.4
+2023-07-15,Tomato,39.07,Madurai,Haryana,4955.5
+2023-07-15,Potato,12.27,Coimbatore APMC,Andhra Pradesh,3873.1
+2023-07-15,Corn,14.91,Chennai APMC,Karnataka,4394.3
+2023-07-15,Wheat,21.64,Hyderabad,Maharashtra,4179.1
+2023-07-15,Rice,27.98,Bengaluru APMC,Tamil Nadu,2247.6
+2023-07-15,Soybean,46.05,Coimbatore APMC,Haryana,293.6
+2023-07-15,Cotton,64.88,Hyderabad,Haryana,1033.3
+2023-07-16,Tomato,37.22,Bengaluru APMC,Maharashtra,509.6
+2023-07-16,Potato,9.86,Madurai,Rajasthan,4570.8
+2023-07-16,Corn,18.48,Koyambedu,Karnataka,3795.2
+2023-07-16,Wheat,21.96,Koyambedu,Gujarat,3716.2
+2023-07-16,Rice,28.27,Mumbai APMC,Punjab,2104.9
+2023-07-16,Soybean,47.84,Coimbatore APMC,Maharashtra,4009.0
+2023-07-16,Cotton,61.37,Mumbai APMC,Gujarat,1313.7
+2023-07-17,Tomato,41.99,Koyambedu,Gujarat,129.9
+2023-07-17,Potato,13.26,Bengaluru APMC,Haryana,2031.5
+2023-07-17,Corn,15.52,Koyambedu,Punjab,1833.9
+2023-07-17,Wheat,25.48,Delhi Azadpur,Maharashtra,2199.0
+2023-07-17,Rice,28.34,Delhi Azadpur,Andhra Pradesh,4998.5
+2023-07-17,Soybean,47.36,Koyambedu,Haryana,4385.9
+2023-07-17,Cotton,62.7,Chennai APMC,Uttar Pradesh,3661.7
+2023-07-18,Tomato,41.17,Mumbai APMC,Tamil Nadu,746.6
+2023-07-18,Potato,14.56,Coimbatore APMC,Karnataka,2844.7
+2023-07-18,Corn,16.27,Madurai,Rajasthan,821.0
+2023-07-18,Wheat,21.09,Hyderabad,Tamil Nadu,352.8
+2023-07-18,Rice,29.91,Coimbatore APMC,Uttar Pradesh,1889.9
+2023-07-18,Soybean,45.2,Bengaluru APMC,Karnataka,2125.2
+2023-07-18,Cotton,65.24,Madurai,Rajasthan,4828.2
+2023-07-19,Tomato,39.4,Madurai,Punjab,4401.4
+2023-07-19,Potato,11.64,Koyambedu,Karnataka,198.4
+2023-07-19,Corn,16.47,Coimbatore APMC,Uttar Pradesh,2048.1
+2023-07-19,Wheat,20.17,Mumbai APMC,Uttar Pradesh,3128.5
+2023-07-19,Rice,27.73,Chennai APMC,Tamil Nadu,1691.3
+2023-07-19,Soybean,47.99,Hyderabad,Tamil Nadu,3688.0
+2023-07-19,Cotton,61.21,Madurai,Haryana,280.2
+2023-07-20,Tomato,37.6,Bengaluru APMC,Rajasthan,890.2
+2023-07-20,Potato,12.97,Koyambedu,Tamil Nadu,1775.9
+2023-07-20,Corn,17.95,Coimbatore APMC,Maharashtra,2128.4
+2023-07-20,Wheat,23.25,Koyambedu,Maharashtra,4845.2
+2023-07-20,Rice,30.66,Hyderabad,Haryana,4287.9
+2023-07-20,Soybean,45.03,Hyderabad,Karnataka,4291.7
+2023-07-20,Cotton,60.03,Chennai APMC,Uttar Pradesh,2407.4
+2023-07-21,Tomato,41.4,Delhi Azadpur,Karnataka,1648.2
+2023-07-21,Potato,11.66,Mumbai APMC,Maharashtra,2415.1
+2023-07-21,Corn,15.77,Coimbatore APMC,Karnataka,1135.6
+2023-07-21,Wheat,24.14,Madurai,Karnataka,1166.5
+2023-07-21,Rice,29.98,Koyambedu,Maharashtra,3600.5
+2023-07-21,Soybean,46.83,Delhi Azadpur,Maharashtra,1286.4
+2023-07-21,Cotton,65.39,Delhi Azadpur,Karnataka,3663.6
+2023-07-22,Tomato,38.16,Delhi Azadpur,Punjab,3566.8
+2023-07-22,Potato,13.51,Hyderabad,Rajasthan,2608.7
+2023-07-22,Corn,16.21,Delhi Azadpur,Karnataka,1673.3
+2023-07-22,Wheat,22.53,Mumbai APMC,Karnataka,2917.9
+2023-07-22,Rice,31.42,Chennai APMC,Haryana,3177.8
+2023-07-22,Soybean,46.88,Coimbatore APMC,Karnataka,120.9
+2023-07-22,Cotton,62.93,Chennai APMC,Andhra Pradesh,851.3
+2023-07-23,Tomato,40.71,Mumbai APMC,Tamil Nadu,2881.8
+2023-07-23,Potato,11.56,Hyderabad,Punjab,979.4
+2023-07-23,Corn,14.84,Bengaluru APMC,Gujarat,4963.9
+2023-07-23,Wheat,20.54,Hyderabad,Uttar Pradesh,2752.1
+2023-07-23,Rice,26.15,Koyambedu,Uttar Pradesh,3294.5
+2023-07-23,Soybean,49.19,Mumbai APMC,Punjab,4983.6
+2023-07-23,Cotton,60.45,Madurai,Uttar Pradesh,1737.9
+2023-07-24,Tomato,38.75,Hyderabad,Rajasthan,2308.8
+2023-07-24,Potato,11.67,Koyambedu,Punjab,3828.2
+2023-07-24,Corn,16.55,Delhi Azadpur,Maharashtra,3920.7
+2023-07-24,Wheat,23.31,Bengaluru APMC,Tamil Nadu,4825.5
+2023-07-24,Rice,30.38,Madurai,Maharashtra,1174.3
+2023-07-24,Soybean,45.21,Hyderabad,Maharashtra,645.4
+2023-07-24,Cotton,61.83,Delhi Azadpur,Karnataka,4372.9
+2023-07-25,Tomato,39.49,Delhi Azadpur,Gujarat,2209.0
+2023-07-25,Potato,11.69,Koyambedu,Rajasthan,953.9
+2023-07-25,Corn,18.48,Coimbatore APMC,Karnataka,4208.1
+2023-07-25,Wheat,22.8,Coimbatore APMC,Tamil Nadu,1033.5
+2023-07-25,Rice,30.17,Mumbai APMC,Rajasthan,3024.6
+2023-07-25,Soybean,47.06,Madurai,Rajasthan,2649.0
+2023-07-25,Cotton,63.83,Mumbai APMC,Rajasthan,1190.6
+2023-07-26,Tomato,39.32,Madurai,Punjab,835.8
+2023-07-26,Potato,10.11,Madurai,Andhra Pradesh,4224.0
+2023-07-26,Corn,16.65,Madurai,Rajasthan,4713.9
+2023-07-26,Wheat,21.08,Bengaluru APMC,Andhra Pradesh,1428.2
+2023-07-26,Rice,28.26,Bengaluru APMC,Uttar Pradesh,1979.4
+2023-07-26,Soybean,46.93,Bengaluru APMC,Gujarat,2366.6
+2023-07-26,Cotton,63.91,Madurai,Uttar Pradesh,51.8
+2023-07-27,Tomato,39.07,Delhi Azadpur,Rajasthan,3357.2
+2023-07-27,Potato,12.5,Coimbatore APMC,Maharashtra,343.2
+2023-07-27,Corn,18.59,Bengaluru APMC,Karnataka,761.8
+2023-07-27,Wheat,22.4,Madurai,Andhra Pradesh,1986.6
+2023-07-27,Rice,32.94,Madurai,Haryana,1985.4
+2023-07-27,Soybean,46.89,Coimbatore APMC,Andhra Pradesh,4179.9
+2023-07-27,Cotton,59.4,Koyambedu,Andhra Pradesh,4818.6
+2023-07-28,Tomato,40.16,Delhi Azadpur,Karnataka,4468.6
+2023-07-28,Potato,12.6,Koyambedu,Karnataka,1068.9
+2023-07-28,Corn,17.96,Madurai,Uttar Pradesh,3814.9
+2023-07-28,Wheat,23.04,Chennai APMC,Maharashtra,2627.1
+2023-07-28,Rice,28.82,Koyambedu,Gujarat,1199.3
+2023-07-28,Soybean,44.19,Hyderabad,Uttar Pradesh,4120.1
+2023-07-28,Cotton,61.72,Hyderabad,Karnataka,398.5
+2023-07-29,Tomato,37.74,Mumbai APMC,Uttar Pradesh,4750.0
+2023-07-29,Potato,11.15,Chennai APMC,Haryana,4198.0
+2023-07-29,Corn,16.9,Delhi Azadpur,Maharashtra,3153.1
+2023-07-29,Wheat,24.52,Bengaluru APMC,Karnataka,4387.4
+2023-07-29,Rice,29.61,Hyderabad,Uttar Pradesh,1161.9
+2023-07-29,Soybean,44.23,Koyambedu,Maharashtra,4988.1
+2023-07-29,Cotton,62.69,Mumbai APMC,Andhra Pradesh,4353.3
+2023-07-30,Tomato,40.81,Hyderabad,Haryana,2137.3
+2023-07-30,Potato,11.1,Koyambedu,Uttar Pradesh,4219.5
+2023-07-30,Corn,15.81,Delhi Azadpur,Uttar Pradesh,3219.3
+2023-07-30,Wheat,22.03,Mumbai APMC,Haryana,3351.5
+2023-07-30,Rice,27.84,Delhi Azadpur,Punjab,461.3
+2023-07-30,Soybean,46.98,Koyambedu,Gujarat,1251.6
+2023-07-30,Cotton,61.83,Hyderabad,Andhra Pradesh,2975.9
+2023-07-31,Tomato,39.64,Delhi Azadpur,Maharashtra,4986.6
+2023-07-31,Potato,10.68,Hyderabad,Rajasthan,3052.9
+2023-07-31,Corn,15.35,Bengaluru APMC,Rajasthan,4358.4
+2023-07-31,Wheat,23.09,Bengaluru APMC,Tamil Nadu,3028.2
+2023-07-31,Rice,28.45,Koyambedu,Maharashtra,631.5
+2023-07-31,Soybean,48.6,Coimbatore APMC,Punjab,2921.6
+2023-07-31,Cotton,61.41,Bengaluru APMC,Haryana,3605.5
+2023-08-01,Tomato,39.34,Chennai APMC,Punjab,3253.1
+2023-08-01,Potato,13.4,Hyderabad,Gujarat,2888.1
+2023-08-01,Corn,13.88,Chennai APMC,Haryana,4075.1
+2023-08-01,Wheat,19.36,Bengaluru APMC,Tamil Nadu,1119.4
+2023-08-01,Rice,26.71,Madurai,Tamil Nadu,3171.1
+2023-08-01,Soybean,47.9,Mumbai APMC,Maharashtra,1496.8
+2023-08-01,Cotton,61.17,Bengaluru APMC,Tamil Nadu,3658.8
+2023-08-02,Tomato,42.84,Delhi Azadpur,Punjab,4100.9
+2023-08-02,Potato,11.15,Mumbai APMC,Punjab,4869.2
+2023-08-02,Corn,16.28,Coimbatore APMC,Uttar Pradesh,2257.7
+2023-08-02,Wheat,24.31,Chennai APMC,Punjab,2318.1
+2023-08-02,Rice,32.01,Delhi Azadpur,Karnataka,1086.4
+2023-08-02,Soybean,49.09,Mumbai APMC,Haryana,3778.9
+2023-08-02,Cotton,63.81,Madurai,Gujarat,4290.4
+2023-08-03,Tomato,40.54,Mumbai APMC,Punjab,3101.2
+2023-08-03,Potato,12.89,Coimbatore APMC,Punjab,4152.0
+2023-08-03,Corn,17.17,Koyambedu,Maharashtra,3215.3
+2023-08-03,Wheat,21.17,Mumbai APMC,Gujarat,3215.4
+2023-08-03,Rice,27.77,Bengaluru APMC,Andhra Pradesh,1360.2
+2023-08-03,Soybean,45.99,Hyderabad,Punjab,1718.2
+2023-08-03,Cotton,61.74,Hyderabad,Punjab,3786.1
+2023-08-04,Tomato,38.32,Madurai,Punjab,128.8
+2023-08-04,Potato,13.05,Coimbatore APMC,Uttar Pradesh,4548.7
+2023-08-04,Corn,17.43,Delhi Azadpur,Rajasthan,2714.4
+2023-08-04,Wheat,22.13,Bengaluru APMC,Maharashtra,1033.2
+2023-08-04,Rice,31.22,Koyambedu,Haryana,4268.4
+2023-08-04,Soybean,44.29,Madurai,Punjab,2687.5
+2023-08-04,Cotton,61.71,Bengaluru APMC,Karnataka,4610.2
+2023-08-05,Tomato,37.93,Koyambedu,Uttar Pradesh,3086.4
+2023-08-05,Potato,9.2,Koyambedu,Punjab,4997.2
+2023-08-05,Corn,15.88,Hyderabad,Tamil Nadu,1267.2
+2023-08-05,Wheat,21.82,Madurai,Uttar Pradesh,180.5
+2023-08-05,Rice,31.27,Coimbatore APMC,Andhra Pradesh,1264.5
+2023-08-05,Soybean,46.95,Coimbatore APMC,Gujarat,3257.1
+2023-08-05,Cotton,60.47,Coimbatore APMC,Karnataka,111.5
+2023-08-06,Tomato,41.79,Coimbatore APMC,Tamil Nadu,4294.8
+2023-08-06,Potato,13.84,Hyderabad,Gujarat,2101.9
+2023-08-06,Corn,16.88,Coimbatore APMC,Haryana,971.0
+2023-08-06,Wheat,21.67,Bengaluru APMC,Haryana,3746.6
+2023-08-06,Rice,27.57,Mumbai APMC,Uttar Pradesh,2185.0
+2023-08-06,Soybean,45.45,Mumbai APMC,Andhra Pradesh,1634.8
+2023-08-06,Cotton,63.64,Mumbai APMC,Maharashtra,4792.6
+2023-08-07,Tomato,41.84,Madurai,Punjab,4306.7
+2023-08-07,Potato,14.33,Coimbatore APMC,Rajasthan,2915.8
+2023-08-07,Corn,15.28,Koyambedu,Rajasthan,3556.4
+2023-08-07,Wheat,20.34,Mumbai APMC,Maharashtra,4045.9
+2023-08-07,Rice,29.23,Coimbatore APMC,Punjab,3601.9
+2023-08-07,Soybean,43.36,Coimbatore APMC,Gujarat,1382.2
+2023-08-07,Cotton,62.5,Chennai APMC,Gujarat,3113.1
+2023-08-08,Tomato,38.8,Hyderabad,Haryana,370.1
+2023-08-08,Potato,11.33,Madurai,Tamil Nadu,2821.8
+2023-08-08,Corn,13.63,Chennai APMC,Punjab,2409.3
+2023-08-08,Wheat,22.79,Madurai,Maharashtra,3425.9
+2023-08-08,Rice,28.23,Koyambedu,Uttar Pradesh,2870.3
+2023-08-08,Soybean,44.27,Chennai APMC,Gujarat,2182.6
+2023-08-08,Cotton,57.72,Madurai,Haryana,1115.3
+2023-08-09,Tomato,38.99,Hyderabad,Uttar Pradesh,2715.1
+2023-08-09,Potato,14.69,Delhi Azadpur,Punjab,1201.2
+2023-08-09,Corn,18.53,Bengaluru APMC,Karnataka,3843.2
+2023-08-09,Wheat,21.35,Mumbai APMC,Tamil Nadu,4855.9
+2023-08-09,Rice,28.13,Chennai APMC,Punjab,2957.9
+2023-08-09,Soybean,46.74,Koyambedu,Maharashtra,2672.4
+2023-08-09,Cotton,60.54,Madurai,Andhra Pradesh,1281.6
+2023-08-10,Tomato,39.5,Madurai,Karnataka,196.0
+2023-08-10,Potato,13.2,Hyderabad,Maharashtra,1692.4
+2023-08-10,Corn,17.89,Koyambedu,Haryana,2891.3
+2023-08-10,Wheat,21.9,Bengaluru APMC,Haryana,1937.4
+2023-08-10,Rice,28.74,Hyderabad,Karnataka,4244.0
+2023-08-10,Soybean,44.73,Madurai,Maharashtra,1590.4
+2023-08-10,Cotton,60.81,Madurai,Haryana,4401.4
+2023-08-11,Tomato,38.72,Hyderabad,Maharashtra,963.6
+2023-08-11,Potato,12.61,Bengaluru APMC,Andhra Pradesh,1171.9
+2023-08-11,Corn,17.43,Koyambedu,Punjab,2286.1
+2023-08-11,Wheat,20.86,Koyambedu,Rajasthan,1326.0
+2023-08-11,Rice,31.3,Chennai APMC,Rajasthan,342.8
+2023-08-11,Soybean,45.65,Mumbai APMC,Maharashtra,884.1
+2023-08-11,Cotton,62.03,Chennai APMC,Tamil Nadu,1668.0
+2023-08-12,Tomato,37.96,Delhi Azadpur,Tamil Nadu,4010.2
+2023-08-12,Potato,8.44,Mumbai APMC,Maharashtra,4780.8
+2023-08-12,Corn,17.4,Coimbatore APMC,Gujarat,949.8
+2023-08-12,Wheat,23.18,Coimbatore APMC,Punjab,530.0
+2023-08-12,Rice,28.65,Madurai,Punjab,2891.2
+2023-08-12,Soybean,46.18,Hyderabad,Karnataka,2561.3
+2023-08-12,Cotton,62.85,Hyderabad,Tamil Nadu,3129.3
+2023-08-13,Tomato,36.75,Koyambedu,Uttar Pradesh,4678.4
+2023-08-13,Potato,11.3,Koyambedu,Punjab,3431.0
+2023-08-13,Corn,17.28,Madurai,Maharashtra,2513.4
+2023-08-13,Wheat,20.21,Madurai,Punjab,4692.2
+2023-08-13,Rice,29.53,Bengaluru APMC,Gujarat,4722.9
+2023-08-13,Soybean,44.06,Koyambedu,Punjab,1268.8
+2023-08-13,Cotton,62.79,Madurai,Andhra Pradesh,4803.9
+2023-08-14,Tomato,39.06,Hyderabad,Andhra Pradesh,3980.6
+2023-08-14,Potato,9.69,Chennai APMC,Punjab,340.2
+2023-08-14,Corn,17.86,Hyderabad,Maharashtra,4246.5
+2023-08-14,Wheat,21.01,Koyambedu,Punjab,4563.7
+2023-08-14,Rice,27.9,Bengaluru APMC,Rajasthan,3233.8
+2023-08-14,Soybean,46.41,Delhi Azadpur,Punjab,720.6
+2023-08-14,Cotton,63.84,Coimbatore APMC,Uttar Pradesh,4724.0
+2023-08-15,Tomato,37.61,Bengaluru APMC,Haryana,2203.9
+2023-08-15,Potato,12.23,Koyambedu,Gujarat,168.0
+2023-08-15,Corn,16.78,Koyambedu,Punjab,2828.2
+2023-08-15,Wheat,23.17,Bengaluru APMC,Uttar Pradesh,2513.2
+2023-08-15,Rice,29.4,Delhi Azadpur,Tamil Nadu,2661.4
+2023-08-15,Soybean,45.58,Chennai APMC,Andhra Pradesh,4736.6
+2023-08-15,Cotton,60.89,Delhi Azadpur,Rajasthan,908.1
+2023-08-16,Tomato,39.28,Mumbai APMC,Tamil Nadu,2694.7
+2023-08-16,Potato,10.55,Chennai APMC,Uttar Pradesh,1955.3
+2023-08-16,Corn,11.77,Mumbai APMC,Rajasthan,309.6
+2023-08-16,Wheat,22.81,Bengaluru APMC,Rajasthan,2643.7
+2023-08-16,Rice,30.51,Madurai,Rajasthan,1885.6
+2023-08-16,Soybean,42.61,Chennai APMC,Andhra Pradesh,538.3
+2023-08-16,Cotton,60.64,Madurai,Andhra Pradesh,3576.4
+2023-08-17,Tomato,40.11,Koyambedu,Andhra Pradesh,2501.6
+2023-08-17,Potato,15.27,Chennai APMC,Tamil Nadu,4614.3
+2023-08-17,Corn,16.21,Coimbatore APMC,Maharashtra,4625.3
+2023-08-17,Wheat,21.09,Chennai APMC,Andhra Pradesh,3315.0
+2023-08-17,Rice,28.91,Mumbai APMC,Karnataka,4936.1
+2023-08-17,Soybean,48.24,Coimbatore APMC,Punjab,4592.0
+2023-08-17,Cotton,61.21,Bengaluru APMC,Tamil Nadu,821.8
+2023-08-18,Tomato,38.01,Coimbatore APMC,Uttar Pradesh,4415.6
+2023-08-18,Potato,11.48,Bengaluru APMC,Uttar Pradesh,1064.1
+2023-08-18,Corn,14.78,Delhi Azadpur,Haryana,3466.9
+2023-08-18,Wheat,22.39,Bengaluru APMC,Haryana,1916.8
+2023-08-18,Rice,31.64,Coimbatore APMC,Gujarat,1304.5
+2023-08-18,Soybean,46.69,Chennai APMC,Haryana,256.9
+2023-08-18,Cotton,61.83,Hyderabad,Karnataka,3331.7
+2023-08-19,Tomato,38.8,Coimbatore APMC,Maharashtra,3206.1
+2023-08-19,Potato,9.89,Koyambedu,Karnataka,4516.0
+2023-08-19,Corn,17.56,Hyderabad,Maharashtra,957.6
+2023-08-19,Wheat,22.12,Mumbai APMC,Karnataka,4720.3
+2023-08-19,Rice,28.96,Delhi Azadpur,Haryana,1459.8
+2023-08-19,Soybean,51.02,Delhi Azadpur,Uttar Pradesh,4284.8
+2023-08-19,Cotton,62.68,Delhi Azadpur,Maharashtra,3816.9
+2023-08-20,Tomato,38.13,Bengaluru APMC,Andhra Pradesh,4753.5
+2023-08-20,Potato,11.62,Hyderabad,Andhra Pradesh,679.2
+2023-08-20,Corn,17.99,Chennai APMC,Gujarat,2420.2
+2023-08-20,Wheat,22.43,Koyambedu,Andhra Pradesh,238.3
+2023-08-20,Rice,27.11,Bengaluru APMC,Karnataka,463.9
+2023-08-20,Soybean,47.64,Koyambedu,Andhra Pradesh,2207.9
+2023-08-20,Cotton,61.26,Mumbai APMC,Gujarat,3704.8
+2023-08-21,Tomato,42.1,Hyderabad,Tamil Nadu,3331.2
+2023-08-21,Potato,13.91,Coimbatore APMC,Andhra Pradesh,3638.3
+2023-08-21,Corn,15.62,Chennai APMC,Tamil Nadu,4745.5
+2023-08-21,Wheat,24.22,Mumbai APMC,Uttar Pradesh,4613.1
+2023-08-21,Rice,29.4,Mumbai APMC,Gujarat,1043.2
+2023-08-21,Soybean,47.57,Chennai APMC,Haryana,1931.2
+2023-08-21,Cotton,63.02,Delhi Azadpur,Rajasthan,365.1
+2023-08-22,Tomato,38.06,Madurai,Andhra Pradesh,1712.6
+2023-08-22,Potato,11.36,Hyderabad,Tamil Nadu,4363.1
+2023-08-22,Corn,17.87,Koyambedu,Andhra Pradesh,3028.2
+2023-08-22,Wheat,21.82,Delhi Azadpur,Rajasthan,847.4
+2023-08-22,Rice,28.72,Mumbai APMC,Tamil Nadu,601.3
+2023-08-22,Soybean,44.89,Koyambedu,Haryana,2614.3
+2023-08-22,Cotton,62.96,Chennai APMC,Karnataka,3634.2
+2023-08-23,Tomato,42.45,Mumbai APMC,Punjab,240.2
+2023-08-23,Potato,10.76,Koyambedu,Andhra Pradesh,79.2
+2023-08-23,Corn,16.4,Chennai APMC,Tamil Nadu,4077.8
+2023-08-23,Wheat,24.48,Koyambedu,Andhra Pradesh,3822.8
+2023-08-23,Rice,29.24,Chennai APMC,Rajasthan,415.9
+2023-08-23,Soybean,47.04,Hyderabad,Haryana,1448.2
+2023-08-23,Cotton,60.77,Bengaluru APMC,Gujarat,4555.7
+2023-08-24,Tomato,40.04,Coimbatore APMC,Gujarat,3082.4
+2023-08-24,Potato,12.12,Mumbai APMC,Gujarat,2421.7
+2023-08-24,Corn,17.88,Madurai,Gujarat,2705.5
+2023-08-24,Wheat,24.18,Mumbai APMC,Andhra Pradesh,764.8
+2023-08-24,Rice,33.28,Madurai,Haryana,4995.7
+2023-08-24,Soybean,47.27,Madurai,Punjab,3713.0
+2023-08-24,Cotton,62.89,Bengaluru APMC,Uttar Pradesh,762.7
+2023-08-25,Tomato,39.73,Hyderabad,Haryana,3567.9
+2023-08-25,Potato,11.91,Coimbatore APMC,Haryana,668.9
+2023-08-25,Corn,16.94,Mumbai APMC,Andhra Pradesh,4712.3
+2023-08-25,Wheat,21.99,Bengaluru APMC,Haryana,2329.9
+2023-08-25,Rice,29.69,Hyderabad,Gujarat,4764.3
+2023-08-25,Soybean,48.41,Hyderabad,Punjab,1722.1
+2023-08-25,Cotton,60.92,Bengaluru APMC,Karnataka,3630.4
+2023-08-26,Tomato,41.18,Coimbatore APMC,Andhra Pradesh,1123.9
+2023-08-26,Potato,14.45,Coimbatore APMC,Andhra Pradesh,4742.6
+2023-08-26,Corn,16.3,Mumbai APMC,Gujarat,2763.6
+2023-08-26,Wheat,19.29,Bengaluru APMC,Punjab,3237.8
+2023-08-26,Rice,28.56,Coimbatore APMC,Haryana,749.6
+2023-08-26,Soybean,48.42,Koyambedu,Rajasthan,3278.6
+2023-08-26,Cotton,62.44,Delhi Azadpur,Haryana,301.9
+2023-08-27,Tomato,38.02,Coimbatore APMC,Punjab,2780.9
+2023-08-27,Potato,11.76,Madurai,Haryana,4688.8
+2023-08-27,Corn,17.78,Bengaluru APMC,Karnataka,4718.8
+2023-08-27,Wheat,23.34,Chennai APMC,Andhra Pradesh,1960.6
+2023-08-27,Rice,29.16,Madurai,Uttar Pradesh,4919.0
+2023-08-27,Soybean,45.96,Madurai,Haryana,2896.6
+2023-08-27,Cotton,61.93,Coimbatore APMC,Karnataka,2085.9
+2023-08-28,Tomato,38.17,Hyderabad,Andhra Pradesh,4346.7
+2023-08-28,Potato,14.98,Madurai,Gujarat,1615.3
+2023-08-28,Corn,16.07,Chennai APMC,Maharashtra,3945.5
+2023-08-28,Wheat,24.38,Koyambedu,Tamil Nadu,92.9
+2023-08-28,Rice,31.84,Chennai APMC,Punjab,4270.4
+2023-08-28,Soybean,48.06,Mumbai APMC,Punjab,1054.9
+2023-08-28,Cotton,61.91,Madurai,Andhra Pradesh,1572.4
+2023-08-29,Tomato,40.21,Koyambedu,Punjab,3135.0
+2023-08-29,Potato,12.57,Mumbai APMC,Gujarat,2401.7
+2023-08-29,Corn,15.25,Madurai,Uttar Pradesh,1551.0
+2023-08-29,Wheat,23.09,Madurai,Karnataka,858.1
+2023-08-29,Rice,27.83,Koyambedu,Rajasthan,4555.6
+2023-08-29,Soybean,48.38,Bengaluru APMC,Karnataka,2830.2
+2023-08-29,Cotton,61.91,Hyderabad,Uttar Pradesh,3465.3
+2023-08-30,Tomato,39.95,Coimbatore APMC,Maharashtra,3336.2
+2023-08-30,Potato,13.07,Madurai,Gujarat,530.5
+2023-08-30,Corn,16.26,Chennai APMC,Karnataka,4407.1
+2023-08-30,Wheat,23.53,Hyderabad,Haryana,2410.6
+2023-08-30,Rice,28.94,Chennai APMC,Punjab,4658.2
+2023-08-30,Soybean,47.96,Madurai,Gujarat,4475.2
+2023-08-30,Cotton,60.63,Hyderabad,Punjab,4433.7
+2023-08-31,Tomato,39.89,Koyambedu,Punjab,391.0
+2023-08-31,Potato,15.6,Madurai,Uttar Pradesh,3403.0
+2023-08-31,Corn,15.2,Madurai,Maharashtra,4964.8
+2023-08-31,Wheat,21.68,Coimbatore APMC,Punjab,1497.1
+2023-08-31,Rice,30.47,Koyambedu,Punjab,3033.9
+2023-08-31,Soybean,46.96,Hyderabad,Tamil Nadu,3128.2
+2023-08-31,Cotton,63.22,Bengaluru APMC,Karnataka,1857.8
+2023-09-01,Tomato,40.48,Delhi Azadpur,Andhra Pradesh,2591.4
+2023-09-01,Potato,13.7,Chennai APMC,Gujarat,1626.9
+2023-09-01,Corn,18.41,Madurai,Tamil Nadu,3264.6
+2023-09-01,Wheat,23.36,Delhi Azadpur,Uttar Pradesh,2272.2
+2023-09-01,Rice,29.38,Bengaluru APMC,Punjab,250.3
+2023-09-01,Soybean,47.75,Hyderabad,Maharashtra,1697.9
+2023-09-01,Cotton,65.59,Chennai APMC,Karnataka,4366.6
+2023-09-02,Tomato,39.6,Chennai APMC,Tamil Nadu,1548.4
+2023-09-02,Potato,11.33,Coimbatore APMC,Gujarat,1931.1
+2023-09-02,Corn,18.46,Chennai APMC,Uttar Pradesh,3499.4
+2023-09-02,Wheat,22.61,Mumbai APMC,Punjab,4025.6
+2023-09-02,Rice,26.54,Bengaluru APMC,Haryana,3551.0
+2023-09-02,Soybean,48.07,Madurai,Punjab,3609.6
+2023-09-02,Cotton,61.99,Coimbatore APMC,Gujarat,1444.1
+2023-09-03,Tomato,39.71,Koyambedu,Gujarat,4597.9
+2023-09-03,Potato,13.35,Koyambedu,Punjab,4314.3
+2023-09-03,Corn,17.13,Koyambedu,Tamil Nadu,4063.2
+2023-09-03,Wheat,23.91,Koyambedu,Andhra Pradesh,418.4
+2023-09-03,Rice,29.19,Mumbai APMC,Maharashtra,812.3
+2023-09-03,Soybean,47.62,Coimbatore APMC,Maharashtra,4325.3
+2023-09-03,Cotton,62.46,Chennai APMC,Tamil Nadu,3695.7
+2023-09-04,Tomato,41.01,Mumbai APMC,Maharashtra,823.4
+2023-09-04,Potato,13.82,Hyderabad,Punjab,3941.4
+2023-09-04,Corn,15.5,Koyambedu,Maharashtra,328.0
+2023-09-04,Wheat,24.53,Madurai,Andhra Pradesh,4594.1
+2023-09-04,Rice,29.1,Koyambedu,Karnataka,503.9
+2023-09-04,Soybean,48.11,Koyambedu,Tamil Nadu,2193.2
+2023-09-04,Cotton,63.45,Coimbatore APMC,Andhra Pradesh,297.5
+2023-09-05,Tomato,42.71,Koyambedu,Haryana,1636.0
+2023-09-05,Potato,12.62,Coimbatore APMC,Gujarat,4096.9
+2023-09-05,Corn,16.43,Hyderabad,Karnataka,2372.6
+2023-09-05,Wheat,22.93,Chennai APMC,Gujarat,965.4
+2023-09-05,Rice,29.5,Chennai APMC,Maharashtra,920.5
+2023-09-05,Soybean,48.16,Coimbatore APMC,Uttar Pradesh,762.3
+2023-09-05,Cotton,60.53,Coimbatore APMC,Maharashtra,3529.2
+2023-09-06,Tomato,38.43,Koyambedu,Andhra Pradesh,975.9
+2023-09-06,Potato,11.41,Mumbai APMC,Andhra Pradesh,854.0
+2023-09-06,Corn,18.44,Delhi Azadpur,Haryana,2557.9
+2023-09-06,Wheat,25.58,Delhi Azadpur,Andhra Pradesh,2161.3
+2023-09-06,Rice,29.86,Mumbai APMC,Andhra Pradesh,2676.2
+2023-09-06,Soybean,46.76,Delhi Azadpur,Uttar Pradesh,3783.8
+2023-09-06,Cotton,63.12,Koyambedu,Tamil Nadu,360.8
+2023-09-07,Tomato,41.81,Mumbai APMC,Tamil Nadu,3118.2
+2023-09-07,Potato,11.68,Bengaluru APMC,Maharashtra,3386.5
+2023-09-07,Corn,17.43,Hyderabad,Tamil Nadu,4887.0
+2023-09-07,Wheat,24.53,Koyambedu,Punjab,2961.3
+2023-09-07,Rice,30.82,Mumbai APMC,Maharashtra,2867.5
+2023-09-07,Soybean,47.36,Mumbai APMC,Gujarat,1822.7
+2023-09-07,Cotton,64.57,Hyderabad,Punjab,2523.5
+2023-09-08,Tomato,36.08,Hyderabad,Punjab,2752.3
+2023-09-08,Potato,14.15,Coimbatore APMC,Andhra Pradesh,2956.8
+2023-09-08,Corn,16.15,Chennai APMC,Punjab,2078.2
+2023-09-08,Wheat,20.38,Hyderabad,Punjab,4621.1
+2023-09-08,Rice,30.9,Bengaluru APMC,Gujarat,4350.0
+2023-09-08,Soybean,49.19,Hyderabad,Gujarat,805.8
+2023-09-08,Cotton,62.92,Bengaluru APMC,Haryana,4750.7
+2023-09-09,Tomato,41.62,Madurai,Punjab,1938.2
+2023-09-09,Potato,15.61,Madurai,Haryana,1860.3
+2023-09-09,Corn,19.16,Bengaluru APMC,Karnataka,797.6
+2023-09-09,Wheat,25.65,Madurai,Andhra Pradesh,519.5
+2023-09-09,Rice,31.31,Bengaluru APMC,Gujarat,792.0
+2023-09-09,Soybean,47.3,Mumbai APMC,Andhra Pradesh,157.3
+2023-09-09,Cotton,60.79,Bengaluru APMC,Karnataka,1552.4
+2023-09-10,Tomato,39.89,Delhi Azadpur,Andhra Pradesh,990.2
+2023-09-10,Potato,11.99,Hyderabad,Haryana,2203.8
+2023-09-10,Corn,20.51,Madurai,Gujarat,4847.0
+2023-09-10,Wheat,22.99,Chennai APMC,Punjab,4809.1
+2023-09-10,Rice,30.44,Koyambedu,Punjab,3544.8
+2023-09-10,Soybean,48.08,Delhi Azadpur,Karnataka,1214.0
+2023-09-10,Cotton,63.32,Hyderabad,Andhra Pradesh,2110.9
+2023-09-11,Tomato,42.86,Chennai APMC,Uttar Pradesh,3176.0
+2023-09-11,Potato,12.38,Mumbai APMC,Uttar Pradesh,3436.1
+2023-09-11,Corn,17.61,Bengaluru APMC,Maharashtra,3015.6
+2023-09-11,Wheat,22.2,Delhi Azadpur,Punjab,3637.5
+2023-09-11,Rice,28.34,Madurai,Punjab,2848.4
+2023-09-11,Soybean,46.4,Hyderabad,Maharashtra,137.7
+2023-09-11,Cotton,63.26,Mumbai APMC,Haryana,1268.2
+2023-09-12,Tomato,39.74,Mumbai APMC,Andhra Pradesh,4555.2
+2023-09-12,Potato,12.34,Mumbai APMC,Gujarat,3944.7
+2023-09-12,Corn,15.27,Mumbai APMC,Punjab,3506.7
+2023-09-12,Wheat,23.26,Madurai,Punjab,3918.9
+2023-09-12,Rice,28.13,Coimbatore APMC,Andhra Pradesh,4075.9
+2023-09-12,Soybean,48.52,Coimbatore APMC,Gujarat,2838.3
+2023-09-12,Cotton,63.51,Chennai APMC,Punjab,2579.3
+2023-09-13,Tomato,38.26,Koyambedu,Haryana,3763.5
+2023-09-13,Potato,12.99,Mumbai APMC,Maharashtra,2669.7
+2023-09-13,Corn,16.32,Hyderabad,Uttar Pradesh,381.3
+2023-09-13,Wheat,23.93,Bengaluru APMC,Andhra Pradesh,3966.8
+2023-09-13,Rice,32.46,Delhi Azadpur,Karnataka,1850.7
+2023-09-13,Soybean,44.64,Chennai APMC,Gujarat,1270.6
+2023-09-13,Cotton,63.62,Chennai APMC,Punjab,1813.0
+2023-09-14,Tomato,40.28,Hyderabad,Rajasthan,773.3
+2023-09-14,Potato,14.53,Delhi Azadpur,Punjab,2449.3
+2023-09-14,Corn,17.84,Mumbai APMC,Rajasthan,1040.3
+2023-09-14,Wheat,22.39,Coimbatore APMC,Maharashtra,1513.3
+2023-09-14,Rice,30.04,Chennai APMC,Andhra Pradesh,2641.3
+2023-09-14,Soybean,46.32,Delhi Azadpur,Andhra Pradesh,3964.0
+2023-09-14,Cotton,65.13,Bengaluru APMC,Tamil Nadu,1526.0
+2023-09-15,Tomato,40.62,Coimbatore APMC,Karnataka,1515.7
+2023-09-15,Potato,16.44,Chennai APMC,Haryana,439.6
+2023-09-15,Corn,17.5,Hyderabad,Karnataka,2261.1
+2023-09-15,Wheat,22.52,Bengaluru APMC,Rajasthan,827.0
+2023-09-15,Rice,28.32,Hyderabad,Punjab,583.3
+2023-09-15,Soybean,44.88,Delhi Azadpur,Gujarat,1415.9
+2023-09-15,Cotton,61.21,Hyderabad,Uttar Pradesh,856.4
+2023-09-16,Tomato,41.06,Madurai,Punjab,4782.7
+2023-09-16,Potato,14.42,Koyambedu,Tamil Nadu,4345.3
+2023-09-16,Corn,15.29,Hyderabad,Punjab,751.7
+2023-09-16,Wheat,25.0,Bengaluru APMC,Rajasthan,176.1
+2023-09-16,Rice,29.93,Bengaluru APMC,Punjab,2007.9
+2023-09-16,Soybean,47.88,Mumbai APMC,Tamil Nadu,3235.9
+2023-09-16,Cotton,66.08,Mumbai APMC,Tamil Nadu,4422.1
+2023-09-17,Tomato,42.08,Chennai APMC,Karnataka,2508.5
+2023-09-17,Potato,13.33,Koyambedu,Karnataka,800.3
+2023-09-17,Corn,16.39,Madurai,Andhra Pradesh,504.7
+2023-09-17,Wheat,20.5,Mumbai APMC,Punjab,1723.9
+2023-09-17,Rice,29.65,Bengaluru APMC,Punjab,3766.7
+2023-09-17,Soybean,47.41,Hyderabad,Haryana,2748.3
+2023-09-17,Cotton,62.25,Bengaluru APMC,Haryana,3488.2
+2023-09-18,Tomato,40.61,Koyambedu,Andhra Pradesh,2270.1
+2023-09-18,Potato,13.92,Koyambedu,Uttar Pradesh,1175.6
+2023-09-18,Corn,17.47,Chennai APMC,Rajasthan,169.9
+2023-09-18,Wheat,22.83,Coimbatore APMC,Gujarat,259.9
+2023-09-18,Rice,31.06,Coimbatore APMC,Andhra Pradesh,4752.3
+2023-09-18,Soybean,48.47,Madurai,Rajasthan,1631.3
+2023-09-18,Cotton,62.17,Bengaluru APMC,Haryana,145.3
+2023-09-19,Tomato,42.99,Delhi Azadpur,Gujarat,166.4
+2023-09-19,Potato,13.73,Bengaluru APMC,Rajasthan,386.4
+2023-09-19,Corn,17.91,Coimbatore APMC,Tamil Nadu,1083.7
+2023-09-19,Wheat,24.94,Hyderabad,Tamil Nadu,1779.4
+2023-09-19,Rice,31.23,Koyambedu,Punjab,2570.3
+2023-09-19,Soybean,49.31,Madurai,Haryana,1103.3
+2023-09-19,Cotton,64.31,Chennai APMC,Uttar Pradesh,1365.0
+2023-09-20,Tomato,40.03,Mumbai APMC,Rajasthan,1972.7
+2023-09-20,Potato,14.5,Coimbatore APMC,Uttar Pradesh,1705.7
+2023-09-20,Corn,16.24,Mumbai APMC,Uttar Pradesh,1993.5
+2023-09-20,Wheat,24.12,Delhi Azadpur,Gujarat,192.6
+2023-09-20,Rice,30.9,Bengaluru APMC,Andhra Pradesh,964.9
+2023-09-20,Soybean,47.64,Chennai APMC,Haryana,4032.9
+2023-09-20,Cotton,63.76,Coimbatore APMC,Andhra Pradesh,3810.8
+2023-09-21,Tomato,38.21,Delhi Azadpur,Andhra Pradesh,4438.9
+2023-09-21,Potato,13.21,Delhi Azadpur,Punjab,2345.7
+2023-09-21,Corn,18.17,Coimbatore APMC,Uttar Pradesh,1123.2
+2023-09-21,Wheat,24.27,Chennai APMC,Uttar Pradesh,111.2
+2023-09-21,Rice,29.49,Madurai,Punjab,1071.4
+2023-09-21,Soybean,49.93,Bengaluru APMC,Punjab,2316.5
+2023-09-21,Cotton,62.73,Bengaluru APMC,Karnataka,4608.1
+2023-09-22,Tomato,42.56,Hyderabad,Rajasthan,3003.9
+2023-09-22,Potato,14.75,Coimbatore APMC,Maharashtra,3101.0
+2023-09-22,Corn,17.14,Chennai APMC,Tamil Nadu,3115.4
+2023-09-22,Wheat,26.77,Chennai APMC,Uttar Pradesh,4654.3
+2023-09-22,Rice,29.32,Delhi Azadpur,Gujarat,1938.0
+2023-09-22,Soybean,49.49,Madurai,Maharashtra,315.0
+2023-09-22,Cotton,65.61,Coimbatore APMC,Andhra Pradesh,4856.2
+2023-09-23,Tomato,40.18,Mumbai APMC,Maharashtra,1435.9
+2023-09-23,Potato,16.28,Chennai APMC,Uttar Pradesh,3863.7
+2023-09-23,Corn,17.81,Koyambedu,Uttar Pradesh,752.1
+2023-09-23,Wheat,24.62,Hyderabad,Andhra Pradesh,645.6
+2023-09-23,Rice,31.58,Chennai APMC,Gujarat,914.2
+2023-09-23,Soybean,47.99,Koyambedu,Maharashtra,3637.8
+2023-09-23,Cotton,65.4,Hyderabad,Rajasthan,1402.0
+2023-09-24,Tomato,42.46,Chennai APMC,Gujarat,363.3
+2023-09-24,Potato,11.64,Madurai,Andhra Pradesh,372.5
+2023-09-24,Corn,20.22,Bengaluru APMC,Tamil Nadu,233.9
+2023-09-24,Wheat,21.77,Bengaluru APMC,Gujarat,2091.5
+2023-09-24,Rice,32.82,Chennai APMC,Tamil Nadu,3300.2
+2023-09-24,Soybean,49.96,Delhi Azadpur,Uttar Pradesh,3608.4
+2023-09-24,Cotton,62.63,Coimbatore APMC,Uttar Pradesh,170.8
+2023-09-25,Tomato,40.73,Delhi Azadpur,Andhra Pradesh,1212.4
+2023-09-25,Potato,12.69,Hyderabad,Tamil Nadu,4979.4
+2023-09-25,Corn,18.03,Chennai APMC,Haryana,2816.8
+2023-09-25,Wheat,23.89,Hyderabad,Andhra Pradesh,3592.1
+2023-09-25,Rice,32.52,Chennai APMC,Uttar Pradesh,1852.0
+2023-09-25,Soybean,50.31,Mumbai APMC,Gujarat,4112.5
+2023-09-25,Cotton,66.44,Madurai,Punjab,3310.1
+2023-09-26,Tomato,40.59,Mumbai APMC,Rajasthan,2726.8
+2023-09-26,Potato,14.12,Mumbai APMC,Punjab,2064.7
+2023-09-26,Corn,15.91,Bengaluru APMC,Punjab,2364.0
+2023-09-26,Wheat,23.22,Mumbai APMC,Uttar Pradesh,780.8
+2023-09-26,Rice,32.88,Hyderabad,Rajasthan,2068.7
+2023-09-26,Soybean,50.86,Bengaluru APMC,Maharashtra,3030.7
+2023-09-26,Cotton,62.58,Madurai,Punjab,4627.4
+2023-09-27,Tomato,40.63,Hyderabad,Gujarat,3780.8
+2023-09-27,Potato,14.48,Madurai,Tamil Nadu,1750.1
+2023-09-27,Corn,18.94,Madurai,Punjab,2724.0
+2023-09-27,Wheat,23.3,Madurai,Karnataka,4887.3
+2023-09-27,Rice,32.15,Coimbatore APMC,Haryana,454.6
+2023-09-27,Soybean,47.8,Bengaluru APMC,Maharashtra,4953.0
+2023-09-27,Cotton,64.49,Chennai APMC,Rajasthan,563.9
+2023-09-28,Tomato,42.42,Chennai APMC,Uttar Pradesh,4675.8
+2023-09-28,Potato,14.61,Madurai,Andhra Pradesh,3435.9
+2023-09-28,Corn,17.95,Mumbai APMC,Gujarat,628.8
+2023-09-28,Wheat,24.44,Mumbai APMC,Rajasthan,4687.8
+2023-09-28,Rice,31.47,Bengaluru APMC,Andhra Pradesh,2906.2
+2023-09-28,Soybean,48.04,Bengaluru APMC,Maharashtra,1167.8
+2023-09-28,Cotton,64.21,Hyderabad,Karnataka,4180.0
+2023-09-29,Tomato,44.08,Coimbatore APMC,Tamil Nadu,4471.3
+2023-09-29,Potato,15.53,Koyambedu,Gujarat,764.6
+2023-09-29,Corn,18.24,Koyambedu,Uttar Pradesh,1247.1
+2023-09-29,Wheat,25.73,Bengaluru APMC,Uttar Pradesh,4134.9
+2023-09-29,Rice,31.18,Koyambedu,Andhra Pradesh,166.4
+2023-09-29,Soybean,50.45,Chennai APMC,Uttar Pradesh,649.3
+2023-09-29,Cotton,65.24,Madurai,Maharashtra,381.8
+2023-09-30,Tomato,41.61,Hyderabad,Maharashtra,2138.5
+2023-09-30,Potato,15.44,Mumbai APMC,Haryana,102.3
+2023-09-30,Corn,16.42,Delhi Azadpur,Punjab,1969.3
+2023-09-30,Wheat,23.08,Coimbatore APMC,Uttar Pradesh,2171.2
+2023-09-30,Rice,29.98,Hyderabad,Tamil Nadu,3411.6
+2023-09-30,Soybean,48.99,Chennai APMC,Gujarat,1632.2
+2023-09-30,Cotton,67.37,Chennai APMC,Uttar Pradesh,3518.1
+2023-10-01,Tomato,45.21,Bengaluru APMC,Rajasthan,3860.4
+2023-10-01,Potato,15.82,Bengaluru APMC,Punjab,4748.2
+2023-10-01,Corn,19.61,Hyderabad,Tamil Nadu,1930.8
+2023-10-01,Wheat,22.16,Hyderabad,Maharashtra,2400.6
+2023-10-01,Rice,31.05,Koyambedu,Maharashtra,1264.7
+2023-10-01,Soybean,47.68,Koyambedu,Gujarat,1930.3
+2023-10-01,Cotton,63.93,Mumbai APMC,Andhra Pradesh,3037.9
+2023-10-02,Tomato,41.7,Hyderabad,Tamil Nadu,1648.2
+2023-10-02,Potato,14.24,Hyderabad,Andhra Pradesh,3087.9
+2023-10-02,Corn,15.98,Koyambedu,Tamil Nadu,3434.9
+2023-10-02,Wheat,26.07,Chennai APMC,Rajasthan,2249.9
+2023-10-02,Rice,30.34,Madurai,Gujarat,1410.0
+2023-10-02,Soybean,49.31,Bengaluru APMC,Rajasthan,3285.8
+2023-10-02,Cotton,68.06,Chennai APMC,Uttar Pradesh,2949.0
+2023-10-03,Tomato,40.66,Hyderabad,Karnataka,4516.2
+2023-10-03,Potato,11.24,Delhi Azadpur,Karnataka,247.1
+2023-10-03,Corn,18.61,Mumbai APMC,Haryana,592.9
+2023-10-03,Wheat,26.69,Madurai,Maharashtra,1035.7
+2023-10-03,Rice,34.97,Hyderabad,Andhra Pradesh,78.2
+2023-10-03,Soybean,47.19,Madurai,Haryana,267.2
+2023-10-03,Cotton,65.78,Madurai,Andhra Pradesh,1733.3
+2023-10-04,Tomato,41.43,Hyderabad,Andhra Pradesh,3583.4
+2023-10-04,Potato,14.97,Koyambedu,Maharashtra,863.9
+2023-10-04,Corn,23.09,Madurai,Tamil Nadu,2218.6
+2023-10-04,Wheat,22.87,Mumbai APMC,Haryana,151.7
+2023-10-04,Rice,32.51,Mumbai APMC,Rajasthan,576.3
+2023-10-04,Soybean,49.83,Hyderabad,Tamil Nadu,1430.6
+2023-10-04,Cotton,66.76,Bengaluru APMC,Maharashtra,372.6
+2023-10-05,Tomato,42.37,Delhi Azadpur,Punjab,2399.4
+2023-10-05,Potato,15.68,Coimbatore APMC,Karnataka,649.0
+2023-10-05,Corn,18.63,Madurai,Maharashtra,2873.6
+2023-10-05,Wheat,25.62,Coimbatore APMC,Gujarat,3316.3
+2023-10-05,Rice,31.7,Mumbai APMC,Rajasthan,1351.9
+2023-10-05,Soybean,50.15,Koyambedu,Karnataka,2931.5
+2023-10-05,Cotton,64.66,Koyambedu,Rajasthan,246.8
+2023-10-06,Tomato,42.88,Coimbatore APMC,Karnataka,1536.7
+2023-10-06,Potato,15.27,Bengaluru APMC,Tamil Nadu,1890.7
+2023-10-06,Corn,21.0,Chennai APMC,Maharashtra,2646.6
+2023-10-06,Wheat,25.23,Delhi Azadpur,Rajasthan,93.8
+2023-10-06,Rice,29.65,Madurai,Punjab,4607.6
+2023-10-06,Soybean,51.2,Hyderabad,Andhra Pradesh,983.9
+2023-10-06,Cotton,63.95,Hyderabad,Gujarat,2419.7
+2023-10-07,Tomato,41.42,Koyambedu,Karnataka,1969.9
+2023-10-07,Potato,14.51,Koyambedu,Karnataka,3352.1
+2023-10-07,Corn,21.47,Madurai,Maharashtra,2414.6
+2023-10-07,Wheat,22.2,Koyambedu,Karnataka,1273.0
+2023-10-07,Rice,37.11,Bengaluru APMC,Punjab,4691.2
+2023-10-07,Soybean,50.99,Delhi Azadpur,Haryana,345.4
+2023-10-07,Cotton,65.74,Bengaluru APMC,Tamil Nadu,4359.8
+2023-10-08,Tomato,42.41,Bengaluru APMC,Tamil Nadu,1003.4
+2023-10-08,Potato,15.93,Mumbai APMC,Haryana,2276.7
+2023-10-08,Corn,20.28,Coimbatore APMC,Karnataka,2422.9
+2023-10-08,Wheat,26.46,Bengaluru APMC,Karnataka,1244.6
+2023-10-08,Rice,33.33,Delhi Azadpur,Gujarat,3876.8
+2023-10-08,Soybean,49.63,Bengaluru APMC,Tamil Nadu,2115.7
+2023-10-08,Cotton,65.2,Koyambedu,Karnataka,3875.9
+2023-10-09,Tomato,42.36,Chennai APMC,Punjab,1423.1
+2023-10-09,Potato,15.3,Delhi Azadpur,Gujarat,3268.3
+2023-10-09,Corn,21.29,Mumbai APMC,Uttar Pradesh,4189.8
+2023-10-09,Wheat,26.48,Mumbai APMC,Uttar Pradesh,4284.1
+2023-10-09,Rice,28.18,Hyderabad,Rajasthan,2464.5
+2023-10-09,Soybean,50.57,Madurai,Gujarat,1718.5
+2023-10-09,Cotton,65.88,Hyderabad,Punjab,2687.1
+2023-10-10,Tomato,42.66,Koyambedu,Uttar Pradesh,3164.2
+2023-10-10,Potato,15.1,Delhi Azadpur,Uttar Pradesh,2992.4
+2023-10-10,Corn,21.37,Coimbatore APMC,Punjab,4637.8
+2023-10-10,Wheat,27.11,Mumbai APMC,Andhra Pradesh,2851.8
+2023-10-10,Rice,31.53,Mumbai APMC,Uttar Pradesh,999.6
+2023-10-10,Soybean,50.3,Mumbai APMC,Rajasthan,3396.7
+2023-10-10,Cotton,64.23,Delhi Azadpur,Uttar Pradesh,3008.9
+2023-10-11,Tomato,40.71,Coimbatore APMC,Karnataka,4021.1
+2023-10-11,Potato,14.84,Delhi Azadpur,Andhra Pradesh,3451.2
+2023-10-11,Corn,21.08,Mumbai APMC,Rajasthan,2786.9
+2023-10-11,Wheat,27.21,Coimbatore APMC,Gujarat,2929.7
+2023-10-11,Rice,33.55,Madurai,Maharashtra,3636.7
+2023-10-11,Soybean,50.87,Delhi Azadpur,Andhra Pradesh,1068.4
+2023-10-11,Cotton,66.56,Mumbai APMC,Karnataka,4442.0
+2023-10-12,Tomato,41.92,Hyderabad,Punjab,1265.9
+2023-10-12,Potato,16.53,Hyderabad,Uttar Pradesh,4665.8
+2023-10-12,Corn,21.08,Hyderabad,Rajasthan,1739.9
+2023-10-12,Wheat,27.01,Delhi Azadpur,Maharashtra,1300.1
+2023-10-12,Rice,34.66,Bengaluru APMC,Rajasthan,4920.1
+2023-10-12,Soybean,50.94,Chennai APMC,Maharashtra,985.2
+2023-10-12,Cotton,66.41,Delhi Azadpur,Gujarat,2301.1
+2023-10-13,Tomato,44.58,Delhi Azadpur,Rajasthan,2858.9
+2023-10-13,Potato,15.94,Coimbatore APMC,Uttar Pradesh,302.4
+2023-10-13,Corn,18.65,Bengaluru APMC,Gujarat,2996.6
+2023-10-13,Wheat,25.73,Hyderabad,Haryana,1965.1
+2023-10-13,Rice,31.86,Koyambedu,Karnataka,946.5
+2023-10-13,Soybean,48.96,Mumbai APMC,Tamil Nadu,253.1
+2023-10-13,Cotton,65.76,Koyambedu,Uttar Pradesh,581.9
+2023-10-14,Tomato,41.88,Delhi Azadpur,Karnataka,3930.2
+2023-10-14,Potato,15.61,Bengaluru APMC,Andhra Pradesh,247.7
+2023-10-14,Corn,17.23,Chennai APMC,Tamil Nadu,601.6
+2023-10-14,Wheat,26.39,Delhi Azadpur,Uttar Pradesh,2177.5
+2023-10-14,Rice,33.07,Coimbatore APMC,Andhra Pradesh,3110.6
+2023-10-14,Soybean,48.85,Delhi Azadpur,Rajasthan,1800.1
+2023-10-14,Cotton,67.06,Coimbatore APMC,Karnataka,163.6
+2023-10-15,Tomato,44.58,Mumbai APMC,Andhra Pradesh,900.6
+2023-10-15,Potato,13.76,Bengaluru APMC,Andhra Pradesh,2731.5
+2023-10-15,Corn,19.03,Chennai APMC,Karnataka,501.3
+2023-10-15,Wheat,25.02,Delhi Azadpur,Gujarat,666.6
+2023-10-15,Rice,31.76,Coimbatore APMC,Haryana,1143.8
+2023-10-15,Soybean,51.41,Hyderabad,Karnataka,4464.8
+2023-10-15,Cotton,65.88,Coimbatore APMC,Uttar Pradesh,581.6
+2023-10-16,Tomato,42.87,Coimbatore APMC,Uttar Pradesh,2204.2
+2023-10-16,Potato,13.26,Bengaluru APMC,Gujarat,1106.3
+2023-10-16,Corn,21.22,Koyambedu,Maharashtra,2072.2
+2023-10-16,Wheat,24.41,Hyderabad,Gujarat,794.4
+2023-10-16,Rice,33.36,Bengaluru APMC,Haryana,164.0
+2023-10-16,Soybean,50.69,Delhi Azadpur,Andhra Pradesh,4414.9
+2023-10-16,Cotton,68.31,Hyderabad,Haryana,3958.5
+2023-10-17,Tomato,41.41,Mumbai APMC,Punjab,152.5
+2023-10-17,Potato,11.84,Bengaluru APMC,Gujarat,3052.4
+2023-10-17,Corn,20.64,Mumbai APMC,Karnataka,3532.1
+2023-10-17,Wheat,29.07,Bengaluru APMC,Karnataka,3950.9
+2023-10-17,Rice,35.23,Coimbatore APMC,Andhra Pradesh,1605.3
+2023-10-17,Soybean,50.68,Bengaluru APMC,Uttar Pradesh,1281.4
+2023-10-17,Cotton,65.63,Delhi Azadpur,Andhra Pradesh,1928.2
+2023-10-18,Tomato,44.68,Hyderabad,Tamil Nadu,3448.1
+2023-10-18,Potato,15.01,Coimbatore APMC,Maharashtra,2288.6
+2023-10-18,Corn,21.18,Chennai APMC,Haryana,2879.7
+2023-10-18,Wheat,27.23,Mumbai APMC,Haryana,151.4
+2023-10-18,Rice,35.06,Bengaluru APMC,Gujarat,4550.5
+2023-10-18,Soybean,54.61,Koyambedu,Haryana,1311.9
+2023-10-18,Cotton,67.06,Coimbatore APMC,Uttar Pradesh,1864.6
+2023-10-19,Tomato,42.8,Delhi Azadpur,Gujarat,832.6
+2023-10-19,Potato,16.53,Coimbatore APMC,Rajasthan,3015.6
+2023-10-19,Corn,17.91,Coimbatore APMC,Tamil Nadu,4896.8
+2023-10-19,Wheat,25.53,Mumbai APMC,Tamil Nadu,3815.5
+2023-10-19,Rice,32.95,Koyambedu,Karnataka,507.3
+2023-10-19,Soybean,49.78,Chennai APMC,Uttar Pradesh,442.3
+2023-10-19,Cotton,66.8,Delhi Azadpur,Gujarat,787.7
+2023-10-20,Tomato,42.43,Madurai,Haryana,1428.6
+2023-10-20,Potato,18.35,Madurai,Andhra Pradesh,2076.8
+2023-10-20,Corn,20.67,Madurai,Rajasthan,380.6
+2023-10-20,Wheat,26.65,Koyambedu,Tamil Nadu,2884.4
+2023-10-20,Rice,33.18,Madurai,Uttar Pradesh,2762.3
+2023-10-20,Soybean,50.9,Bengaluru APMC,Karnataka,1219.4
+2023-10-20,Cotton,67.91,Coimbatore APMC,Maharashtra,383.5
+2023-10-21,Tomato,42.47,Koyambedu,Uttar Pradesh,4095.6
+2023-10-21,Potato,15.78,Madurai,Rajasthan,664.5
+2023-10-21,Corn,20.31,Hyderabad,Rajasthan,3816.3
+2023-10-21,Wheat,24.75,Madurai,Karnataka,2691.6
+2023-10-21,Rice,32.54,Madurai,Andhra Pradesh,3945.2
+2023-10-21,Soybean,50.06,Mumbai APMC,Karnataka,3843.4
+2023-10-21,Cotton,68.08,Chennai APMC,Rajasthan,2547.3
+2023-10-22,Tomato,44.26,Chennai APMC,Haryana,718.0
+2023-10-22,Potato,17.16,Chennai APMC,Gujarat,821.8
+2023-10-22,Corn,22.15,Madurai,Andhra Pradesh,4315.4
+2023-10-22,Wheat,26.66,Mumbai APMC,Uttar Pradesh,2338.9
+2023-10-22,Rice,34.46,Hyderabad,Karnataka,3565.5
+2023-10-22,Soybean,50.72,Coimbatore APMC,Karnataka,3218.7
+2023-10-22,Cotton,67.27,Chennai APMC,Maharashtra,4915.1
+2023-10-23,Tomato,43.1,Madurai,Tamil Nadu,1471.7
+2023-10-23,Potato,13.31,Hyderabad,Haryana,2774.1
+2023-10-23,Corn,20.77,Bengaluru APMC,Rajasthan,2359.8
+2023-10-23,Wheat,29.11,Mumbai APMC,Haryana,3770.6
+2023-10-23,Rice,35.36,Bengaluru APMC,Karnataka,2540.6
+2023-10-23,Soybean,52.42,Hyderabad,Karnataka,4034.0
+2023-10-23,Cotton,68.83,Coimbatore APMC,Maharashtra,3019.0
+2023-10-24,Tomato,44.21,Mumbai APMC,Uttar Pradesh,621.9
+2023-10-24,Potato,17.37,Bengaluru APMC,Haryana,1910.9
+2023-10-24,Corn,20.15,Mumbai APMC,Tamil Nadu,1607.0
+2023-10-24,Wheat,26.6,Coimbatore APMC,Tamil Nadu,1117.1
+2023-10-24,Rice,35.0,Madurai,Gujarat,4332.7
+2023-10-24,Soybean,52.88,Madurai,Uttar Pradesh,2012.0
+2023-10-24,Cotton,66.86,Madurai,Tamil Nadu,4507.5
+2023-10-25,Tomato,43.5,Hyderabad,Uttar Pradesh,2459.5
+2023-10-25,Potato,17.18,Hyderabad,Gujarat,1889.3
+2023-10-25,Corn,22.08,Coimbatore APMC,Gujarat,695.5
+2023-10-25,Wheat,25.01,Chennai APMC,Andhra Pradesh,4741.2
+2023-10-25,Rice,30.73,Koyambedu,Uttar Pradesh,1901.5
+2023-10-25,Soybean,50.35,Mumbai APMC,Gujarat,4551.5
+2023-10-25,Cotton,65.35,Bengaluru APMC,Maharashtra,3011.3
+2023-10-26,Tomato,43.52,Mumbai APMC,Rajasthan,2780.5
+2023-10-26,Potato,17.06,Chennai APMC,Gujarat,385.4
+2023-10-26,Corn,20.6,Mumbai APMC,Andhra Pradesh,1586.2
+2023-10-26,Wheat,29.46,Madurai,Tamil Nadu,4960.9
+2023-10-26,Rice,34.77,Madurai,Rajasthan,1384.6
+2023-10-26,Soybean,51.73,Chennai APMC,Rajasthan,1132.5
+2023-10-26,Cotton,68.21,Mumbai APMC,Tamil Nadu,2269.4
+2023-10-27,Tomato,42.67,Mumbai APMC,Gujarat,1767.3
+2023-10-27,Potato,18.94,Mumbai APMC,Uttar Pradesh,1871.4
+2023-10-27,Corn,21.27,Koyambedu,Gujarat,3804.5
+2023-10-27,Wheat,28.39,Bengaluru APMC,Rajasthan,229.0
+2023-10-27,Rice,32.77,Koyambedu,Karnataka,4668.1
+2023-10-27,Soybean,49.05,Bengaluru APMC,Punjab,3320.1
+2023-10-27,Cotton,68.61,Hyderabad,Uttar Pradesh,762.6
+2023-10-28,Tomato,45.05,Coimbatore APMC,Maharashtra,3103.5
+2023-10-28,Potato,16.13,Delhi Azadpur,Haryana,1140.2
+2023-10-28,Corn,20.18,Chennai APMC,Uttar Pradesh,110.0
+2023-10-28,Wheat,29.17,Madurai,Andhra Pradesh,2121.0
+2023-10-28,Rice,32.7,Coimbatore APMC,Haryana,4007.4
+2023-10-28,Soybean,53.95,Madurai,Haryana,2757.9
+2023-10-28,Cotton,66.13,Delhi Azadpur,Andhra Pradesh,52.8
+2023-10-29,Tomato,45.54,Koyambedu,Karnataka,4301.3
+2023-10-29,Potato,17.09,Delhi Azadpur,Gujarat,3945.7
+2023-10-29,Corn,22.49,Coimbatore APMC,Gujarat,4579.9
+2023-10-29,Wheat,26.77,Madurai,Gujarat,615.5
+2023-10-29,Rice,34.34,Hyderabad,Punjab,3103.2
+2023-10-29,Soybean,51.65,Mumbai APMC,Gujarat,4780.6
+2023-10-29,Cotton,66.08,Delhi Azadpur,Rajasthan,2762.2
+2023-10-30,Tomato,45.8,Mumbai APMC,Punjab,2657.2
+2023-10-30,Potato,16.92,Delhi Azadpur,Andhra Pradesh,1169.7
+2023-10-30,Corn,21.35,Chennai APMC,Haryana,2442.8
+2023-10-30,Wheat,26.2,Mumbai APMC,Rajasthan,1537.8
+2023-10-30,Rice,30.85,Bengaluru APMC,Tamil Nadu,4762.9
+2023-10-30,Soybean,51.4,Delhi Azadpur,Uttar Pradesh,577.2
+2023-10-30,Cotton,71.31,Madurai,Rajasthan,1156.9
+2023-10-31,Tomato,45.97,Coimbatore APMC,Andhra Pradesh,2348.5
+2023-10-31,Potato,17.76,Madurai,Maharashtra,3502.0
+2023-10-31,Corn,21.4,Mumbai APMC,Haryana,3725.5
+2023-10-31,Wheat,27.83,Bengaluru APMC,Punjab,1530.5
+2023-10-31,Rice,35.61,Coimbatore APMC,Karnataka,3134.1
+2023-10-31,Soybean,50.02,Koyambedu,Punjab,4634.3
+2023-10-31,Cotton,69.46,Chennai APMC,Haryana,2059.3
+2023-11-01,Tomato,45.97,Bengaluru APMC,Karnataka,2100.4
+2023-11-01,Potato,18.97,Chennai APMC,Punjab,4691.1
+2023-11-01,Corn,22.55,Koyambedu,Uttar Pradesh,1216.6
+2023-11-01,Wheat,27.93,Hyderabad,Haryana,2962.7
+2023-11-01,Rice,35.91,Bengaluru APMC,Haryana,4254.8
+2023-11-01,Soybean,52.78,Delhi Azadpur,Andhra Pradesh,3072.3
+2023-11-01,Cotton,67.37,Madurai,Punjab,838.0
+2023-11-02,Tomato,44.14,Mumbai APMC,Haryana,4273.3
+2023-11-02,Potato,18.15,Koyambedu,Maharashtra,457.4
+2023-11-02,Corn,24.32,Chennai APMC,Karnataka,2724.8
+2023-11-02,Wheat,26.14,Hyderabad,Maharashtra,4675.2
+2023-11-02,Rice,32.8,Madurai,Tamil Nadu,60.3
+2023-11-02,Soybean,52.25,Madurai,Tamil Nadu,710.7
+2023-11-02,Cotton,68.08,Mumbai APMC,Punjab,3347.0
+2023-11-03,Tomato,45.36,Koyambedu,Tamil Nadu,867.8
+2023-11-03,Potato,18.47,Delhi Azadpur,Punjab,544.9
+2023-11-03,Corn,21.77,Koyambedu,Tamil Nadu,3091.1
+2023-11-03,Wheat,30.34,Coimbatore APMC,Karnataka,4490.4
+2023-11-03,Rice,32.7,Hyderabad,Maharashtra,1373.3
+2023-11-03,Soybean,50.86,Delhi Azadpur,Rajasthan,404.8
+2023-11-03,Cotton,67.95,Delhi Azadpur,Karnataka,371.5
+2023-11-04,Tomato,42.74,Delhi Azadpur,Karnataka,3235.1
+2023-11-04,Potato,17.94,Koyambedu,Gujarat,3052.1
+2023-11-04,Corn,24.7,Delhi Azadpur,Tamil Nadu,1997.3
+2023-11-04,Wheat,28.24,Mumbai APMC,Karnataka,3489.8
+2023-11-04,Rice,35.55,Hyderabad,Punjab,4760.9
+2023-11-04,Soybean,50.32,Delhi Azadpur,Uttar Pradesh,3284.8
+2023-11-04,Cotton,67.28,Bengaluru APMC,Haryana,4044.5
+2023-11-05,Tomato,44.75,Coimbatore APMC,Uttar Pradesh,3348.0
+2023-11-05,Potato,17.83,Coimbatore APMC,Andhra Pradesh,2333.4
+2023-11-05,Corn,24.23,Madurai,Tamil Nadu,443.3
+2023-11-05,Wheat,29.15,Koyambedu,Karnataka,583.0
+2023-11-05,Rice,33.64,Hyderabad,Karnataka,789.2
+2023-11-05,Soybean,52.68,Koyambedu,Uttar Pradesh,3863.3
+2023-11-05,Cotton,69.06,Mumbai APMC,Andhra Pradesh,3607.3
+2023-11-06,Tomato,47.12,Bengaluru APMC,Haryana,657.0
+2023-11-06,Potato,20.78,Delhi Azadpur,Andhra Pradesh,4483.2
+2023-11-06,Corn,20.89,Chennai APMC,Punjab,824.8
+2023-11-06,Wheat,27.2,Coimbatore APMC,Punjab,377.0
+2023-11-06,Rice,33.53,Chennai APMC,Uttar Pradesh,1978.3
+2023-11-06,Soybean,52.06,Hyderabad,Gujarat,3308.7
+2023-11-06,Cotton,69.11,Bengaluru APMC,Punjab,2275.6
+2023-11-07,Tomato,47.0,Mumbai APMC,Haryana,3309.1
+2023-11-07,Potato,18.4,Madurai,Tamil Nadu,4352.4
+2023-11-07,Corn,22.04,Madurai,Uttar Pradesh,2108.2
+2023-11-07,Wheat,28.74,Hyderabad,Punjab,783.4
+2023-11-07,Rice,34.26,Madurai,Andhra Pradesh,2588.3
+2023-11-07,Soybean,55.65,Hyderabad,Uttar Pradesh,4541.2
+2023-11-07,Cotton,66.1,Madurai,Haryana,240.3
+2023-11-08,Tomato,45.9,Chennai APMC,Punjab,3571.3
+2023-11-08,Potato,21.65,Mumbai APMC,Punjab,63.5
+2023-11-08,Corn,22.63,Hyderabad,Rajasthan,1048.5
+2023-11-08,Wheat,28.33,Madurai,Punjab,3417.8
+2023-11-08,Rice,35.08,Delhi Azadpur,Rajasthan,1983.9
+2023-11-08,Soybean,52.35,Coimbatore APMC,Haryana,3860.1
+2023-11-08,Cotton,70.68,Chennai APMC,Gujarat,4822.5
+2023-11-09,Tomato,42.4,Delhi Azadpur,Rajasthan,4984.1
+2023-11-09,Potato,21.02,Hyderabad,Tamil Nadu,1458.2
+2023-11-09,Corn,20.59,Chennai APMC,Haryana,2967.1
+2023-11-09,Wheat,28.32,Koyambedu,Gujarat,4156.3
+2023-11-09,Rice,35.08,Bengaluru APMC,Gujarat,4574.8
+2023-11-09,Soybean,53.6,Coimbatore APMC,Punjab,4182.3
+2023-11-09,Cotton,66.32,Coimbatore APMC,Gujarat,1360.3
+2023-11-10,Tomato,46.52,Chennai APMC,Andhra Pradesh,3358.7
+2023-11-10,Potato,21.86,Delhi Azadpur,Haryana,1363.6
+2023-11-10,Corn,20.78,Coimbatore APMC,Tamil Nadu,1147.9
+2023-11-10,Wheat,29.11,Hyderabad,Andhra Pradesh,2015.1
+2023-11-10,Rice,34.83,Bengaluru APMC,Tamil Nadu,4795.3
+2023-11-10,Soybean,53.46,Delhi Azadpur,Rajasthan,4081.4
+2023-11-10,Cotton,68.85,Bengaluru APMC,Tamil Nadu,2533.7
+2023-11-11,Tomato,44.96,Delhi Azadpur,Tamil Nadu,2508.3
+2023-11-11,Potato,19.66,Coimbatore APMC,Rajasthan,3323.4
+2023-11-11,Corn,25.63,Delhi Azadpur,Maharashtra,4283.4
+2023-11-11,Wheat,28.64,Bengaluru APMC,Rajasthan,3642.3
+2023-11-11,Rice,37.01,Madurai,Rajasthan,3297.7
+2023-11-11,Soybean,50.99,Chennai APMC,Haryana,444.4
+2023-11-11,Cotton,67.49,Coimbatore APMC,Gujarat,152.4
+2023-11-12,Tomato,46.74,Madurai,Uttar Pradesh,886.7
+2023-11-12,Potato,21.25,Delhi Azadpur,Uttar Pradesh,2107.1
+2023-11-12,Corn,23.56,Bengaluru APMC,Andhra Pradesh,3659.4
+2023-11-12,Wheat,28.56,Mumbai APMC,Maharashtra,3837.2
+2023-11-12,Rice,36.03,Delhi Azadpur,Uttar Pradesh,4989.5
+2023-11-12,Soybean,51.15,Koyambedu,Maharashtra,4914.9
+2023-11-12,Cotton,69.93,Koyambedu,Tamil Nadu,4770.2
+2023-11-13,Tomato,47.45,Koyambedu,Uttar Pradesh,4827.5
+2023-11-13,Potato,18.45,Koyambedu,Gujarat,1720.8
+2023-11-13,Corn,22.42,Hyderabad,Rajasthan,654.4
+2023-11-13,Wheat,29.53,Delhi Azadpur,Maharashtra,1813.5
+2023-11-13,Rice,35.47,Koyambedu,Punjab,923.2
+2023-11-13,Soybean,53.03,Coimbatore APMC,Rajasthan,4727.5
+2023-11-13,Cotton,72.28,Chennai APMC,Maharashtra,4961.0
+2023-11-14,Tomato,45.86,Madurai,Karnataka,1743.4
+2023-11-14,Potato,18.69,Coimbatore APMC,Gujarat,4956.0
+2023-11-14,Corn,22.26,Mumbai APMC,Tamil Nadu,1733.9
+2023-11-14,Wheat,30.35,Bengaluru APMC,Haryana,562.7
+2023-11-14,Rice,35.96,Bengaluru APMC,Andhra Pradesh,879.2
+2023-11-14,Soybean,52.26,Hyderabad,Maharashtra,4881.9
+2023-11-14,Cotton,71.21,Coimbatore APMC,Gujarat,2809.4
+2023-11-15,Tomato,48.46,Hyderabad,Haryana,1645.0
+2023-11-15,Potato,18.43,Mumbai APMC,Andhra Pradesh,4504.9
+2023-11-15,Corn,20.53,Chennai APMC,Gujarat,981.0
+2023-11-15,Wheat,30.84,Mumbai APMC,Tamil Nadu,4938.9
+2023-11-15,Rice,35.3,Mumbai APMC,Punjab,2106.9
+2023-11-15,Soybean,54.52,Chennai APMC,Punjab,4316.9
+2023-11-15,Cotton,66.38,Koyambedu,Karnataka,4223.0
+2023-11-16,Tomato,47.77,Koyambedu,Karnataka,2393.5
+2023-11-16,Potato,17.62,Mumbai APMC,Maharashtra,3143.5
+2023-11-16,Corn,24.53,Chennai APMC,Punjab,1267.9
+2023-11-16,Wheat,29.45,Bengaluru APMC,Uttar Pradesh,242.7
+2023-11-16,Rice,35.0,Koyambedu,Tamil Nadu,4698.3
+2023-11-16,Soybean,52.82,Madurai,Uttar Pradesh,4087.7
+2023-11-16,Cotton,70.46,Madurai,Uttar Pradesh,1732.7
+2023-11-17,Tomato,46.69,Bengaluru APMC,Maharashtra,4876.9
+2023-11-17,Potato,20.41,Mumbai APMC,Maharashtra,2516.5
+2023-11-17,Corn,26.5,Delhi Azadpur,Haryana,162.5
+2023-11-17,Wheat,27.19,Delhi Azadpur,Punjab,964.6
+2023-11-17,Rice,38.96,Koyambedu,Karnataka,4660.5
+2023-11-17,Soybean,53.69,Koyambedu,Punjab,611.2
+2023-11-17,Cotton,68.18,Delhi Azadpur,Punjab,1625.6
+2023-11-18,Tomato,44.64,Koyambedu,Karnataka,2903.2
+2023-11-18,Potato,19.35,Koyambedu,Andhra Pradesh,292.9
+2023-11-18,Corn,25.01,Delhi Azadpur,Rajasthan,3786.5
+2023-11-18,Wheat,29.44,Koyambedu,Rajasthan,4679.3
+2023-11-18,Rice,38.9,Delhi Azadpur,Rajasthan,3306.6
+2023-11-18,Soybean,51.45,Koyambedu,Haryana,3773.9
+2023-11-18,Cotton,69.61,Chennai APMC,Uttar Pradesh,4598.2
+2023-11-19,Tomato,44.85,Bengaluru APMC,Maharashtra,3306.6
+2023-11-19,Potato,20.28,Delhi Azadpur,Tamil Nadu,727.6
+2023-11-19,Corn,25.06,Koyambedu,Tamil Nadu,578.8
+2023-11-19,Wheat,29.1,Hyderabad,Tamil Nadu,2372.7
+2023-11-19,Rice,32.82,Mumbai APMC,Haryana,2732.7
+2023-11-19,Soybean,54.03,Delhi Azadpur,Karnataka,2974.7
+2023-11-19,Cotton,70.39,Coimbatore APMC,Maharashtra,1703.6
+2023-11-20,Tomato,47.44,Madurai,Maharashtra,3172.7
+2023-11-20,Potato,21.68,Chennai APMC,Gujarat,1131.2
+2023-11-20,Corn,22.22,Madurai,Karnataka,3702.4
+2023-11-20,Wheat,30.85,Coimbatore APMC,Haryana,76.2
+2023-11-20,Rice,38.62,Delhi Azadpur,Andhra Pradesh,2488.6
+2023-11-20,Soybean,51.16,Coimbatore APMC,Tamil Nadu,2177.1
+2023-11-20,Cotton,70.31,Bengaluru APMC,Andhra Pradesh,4133.9
+2023-11-21,Tomato,46.17,Delhi Azadpur,Punjab,724.2
+2023-11-21,Potato,19.81,Bengaluru APMC,Uttar Pradesh,1383.3
+2023-11-21,Corn,24.45,Koyambedu,Haryana,1312.2
+2023-11-21,Wheat,29.2,Hyderabad,Tamil Nadu,4890.2
+2023-11-21,Rice,35.91,Bengaluru APMC,Andhra Pradesh,3746.6
+2023-11-21,Soybean,53.98,Madurai,Karnataka,4081.5
+2023-11-21,Cotton,68.3,Koyambedu,Andhra Pradesh,705.6
+2023-11-22,Tomato,45.4,Chennai APMC,Andhra Pradesh,4990.8
+2023-11-22,Potato,21.04,Chennai APMC,Maharashtra,3436.1
+2023-11-22,Corn,22.3,Madurai,Andhra Pradesh,1418.9
+2023-11-22,Wheat,31.02,Koyambedu,Tamil Nadu,3276.7
+2023-11-22,Rice,37.72,Koyambedu,Tamil Nadu,2096.1
+2023-11-22,Soybean,51.44,Mumbai APMC,Andhra Pradesh,2263.0
+2023-11-22,Cotton,69.01,Madurai,Maharashtra,4350.6
+2023-11-23,Tomato,48.91,Mumbai APMC,Haryana,1924.7
+2023-11-23,Potato,18.65,Delhi Azadpur,Gujarat,3332.4
+2023-11-23,Corn,23.43,Madurai,Andhra Pradesh,1976.6
+2023-11-23,Wheat,30.82,Coimbatore APMC,Andhra Pradesh,2475.1
+2023-11-23,Rice,38.3,Delhi Azadpur,Haryana,292.2
+2023-11-23,Soybean,53.74,Chennai APMC,Haryana,2344.7
+2023-11-23,Cotton,69.23,Chennai APMC,Tamil Nadu,3754.2
+2023-11-24,Tomato,49.35,Delhi Azadpur,Andhra Pradesh,2096.4
+2023-11-24,Potato,22.83,Delhi Azadpur,Karnataka,1453.1
+2023-11-24,Corn,25.69,Madurai,Haryana,3856.8
+2023-11-24,Wheat,30.35,Hyderabad,Rajasthan,373.2
+2023-11-24,Rice,36.01,Hyderabad,Punjab,1550.8
+2023-11-24,Soybean,52.97,Coimbatore APMC,Gujarat,1044.6
+2023-11-24,Cotton,71.0,Delhi Azadpur,Gujarat,4819.4
+2023-11-25,Tomato,47.94,Delhi Azadpur,Karnataka,2427.7
+2023-11-25,Potato,22.42,Hyderabad,Karnataka,134.9
+2023-11-25,Corn,25.29,Coimbatore APMC,Gujarat,1953.7
+2023-11-25,Wheat,28.06,Madurai,Maharashtra,1375.0
+2023-11-25,Rice,38.89,Mumbai APMC,Rajasthan,1311.3
+2023-11-25,Soybean,52.82,Koyambedu,Uttar Pradesh,4316.9
+2023-11-25,Cotton,69.74,Delhi Azadpur,Haryana,150.5
+2023-11-26,Tomato,47.78,Koyambedu,Andhra Pradesh,4498.9
+2023-11-26,Potato,23.4,Delhi Azadpur,Andhra Pradesh,3800.8
+2023-11-26,Corn,29.07,Madurai,Gujarat,4888.4
+2023-11-26,Wheat,31.32,Chennai APMC,Karnataka,4795.2
+2023-11-26,Rice,37.13,Mumbai APMC,Rajasthan,2127.6
+2023-11-26,Soybean,55.21,Mumbai APMC,Tamil Nadu,2431.0
+2023-11-26,Cotton,71.74,Madurai,Maharashtra,3676.5
+2023-11-27,Tomato,47.02,Bengaluru APMC,Uttar Pradesh,3495.3
+2023-11-27,Potato,23.2,Delhi Azadpur,Andhra Pradesh,3162.8
+2023-11-27,Corn,24.85,Mumbai APMC,Maharashtra,1930.6
+2023-11-27,Wheat,31.25,Coimbatore APMC,Andhra Pradesh,1657.3
+2023-11-27,Rice,38.5,Mumbai APMC,Punjab,2383.3
+2023-11-27,Soybean,55.14,Coimbatore APMC,Rajasthan,1700.5
+2023-11-27,Cotton,71.76,Coimbatore APMC,Haryana,4789.6
+2023-11-28,Tomato,46.67,Chennai APMC,Maharashtra,560.8
+2023-11-28,Potato,19.76,Madurai,Andhra Pradesh,2083.1
+2023-11-28,Corn,22.95,Chennai APMC,Andhra Pradesh,2362.1
+2023-11-28,Wheat,31.26,Koyambedu,Maharashtra,3420.8
+2023-11-28,Rice,38.77,Hyderabad,Karnataka,1142.6
+2023-11-28,Soybean,55.28,Coimbatore APMC,Andhra Pradesh,1885.8
+2023-11-28,Cotton,73.11,Chennai APMC,Uttar Pradesh,107.9
+2023-11-29,Tomato,47.68,Bengaluru APMC,Maharashtra,4957.0
+2023-11-29,Potato,21.69,Hyderabad,Andhra Pradesh,512.7
+2023-11-29,Corn,23.05,Coimbatore APMC,Maharashtra,512.9
+2023-11-29,Wheat,30.11,Delhi Azadpur,Rajasthan,3744.8
+2023-11-29,Rice,38.73,Coimbatore APMC,Tamil Nadu,2406.3
+2023-11-29,Soybean,55.96,Delhi Azadpur,Rajasthan,876.8
+2023-11-29,Cotton,70.25,Chennai APMC,Gujarat,4094.5
+2023-11-30,Tomato,47.67,Coimbatore APMC,Haryana,4443.0
+2023-11-30,Potato,18.5,Koyambedu,Maharashtra,2543.3
+2023-11-30,Corn,24.25,Coimbatore APMC,Uttar Pradesh,50.5
+2023-11-30,Wheat,32.12,Mumbai APMC,Punjab,3779.0
+2023-11-30,Rice,38.64,Madurai,Tamil Nadu,3707.6
+2023-11-30,Soybean,55.53,Chennai APMC,Uttar Pradesh,1003.1
+2023-11-30,Cotton,70.86,Madurai,Andhra Pradesh,3700.5
+2023-12-01,Tomato,47.88,Madurai,Andhra Pradesh,4145.0
+2023-12-01,Potato,19.88,Coimbatore APMC,Karnataka,1510.2
+2023-12-01,Corn,25.92,Chennai APMC,Gujarat,1166.8
+2023-12-01,Wheat,31.5,Madurai,Tamil Nadu,633.5
+2023-12-01,Rice,38.61,Coimbatore APMC,Punjab,3154.3
+2023-12-01,Soybean,54.08,Delhi Azadpur,Haryana,812.0
+2023-12-01,Cotton,67.64,Koyambedu,Karnataka,2395.0
+2023-12-02,Tomato,49.61,Chennai APMC,Karnataka,1904.0
+2023-12-02,Potato,20.24,Madurai,Haryana,587.2
+2023-12-02,Corn,23.67,Madurai,Andhra Pradesh,412.4
+2023-12-02,Wheat,32.0,Bengaluru APMC,Maharashtra,2201.4
+2023-12-02,Rice,37.37,Madurai,Uttar Pradesh,3582.8
+2023-12-02,Soybean,56.55,Mumbai APMC,Gujarat,829.1
+2023-12-02,Cotton,71.89,Coimbatore APMC,Gujarat,2153.2
+2023-12-03,Tomato,49.08,Hyderabad,Uttar Pradesh,1612.9
+2023-12-03,Potato,19.0,Coimbatore APMC,Tamil Nadu,1021.5
+2023-12-03,Corn,26.87,Delhi Azadpur,Haryana,3874.2
+2023-12-03,Wheat,31.44,Hyderabad,Maharashtra,4379.9
+2023-12-03,Rice,37.5,Koyambedu,Karnataka,4509.1
+2023-12-03,Soybean,55.27,Coimbatore APMC,Rajasthan,4750.3
+2023-12-03,Cotton,68.39,Koyambedu,Rajasthan,2422.6
+2023-12-04,Tomato,48.75,Madurai,Tamil Nadu,2613.9
+2023-12-04,Potato,19.6,Coimbatore APMC,Karnataka,1240.4
+2023-12-04,Corn,23.11,Chennai APMC,Rajasthan,4298.6
+2023-12-04,Wheat,28.86,Koyambedu,Andhra Pradesh,2718.1
+2023-12-04,Rice,39.81,Koyambedu,Punjab,2649.1
+2023-12-04,Soybean,54.2,Koyambedu,Uttar Pradesh,1342.6
+2023-12-04,Cotton,73.44,Madurai,Karnataka,267.9
+2023-12-05,Tomato,47.42,Hyderabad,Andhra Pradesh,741.6
+2023-12-05,Potato,18.67,Coimbatore APMC,Maharashtra,2613.9
+2023-12-05,Corn,23.55,Hyderabad,Maharashtra,2139.5
+2023-12-05,Wheat,33.08,Koyambedu,Punjab,2331.5
+2023-12-05,Rice,37.99,Delhi Azadpur,Punjab,198.3
+2023-12-05,Soybean,54.41,Chennai APMC,Tamil Nadu,3887.8
+2023-12-05,Cotton,71.47,Chennai APMC,Tamil Nadu,464.0
+2023-12-06,Tomato,49.07,Madurai,Maharashtra,459.0
+2023-12-06,Potato,22.99,Coimbatore APMC,Gujarat,4767.8
+2023-12-06,Corn,27.49,Koyambedu,Gujarat,3929.1
+2023-12-06,Wheat,30.77,Mumbai APMC,Tamil Nadu,3948.0
+2023-12-06,Rice,36.33,Chennai APMC,Karnataka,4942.6
+2023-12-06,Soybean,54.69,Mumbai APMC,Haryana,3377.3
+2023-12-06,Cotton,71.71,Delhi Azadpur,Uttar Pradesh,1341.0
+2023-12-07,Tomato,46.95,Koyambedu,Rajasthan,4073.2
+2023-12-07,Potato,19.96,Hyderabad,Uttar Pradesh,2481.1
+2023-12-07,Corn,25.92,Koyambedu,Karnataka,919.8
+2023-12-07,Wheat,31.33,Delhi Azadpur,Rajasthan,3127.2
+2023-12-07,Rice,38.45,Chennai APMC,Punjab,1928.3
+2023-12-07,Soybean,54.26,Chennai APMC,Rajasthan,2201.7
+2023-12-07,Cotton,71.05,Chennai APMC,Tamil Nadu,3016.1
+2023-12-08,Tomato,47.1,Chennai APMC,Uttar Pradesh,4434.7
+2023-12-08,Potato,22.82,Bengaluru APMC,Punjab,3201.5
+2023-12-08,Corn,27.04,Koyambedu,Punjab,3633.3
+2023-12-08,Wheat,28.72,Delhi Azadpur,Rajasthan,792.3
+2023-12-08,Rice,37.09,Bengaluru APMC,Maharashtra,1217.2
+2023-12-08,Soybean,53.24,Madurai,Uttar Pradesh,2582.8
+2023-12-08,Cotton,70.51,Mumbai APMC,Punjab,3323.6
+2023-12-09,Tomato,48.44,Mumbai APMC,Uttar Pradesh,4116.8
+2023-12-09,Potato,19.39,Bengaluru APMC,Tamil Nadu,2785.1
+2023-12-09,Corn,24.19,Chennai APMC,Gujarat,312.5
+2023-12-09,Wheat,30.06,Coimbatore APMC,Andhra Pradesh,2080.4
+2023-12-09,Rice,38.88,Hyderabad,Punjab,3943.3
+2023-12-09,Soybean,55.67,Chennai APMC,Rajasthan,964.6
+2023-12-09,Cotton,70.49,Koyambedu,Tamil Nadu,1375.7
+2023-12-10,Tomato,48.92,Chennai APMC,Maharashtra,4333.0
+2023-12-10,Potato,20.83,Delhi Azadpur,Rajasthan,665.1
+2023-12-10,Corn,25.24,Chennai APMC,Uttar Pradesh,3146.6
+2023-12-10,Wheat,34.16,Delhi Azadpur,Karnataka,2760.0
+2023-12-10,Rice,40.66,Hyderabad,Gujarat,4408.2
+2023-12-10,Soybean,53.7,Coimbatore APMC,Rajasthan,1009.6
+2023-12-10,Cotton,72.9,Coimbatore APMC,Rajasthan,3256.3
+2023-12-11,Tomato,49.95,Bengaluru APMC,Uttar Pradesh,1249.0
+2023-12-11,Potato,20.01,Koyambedu,Karnataka,3498.4
+2023-12-11,Corn,26.96,Delhi Azadpur,Karnataka,2632.5
+2023-12-11,Wheat,34.04,Delhi Azadpur,Haryana,1523.1
+2023-12-11,Rice,37.05,Chennai APMC,Andhra Pradesh,4403.3
+2023-12-11,Soybean,54.36,Madurai,Punjab,3625.1
+2023-12-11,Cotton,73.26,Bengaluru APMC,Andhra Pradesh,565.3
+2023-12-12,Tomato,49.22,Delhi Azadpur,Maharashtra,2336.7
+2023-12-12,Potato,22.64,Chennai APMC,Haryana,1493.5
+2023-12-12,Corn,26.32,Bengaluru APMC,Karnataka,1805.6
+2023-12-12,Wheat,32.4,Mumbai APMC,Uttar Pradesh,4338.1
+2023-12-12,Rice,36.82,Chennai APMC,Karnataka,2046.2
+2023-12-12,Soybean,57.38,Coimbatore APMC,Punjab,1732.7
+2023-12-12,Cotton,73.57,Madurai,Uttar Pradesh,998.8
+2023-12-13,Tomato,48.55,Chennai APMC,Maharashtra,2375.7
+2023-12-13,Potato,21.83,Delhi Azadpur,Haryana,3970.9
+2023-12-13,Corn,23.6,Delhi Azadpur,Rajasthan,2899.8
+2023-12-13,Wheat,32.66,Chennai APMC,Andhra Pradesh,3667.4
+2023-12-13,Rice,39.75,Mumbai APMC,Andhra Pradesh,2802.6
+2023-12-13,Soybean,55.8,Madurai,Uttar Pradesh,1691.2
+2023-12-13,Cotton,73.58,Madurai,Gujarat,3070.0
+2023-12-14,Tomato,48.47,Chennai APMC,Punjab,235.8
+2023-12-14,Potato,22.82,Chennai APMC,Uttar Pradesh,1232.1
+2023-12-14,Corn,24.44,Coimbatore APMC,Andhra Pradesh,4850.2
+2023-12-14,Wheat,31.93,Mumbai APMC,Andhra Pradesh,4151.2
+2023-12-14,Rice,38.71,Delhi Azadpur,Punjab,4423.2
+2023-12-14,Soybean,56.31,Koyambedu,Haryana,3655.8
+2023-12-14,Cotton,71.42,Madurai,Maharashtra,495.8
+2023-12-15,Tomato,48.85,Hyderabad,Rajasthan,2358.9
+2023-12-15,Potato,23.29,Koyambedu,Rajasthan,289.2
+2023-12-15,Corn,25.39,Coimbatore APMC,Andhra Pradesh,2986.9
+2023-12-15,Wheat,29.64,Coimbatore APMC,Gujarat,1123.1
+2023-12-15,Rice,41.67,Bengaluru APMC,Punjab,4997.2
+2023-12-15,Soybean,58.12,Chennai APMC,Haryana,4281.3
+2023-12-15,Cotton,70.11,Koyambedu,Maharashtra,4594.7
+2023-12-16,Tomato,50.16,Hyderabad,Punjab,4957.5
+2023-12-16,Potato,21.37,Koyambedu,Gujarat,4805.7
+2023-12-16,Corn,26.52,Bengaluru APMC,Rajasthan,3615.4
+2023-12-16,Wheat,32.56,Chennai APMC,Tamil Nadu,4562.0
+2023-12-16,Rice,38.77,Coimbatore APMC,Tamil Nadu,4986.5
+2023-12-16,Soybean,54.95,Chennai APMC,Maharashtra,1706.2
+2023-12-16,Cotton,71.09,Bengaluru APMC,Maharashtra,2771.2
+2023-12-17,Tomato,47.82,Chennai APMC,Andhra Pradesh,3457.6
+2023-12-17,Potato,20.95,Mumbai APMC,Gujarat,3202.3
+2023-12-17,Corn,26.1,Hyderabad,Uttar Pradesh,3659.8
+2023-12-17,Wheat,31.12,Koyambedu,Haryana,4587.5
+2023-12-17,Rice,40.22,Coimbatore APMC,Haryana,1871.1
+2023-12-17,Soybean,58.43,Mumbai APMC,Karnataka,4435.1
+2023-12-17,Cotton,71.33,Koyambedu,Uttar Pradesh,3038.3
+2023-12-18,Tomato,49.63,Koyambedu,Rajasthan,3214.5
+2023-12-18,Potato,23.02,Delhi Azadpur,Maharashtra,2719.2
+2023-12-18,Corn,26.98,Coimbatore APMC,Andhra Pradesh,2015.2
+2023-12-18,Wheat,32.38,Hyderabad,Punjab,4198.4
+2023-12-18,Rice,40.38,Madurai,Haryana,1013.8
+2023-12-18,Soybean,56.99,Madurai,Andhra Pradesh,3052.5
+2023-12-18,Cotton,70.41,Madurai,Maharashtra,1238.7
+2023-12-19,Tomato,50.65,Delhi Azadpur,Punjab,1721.6
+2023-12-19,Potato,23.67,Koyambedu,Maharashtra,1313.0
+2023-12-19,Corn,25.2,Chennai APMC,Uttar Pradesh,693.8
+2023-12-19,Wheat,32.4,Bengaluru APMC,Tamil Nadu,4156.4
+2023-12-19,Rice,40.37,Chennai APMC,Punjab,1226.4
+2023-12-19,Soybean,56.03,Bengaluru APMC,Haryana,2205.1
+2023-12-19,Cotton,73.95,Chennai APMC,Rajasthan,3483.7
+2023-12-20,Tomato,52.96,Koyambedu,Karnataka,2161.3
+2023-12-20,Potato,21.23,Chennai APMC,Tamil Nadu,4722.0
+2023-12-20,Corn,24.34,Chennai APMC,Rajasthan,4430.4
+2023-12-20,Wheat,32.87,Mumbai APMC,Haryana,2019.3
+2023-12-20,Rice,40.49,Koyambedu,Tamil Nadu,1962.1
+2023-12-20,Soybean,56.07,Hyderabad,Maharashtra,1635.9
+2023-12-20,Cotton,74.59,Coimbatore APMC,Maharashtra,4766.3
+2023-12-21,Tomato,47.47,Coimbatore APMC,Uttar Pradesh,4492.6
+2023-12-21,Potato,23.52,Mumbai APMC,Tamil Nadu,4096.1
+2023-12-21,Corn,25.57,Madurai,Haryana,2881.6
+2023-12-21,Wheat,35.06,Hyderabad,Gujarat,2151.1
+2023-12-21,Rice,42.47,Madurai,Andhra Pradesh,4920.4
+2023-12-21,Soybean,55.33,Delhi Azadpur,Uttar Pradesh,3760.8
+2023-12-21,Cotton,71.66,Chennai APMC,Maharashtra,1248.4
+2023-12-22,Tomato,50.84,Chennai APMC,Rajasthan,4926.5
+2023-12-22,Potato,21.97,Coimbatore APMC,Punjab,1527.3
+2023-12-22,Corn,26.48,Hyderabad,Rajasthan,3696.5
+2023-12-22,Wheat,32.59,Madurai,Haryana,278.3
+2023-12-22,Rice,36.67,Coimbatore APMC,Punjab,3091.8
+2023-12-22,Soybean,56.53,Koyambedu,Tamil Nadu,557.2
+2023-12-22,Cotton,71.52,Mumbai APMC,Gujarat,3471.0
+2023-12-23,Tomato,48.88,Chennai APMC,Tamil Nadu,2561.6
+2023-12-23,Potato,24.78,Koyambedu,Uttar Pradesh,1464.5
+2023-12-23,Corn,24.73,Madurai,Tamil Nadu,3587.5
+2023-12-23,Wheat,33.84,Hyderabad,Uttar Pradesh,2935.4
+2023-12-23,Rice,39.2,Madurai,Haryana,3793.3
+2023-12-23,Soybean,56.2,Bengaluru APMC,Haryana,4354.4
+2023-12-23,Cotton,73.8,Delhi Azadpur,Rajasthan,3226.7
+2023-12-24,Tomato,50.19,Hyderabad,Maharashtra,4451.3
+2023-12-24,Potato,23.54,Delhi Azadpur,Karnataka,2699.6
+2023-12-24,Corn,28.13,Mumbai APMC,Haryana,3202.0
+2023-12-24,Wheat,32.18,Coimbatore APMC,Karnataka,1685.3
+2023-12-24,Rice,38.76,Koyambedu,Uttar Pradesh,155.3
+2023-12-24,Soybean,55.05,Delhi Azadpur,Andhra Pradesh,4768.8
+2023-12-24,Cotton,71.44,Coimbatore APMC,Maharashtra,965.5
+2023-12-25,Tomato,54.17,Coimbatore APMC,Uttar Pradesh,3913.6
+2023-12-25,Potato,24.61,Bengaluru APMC,Haryana,2841.4
+2023-12-25,Corn,24.72,Chennai APMC,Haryana,3130.0
+2023-12-25,Wheat,30.76,Chennai APMC,Rajasthan,2391.2
+2023-12-25,Rice,40.47,Bengaluru APMC,Maharashtra,2313.0
+2023-12-25,Soybean,57.57,Bengaluru APMC,Tamil Nadu,3227.6
+2023-12-25,Cotton,73.57,Madurai,Andhra Pradesh,1582.0
+2023-12-26,Tomato,49.43,Coimbatore APMC,Rajasthan,3053.3
+2023-12-26,Potato,22.62,Mumbai APMC,Punjab,3268.4
+2023-12-26,Corn,27.3,Madurai,Rajasthan,3797.2
+2023-12-26,Wheat,32.94,Delhi Azadpur,Tamil Nadu,4491.4
+2023-12-26,Rice,36.48,Bengaluru APMC,Maharashtra,4908.9
+2023-12-26,Soybean,56.46,Bengaluru APMC,Punjab,198.2
+2023-12-26,Cotton,71.53,Madurai,Haryana,2973.0
+2023-12-27,Tomato,50.13,Mumbai APMC,Rajasthan,3398.9
+2023-12-27,Potato,27.35,Bengaluru APMC,Uttar Pradesh,512.8
+2023-12-27,Corn,27.42,Bengaluru APMC,Haryana,1756.4
+2023-12-27,Wheat,32.4,Koyambedu,Andhra Pradesh,123.9
+2023-12-27,Rice,41.25,Hyderabad,Haryana,536.4
+2023-12-27,Soybean,57.59,Madurai,Andhra Pradesh,4045.8
+2023-12-27,Cotton,73.5,Mumbai APMC,Punjab,4903.3
+2023-12-28,Tomato,50.84,Koyambedu,Uttar Pradesh,4224.4
+2023-12-28,Potato,26.01,Delhi Azadpur,Haryana,2730.3
+2023-12-28,Corn,25.23,Coimbatore APMC,Uttar Pradesh,4256.3
+2023-12-28,Wheat,33.64,Delhi Azadpur,Tamil Nadu,4280.5
+2023-12-28,Rice,38.54,Madurai,Gujarat,3774.0
+2023-12-28,Soybean,57.76,Chennai APMC,Tamil Nadu,3355.2
+2023-12-28,Cotton,71.55,Bengaluru APMC,Haryana,4541.3
+2023-12-29,Tomato,49.36,Bengaluru APMC,Maharashtra,4992.3
+2023-12-29,Potato,22.54,Koyambedu,Haryana,2544.3
+2023-12-29,Corn,28.45,Koyambedu,Maharashtra,3358.2
+2023-12-29,Wheat,34.36,Mumbai APMC,Tamil Nadu,287.2
+2023-12-29,Rice,38.12,Koyambedu,Haryana,2662.7
+2023-12-29,Soybean,57.07,Delhi Azadpur,Maharashtra,1500.5
+2023-12-29,Cotton,71.92,Koyambedu,Punjab,318.9
+2023-12-30,Tomato,48.16,Bengaluru APMC,Karnataka,4321.3
+2023-12-30,Potato,22.72,Coimbatore APMC,Gujarat,3228.3
+2023-12-30,Corn,26.58,Madurai,Tamil Nadu,3663.4
+2023-12-30,Wheat,36.68,Coimbatore APMC,Uttar Pradesh,1387.1
+2023-12-30,Rice,40.69,Hyderabad,Gujarat,2241.3
+2023-12-30,Soybean,54.98,Delhi Azadpur,Haryana,853.4
+2023-12-30,Cotton,72.2,Hyderabad,Karnataka,3643.8
+2023-12-31,Tomato,51.63,Bengaluru APMC,Karnataka,3001.7
+2023-12-31,Potato,26.23,Mumbai APMC,Tamil Nadu,2799.5
+2023-12-31,Corn,24.72,Koyambedu,Gujarat,3638.7
+2023-12-31,Wheat,30.28,Hyderabad,Haryana,4619.3
+2023-12-31,Rice,42.91,Madurai,Maharashtra,3857.1
+2023-12-31,Soybean,57.68,Delhi Azadpur,Tamil Nadu,2016.5
+2023-12-31,Cotton,71.8,Delhi Azadpur,Maharashtra,4853.0

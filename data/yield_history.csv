@@ -1,0 +1,631 @@
+year,state,crop,yield_tonnes_ha,area_ha,rainfall_mm,avg_temp_c
+2015,Tamil Nadu,Tomato,26.07,10724.0,1035.0,23.2
+2015,Tamil Nadu,Potato,15.78,7501.0,1704.0,26.7
+2015,Tamil Nadu,Corn,6.5,46600.0,684.0,33.9
+2015,Tamil Nadu,Wheat,4.31,20664.0,1054.0,34.1
+2015,Tamil Nadu,Rice,6.23,23748.0,687.0,34.9
+2015,Tamil Nadu,Soybean,1.93,45474.0,1349.0,23.0
+2015,Tamil Nadu,Cotton,1.81,9006.0,932.0,24.8
+2015,Maharashtra,Tomato,23.15,21673.0,1555.0,34.7
+2015,Maharashtra,Potato,20.41,16570.0,1055.0,29.1
+2015,Maharashtra,Corn,6.03,48845.0,926.0,24.5
+2015,Maharashtra,Wheat,4.06,22927.0,1648.0,29.1
+2015,Maharashtra,Rice,5.34,16048.0,1230.0,31.4
+2015,Maharashtra,Soybean,2.21,9266.0,1210.0,22.6
+2015,Maharashtra,Cotton,1.92,43342.0,812.0,22.6
+2015,Karnataka,Tomato,24.53,41056.0,1004.0,25.7
+2015,Karnataka,Potato,20.06,3592.0,1032.0,30.9
+2015,Karnataka,Corn,5.75,41768.0,958.0,28.9
+2015,Karnataka,Wheat,4.1,46457.0,1667.0,31.6
+2015,Karnataka,Rice,5.78,25483.0,1119.0,33.9
+2015,Karnataka,Soybean,2.54,4684.0,1568.0,30.3
+2015,Karnataka,Cotton,1.64,44031.0,1652.0,29.7
+2015,Andhra Pradesh,Tomato,27.93,41539.0,543.0,24.5
+2015,Andhra Pradesh,Potato,21.59,26452.0,1763.0,24.2
+2015,Andhra Pradesh,Corn,6.65,27760.0,1428.0,28.4
+2015,Andhra Pradesh,Wheat,4.79,36830.0,1249.0,25.0
+2015,Andhra Pradesh,Rice,5.97,21875.0,1557.0,33.4
+2015,Andhra Pradesh,Soybean,2.17,27429.0,1627.0,33.0
+2015,Andhra Pradesh,Cotton,1.79,9684.0,1354.0,26.1
+2015,Uttar Pradesh,Tomato,27.45,2429.0,720.0,31.8
+2015,Uttar Pradesh,Potato,21.75,48029.0,432.0,32.2
+2015,Uttar Pradesh,Corn,6.17,29842.0,1407.0,27.6
+2015,Uttar Pradesh,Wheat,3.76,34357.0,1792.0,27.9
+2015,Uttar Pradesh,Rice,5.71,35305.0,964.0,34.2
+2015,Uttar Pradesh,Soybean,1.97,12562.0,967.0,32.1
+2015,Uttar Pradesh,Cotton,1.79,8181.0,1509.0,26.7
+2015,Punjab,Tomato,27.47,1110.0,1157.0,23.1
+2015,Punjab,Potato,19.27,42193.0,653.0,30.2
+2015,Punjab,Corn,6.48,17067.0,623.0,34.9
+2015,Punjab,Wheat,4.22,34259.0,1323.0,22.2
+2015,Punjab,Rice,6.19,17417.0,1784.0,34.2
+2015,Punjab,Soybean,1.72,34651.0,967.0,24.0
+2015,Punjab,Cotton,1.71,4570.0,1312.0,34.2
+2015,Haryana,Tomato,25.42,4565.0,1199.0,26.3
+2015,Haryana,Potato,21.92,20499.0,1039.0,29.7
+2015,Haryana,Corn,6.24,2932.0,1227.0,32.0
+2015,Haryana,Wheat,3.57,14157.0,1002.0,29.9
+2015,Haryana,Rice,6.09,15151.0,1165.0,22.2
+2015,Haryana,Soybean,1.99,8759.0,1649.0,22.5
+2015,Haryana,Cotton,1.63,17213.0,447.0,29.9
+2015,Gujarat,Tomato,23.75,36752.0,1327.0,29.0
+2015,Gujarat,Potato,19.7,48775.0,1238.0,31.0
+2015,Gujarat,Corn,6.19,25861.0,809.0,23.7
+2015,Gujarat,Wheat,3.46,44242.0,873.0,31.6
+2015,Gujarat,Rice,6.22,26098.0,1281.0,30.4
+2015,Gujarat,Soybean,2.31,14895.0,1033.0,29.1
+2015,Gujarat,Cotton,1.89,23436.0,1534.0,33.9
+2015,Rajasthan,Tomato,22.72,35069.0,1018.0,26.6
+2015,Rajasthan,Potato,19.68,9773.0,1653.0,27.2
+2015,Rajasthan,Corn,6.5,20134.0,674.0,32.0
+2015,Rajasthan,Wheat,4.4,33180.0,437.0,30.0
+2015,Rajasthan,Rice,6.11,14470.0,1492.0,34.5
+2015,Rajasthan,Soybean,1.98,4111.0,1279.0,34.7
+2015,Rajasthan,Cotton,1.81,25250.0,1145.0,27.0
+2016,Tamil Nadu,Tomato,27.16,8346.0,1273.0,33.9
+2016,Tamil Nadu,Potato,23.33,25784.0,1406.0,24.0
+2016,Tamil Nadu,Corn,7.19,41870.0,848.0,29.5
+2016,Tamil Nadu,Wheat,4.68,25201.0,1450.0,32.3
+2016,Tamil Nadu,Rice,6.13,27075.0,1354.0,22.0
+2016,Tamil Nadu,Soybean,2.44,32534.0,1355.0,32.3
+2016,Tamil Nadu,Cotton,1.95,19065.0,1374.0,33.5
+2016,Maharashtra,Tomato,24.53,33515.0,1615.0,31.8
+2016,Maharashtra,Potato,23.25,20118.0,1419.0,26.3
+2016,Maharashtra,Corn,7.19,23375.0,454.0,30.7
+2016,Maharashtra,Wheat,4.26,9228.0,1660.0,24.3
+2016,Maharashtra,Rice,5.87,37577.0,1593.0,25.5
+2016,Maharashtra,Soybean,2.25,9945.0,1133.0,28.0
+2016,Maharashtra,Cotton,1.96,20309.0,596.0,32.7
+2016,Karnataka,Tomato,26.64,30958.0,660.0,25.2
+2016,Karnataka,Potato,21.5,47630.0,1357.0,31.6
+2016,Karnataka,Corn,7.71,42490.0,1505.0,32.8
+2016,Karnataka,Wheat,4.77,11888.0,1717.0,29.1
+2016,Karnataka,Rice,6.18,45174.0,1202.0,23.3
+2016,Karnataka,Soybean,2.36,20840.0,765.0,30.9
+2016,Karnataka,Cotton,1.74,45884.0,661.0,31.9
+2016,Andhra Pradesh,Tomato,27.05,36399.0,1705.0,24.3
+2016,Andhra Pradesh,Potato,23.89,47306.0,945.0,34.6
+2016,Andhra Pradesh,Corn,6.71,9421.0,1724.0,24.9
+2016,Andhra Pradesh,Wheat,4.13,35035.0,881.0,29.9
+2016,Andhra Pradesh,Rice,5.79,34635.0,543.0,33.2
+2016,Andhra Pradesh,Soybean,2.02,47039.0,549.0,31.2
+2016,Andhra Pradesh,Cotton,1.78,19092.0,436.0,30.4
+2016,Uttar Pradesh,Tomato,25.51,26428.0,1739.0,34.3
+2016,Uttar Pradesh,Potato,18.75,28376.0,422.0,26.2
+2016,Uttar Pradesh,Corn,6.83,24901.0,1352.0,32.7
+2016,Uttar Pradesh,Wheat,4.71,11986.0,672.0,30.2
+2016,Uttar Pradesh,Rice,5.67,6879.0,1346.0,28.7
+2016,Uttar Pradesh,Soybean,2.46,29271.0,1697.0,23.5
+2016,Uttar Pradesh,Cotton,1.96,24580.0,1078.0,22.6
+2016,Punjab,Tomato,28.31,26556.0,1387.0,29.6
+2016,Punjab,Potato,19.95,14188.0,453.0,32.9
+2016,Punjab,Corn,7.27,11299.0,831.0,26.2
+2016,Punjab,Wheat,4.04,23230.0,857.0,26.3
+2016,Punjab,Rice,6.5,6254.0,1421.0,26.8
+2016,Punjab,Soybean,2.23,44419.0,1545.0,28.2
+2016,Punjab,Cotton,1.97,42448.0,1134.0,25.1
+2016,Haryana,Tomato,23.9,21886.0,1592.0,22.6
+2016,Haryana,Potato,19.57,48030.0,772.0,33.0
+2016,Haryana,Corn,7.14,35159.0,1301.0,23.4
+2016,Haryana,Wheat,4.09,47569.0,1509.0,22.5
+2016,Haryana,Rice,6.3,18339.0,1039.0,30.0
+2016,Haryana,Soybean,1.98,47451.0,571.0,29.7
+2016,Haryana,Cotton,2.01,24171.0,484.0,31.5
+2016,Gujarat,Tomato,23.78,7450.0,1069.0,25.5
+2016,Gujarat,Potato,21.88,7359.0,1583.0,28.8
+2016,Gujarat,Corn,7.15,42966.0,888.0,24.1
+2016,Gujarat,Wheat,4.18,7706.0,863.0,32.5
+2016,Gujarat,Rice,6.36,40660.0,999.0,22.8
+2016,Gujarat,Soybean,2.25,16898.0,1482.0,28.6
+2016,Gujarat,Cotton,1.81,39822.0,1030.0,27.7
+2016,Rajasthan,Tomato,24.23,15634.0,635.0,28.4
+2016,Rajasthan,Potato,17.86,17557.0,872.0,31.6
+2016,Rajasthan,Corn,7.01,33796.0,1158.0,26.4
+2016,Rajasthan,Wheat,3.88,29828.0,1750.0,32.4
+2016,Rajasthan,Rice,6.13,16549.0,1398.0,30.0
+2016,Rajasthan,Soybean,2.16,9711.0,580.0,34.5
+2016,Rajasthan,Cotton,1.99,45614.0,1755.0,32.6
+2017,Tamil Nadu,Tomato,26.9,21977.0,865.0,23.8
+2017,Tamil Nadu,Potato,21.47,42700.0,1635.0,22.6
+2017,Tamil Nadu,Corn,7.53,40279.0,922.0,25.0
+2017,Tamil Nadu,Wheat,4.73,32720.0,725.0,34.5
+2017,Tamil Nadu,Rice,6.53,7425.0,1628.0,33.5
+2017,Tamil Nadu,Soybean,2.39,41527.0,1519.0,33.3
+2017,Tamil Nadu,Cotton,1.76,4393.0,408.0,26.4
+2017,Maharashtra,Tomato,29.01,2656.0,686.0,30.2
+2017,Maharashtra,Potato,22.98,28222.0,655.0,23.3
+2017,Maharashtra,Corn,6.62,15860.0,1592.0,28.8
+2017,Maharashtra,Wheat,4.54,19770.0,1221.0,34.9
+2017,Maharashtra,Rice,6.36,25041.0,1099.0,33.1
+2017,Maharashtra,Soybean,2.29,49533.0,711.0,27.8
+2017,Maharashtra,Cotton,2.03,32229.0,1017.0,34.3
+2017,Karnataka,Tomato,30.36,32514.0,610.0,22.1
+2017,Karnataka,Potato,23.73,18948.0,1121.0,31.6
+2017,Karnataka,Corn,6.47,9218.0,916.0,24.7
+2017,Karnataka,Wheat,4.83,47976.0,1136.0,32.5
+2017,Karnataka,Rice,7.0,9471.0,1161.0,32.6
+2017,Karnataka,Soybean,2.37,37115.0,667.0,22.8
+2017,Karnataka,Cotton,2.14,10809.0,600.0,32.9
+2017,Andhra Pradesh,Tomato,31.52,1347.0,827.0,23.2
+2017,Andhra Pradesh,Potato,23.64,19481.0,411.0,23.2
+2017,Andhra Pradesh,Corn,7.28,12993.0,767.0,24.1
+2017,Andhra Pradesh,Wheat,4.97,36160.0,1048.0,22.3
+2017,Andhra Pradesh,Rice,6.45,9088.0,1060.0,28.7
+2017,Andhra Pradesh,Soybean,2.31,5268.0,1038.0,32.2
+2017,Andhra Pradesh,Cotton,1.93,45093.0,1072.0,26.2
+2017,Uttar Pradesh,Tomato,30.63,37595.0,908.0,30.2
+2017,Uttar Pradesh,Potato,20.69,24708.0,930.0,33.2
+2017,Uttar Pradesh,Corn,7.95,47165.0,856.0,30.0
+2017,Uttar Pradesh,Wheat,4.79,26035.0,1486.0,30.7
+2017,Uttar Pradesh,Rice,5.73,23225.0,1660.0,29.2
+2017,Uttar Pradesh,Soybean,2.37,36748.0,949.0,29.1
+2017,Uttar Pradesh,Cotton,1.68,9901.0,1015.0,23.6
+2017,Punjab,Tomato,28.75,23970.0,489.0,30.9
+2017,Punjab,Potato,23.42,10718.0,1502.0,31.5
+2017,Punjab,Corn,6.84,46364.0,1318.0,34.6
+2017,Punjab,Wheat,4.66,47878.0,1697.0,26.2
+2017,Punjab,Rice,7.29,9455.0,1207.0,29.4
+2017,Punjab,Soybean,2.23,31126.0,1437.0,33.5
+2017,Punjab,Cotton,1.83,47812.0,1426.0,32.4
+2017,Haryana,Tomato,30.46,33205.0,1219.0,30.3
+2017,Haryana,Potato,25.14,12577.0,1171.0,25.1
+2017,Haryana,Corn,7.15,9162.0,1315.0,31.1
+2017,Haryana,Wheat,4.96,12982.0,1209.0,33.6
+2017,Haryana,Rice,7.0,10956.0,1178.0,26.0
+2017,Haryana,Soybean,2.19,21476.0,1085.0,30.4
+2017,Haryana,Cotton,1.91,37119.0,1636.0,24.8
+2017,Gujarat,Tomato,29.96,40604.0,806.0,34.2
+2017,Gujarat,Potato,24.7,28981.0,765.0,25.3
+2017,Gujarat,Corn,7.44,40727.0,1485.0,29.9
+2017,Gujarat,Wheat,4.32,36526.0,653.0,27.8
+2017,Gujarat,Rice,7.3,41419.0,1605.0,27.7
+2017,Gujarat,Soybean,2.22,10153.0,644.0,22.9
+2017,Gujarat,Cotton,1.93,3716.0,745.0,33.7
+2017,Rajasthan,Tomato,28.18,23957.0,1138.0,28.5
+2017,Rajasthan,Potato,24.49,6513.0,1086.0,33.6
+2017,Rajasthan,Corn,7.59,17017.0,1211.0,29.3
+2017,Rajasthan,Wheat,4.76,45834.0,740.0,23.9
+2017,Rajasthan,Rice,6.59,40804.0,1454.0,23.3
+2017,Rajasthan,Soybean,2.32,39868.0,956.0,32.3
+2017,Rajasthan,Cotton,2.06,43286.0,1167.0,24.3
+2018,Tamil Nadu,Tomato,23.69,44285.0,771.0,29.2
+2018,Tamil Nadu,Potato,22.53,30722.0,1716.0,33.5
+2018,Tamil Nadu,Corn,7.6,26413.0,1108.0,29.4
+2018,Tamil Nadu,Wheat,4.44,18116.0,695.0,31.6
+2018,Tamil Nadu,Rice,6.85,35543.0,921.0,28.7
+2018,Tamil Nadu,Soybean,2.38,10048.0,1292.0,27.1
+2018,Tamil Nadu,Cotton,2.32,3983.0,1573.0,31.8
+2018,Maharashtra,Tomato,31.9,49880.0,1476.0,24.6
+2018,Maharashtra,Potato,22.25,14628.0,823.0,34.0
+2018,Maharashtra,Corn,7.4,32625.0,1541.0,33.1
+2018,Maharashtra,Wheat,4.81,29119.0,553.0,22.9
+2018,Maharashtra,Rice,6.46,41924.0,628.0,24.7
+2018,Maharashtra,Soybean,2.45,36670.0,1658.0,33.3
+2018,Maharashtra,Cotton,1.96,2119.0,609.0,29.5
+2018,Karnataka,Tomato,26.49,39182.0,1422.0,29.6
+2018,Karnataka,Potato,24.0,18064.0,434.0,25.9
+2018,Karnataka,Corn,7.8,24420.0,1315.0,31.6
+2018,Karnataka,Wheat,4.56,10450.0,1257.0,24.6
+2018,Karnataka,Rice,7.09,1241.0,982.0,28.1
+2018,Karnataka,Soybean,2.31,11310.0,1231.0,23.2
+2018,Karnataka,Cotton,2.11,48403.0,603.0,22.6
+2018,Andhra Pradesh,Tomato,30.39,8396.0,613.0,24.7
+2018,Andhra Pradesh,Potato,22.95,6786.0,1362.0,31.1
+2018,Andhra Pradesh,Corn,7.71,23557.0,1053.0,30.6
+2018,Andhra Pradesh,Wheat,4.66,3622.0,1248.0,31.7
+2018,Andhra Pradesh,Rice,6.58,5373.0,558.0,27.2
+2018,Andhra Pradesh,Soybean,2.38,7346.0,653.0,23.6
+2018,Andhra Pradesh,Cotton,1.96,36362.0,1025.0,31.4
+2018,Uttar Pradesh,Tomato,28.4,33424.0,1696.0,31.9
+2018,Uttar Pradesh,Potato,20.52,46688.0,677.0,30.1
+2018,Uttar Pradesh,Corn,7.22,36754.0,452.0,29.4
+2018,Uttar Pradesh,Wheat,4.73,22141.0,872.0,29.0
+2018,Uttar Pradesh,Rice,6.55,33357.0,1037.0,33.4
+2018,Uttar Pradesh,Soybean,2.37,40752.0,1487.0,23.3
+2018,Uttar Pradesh,Cotton,2.06,38454.0,795.0,23.3
+2018,Punjab,Tomato,29.71,14938.0,1506.0,30.9
+2018,Punjab,Potato,24.4,31642.0,597.0,26.4
+2018,Punjab,Corn,7.14,1428.0,1331.0,34.8
+2018,Punjab,Wheat,4.43,8356.0,801.0,23.7
+2018,Punjab,Rice,6.19,42160.0,1228.0,31.1
+2018,Punjab,Soybean,2.33,18970.0,1755.0,31.4
+2018,Punjab,Cotton,2.02,42143.0,492.0,31.6
+2018,Haryana,Tomato,27.21,33103.0,1528.0,24.8
+2018,Haryana,Potato,20.93,33681.0,1235.0,23.7
+2018,Haryana,Corn,7.24,35033.0,1095.0,22.2
+2018,Haryana,Wheat,4.89,5761.0,1756.0,23.5
+2018,Haryana,Rice,6.95,14498.0,993.0,26.7
+2018,Haryana,Soybean,2.32,17005.0,913.0,26.0
+2018,Haryana,Cotton,2.01,46277.0,697.0,22.4
+2018,Gujarat,Tomato,26.9,47134.0,1643.0,32.1
+2018,Gujarat,Potato,22.95,2257.0,1786.0,34.1
+2018,Gujarat,Corn,7.03,21701.0,907.0,24.1
+2018,Gujarat,Wheat,5.02,12310.0,1093.0,22.8
+2018,Gujarat,Rice,5.84,30354.0,486.0,31.3
+2018,Gujarat,Soybean,2.35,48236.0,1004.0,33.2
+2018,Gujarat,Cotton,2.11,2097.0,719.0,23.6
+2018,Rajasthan,Tomato,29.12,14789.0,1310.0,33.7
+2018,Rajasthan,Potato,27.31,17777.0,765.0,33.2
+2018,Rajasthan,Corn,7.66,41561.0,1358.0,30.3
+2018,Rajasthan,Wheat,4.49,11870.0,1394.0,25.7
+2018,Rajasthan,Rice,6.63,13235.0,575.0,30.0
+2018,Rajasthan,Soybean,2.12,45491.0,968.0,28.5
+2018,Rajasthan,Cotton,2.06,45796.0,1296.0,26.8
+2019,Tamil Nadu,Tomato,28.33,44759.0,832.0,22.8
+2019,Tamil Nadu,Potato,25.46,22698.0,1348.0,35.0
+2019,Tamil Nadu,Corn,7.51,19227.0,995.0,24.2
+2019,Tamil Nadu,Wheat,5.0,13059.0,1071.0,23.4
+2019,Tamil Nadu,Rice,6.67,42002.0,752.0,27.6
+2019,Tamil Nadu,Soybean,2.81,6417.0,1177.0,32.0
+2019,Tamil Nadu,Cotton,2.11,40066.0,1120.0,22.5
+2019,Maharashtra,Tomato,33.67,2306.0,1676.0,32.3
+2019,Maharashtra,Potato,25.3,28138.0,541.0,27.2
+2019,Maharashtra,Corn,8.05,38409.0,526.0,24.1
+2019,Maharashtra,Wheat,5.16,26298.0,1162.0,28.7
+2019,Maharashtra,Rice,7.14,40804.0,1338.0,27.8
+2019,Maharashtra,Soybean,2.2,8258.0,443.0,31.4
+2019,Maharashtra,Cotton,2.12,48736.0,1386.0,28.0
+2019,Karnataka,Tomato,31.69,10579.0,459.0,27.9
+2019,Karnataka,Potato,23.92,13079.0,1047.0,25.0
+2019,Karnataka,Corn,7.07,4906.0,467.0,33.3
+2019,Karnataka,Wheat,5.02,18695.0,1143.0,25.6
+2019,Karnataka,Rice,7.75,15712.0,1521.0,24.3
+2019,Karnataka,Soybean,2.73,35499.0,435.0,29.3
+2019,Karnataka,Cotton,2.15,9905.0,1144.0,28.9
+2019,Andhra Pradesh,Tomato,31.9,18411.0,996.0,27.6
+2019,Andhra Pradesh,Potato,23.41,13434.0,442.0,23.6
+2019,Andhra Pradesh,Corn,6.91,1268.0,679.0,30.7
+2019,Andhra Pradesh,Wheat,4.73,43736.0,681.0,27.2
+2019,Andhra Pradesh,Rice,7.69,41307.0,1687.0,27.7
+2019,Andhra Pradesh,Soybean,2.47,13457.0,1012.0,27.1
+2019,Andhra Pradesh,Cotton,2.12,41336.0,511.0,29.6
+2019,Uttar Pradesh,Tomato,29.4,26706.0,1563.0,31.1
+2019,Uttar Pradesh,Potato,27.05,24275.0,445.0,34.7
+2019,Uttar Pradesh,Corn,8.65,20746.0,996.0,26.0
+2019,Uttar Pradesh,Wheat,5.79,17186.0,1225.0,31.8
+2019,Uttar Pradesh,Rice,6.89,39960.0,471.0,29.7
+2019,Uttar Pradesh,Soybean,2.57,33660.0,574.0,25.3
+2019,Uttar Pradesh,Cotton,1.94,1963.0,1317.0,29.6
+2019,Punjab,Tomato,32.95,27650.0,1718.0,22.9
+2019,Punjab,Potato,22.13,36030.0,1460.0,33.2
+2019,Punjab,Corn,7.91,31923.0,777.0,22.0
+2019,Punjab,Wheat,4.67,13215.0,1796.0,22.9
+2019,Punjab,Rice,6.69,39438.0,459.0,29.9
+2019,Punjab,Soybean,2.38,25590.0,1531.0,25.9
+2019,Punjab,Cotton,2.07,41676.0,1550.0,34.1
+2019,Haryana,Tomato,28.92,20355.0,1249.0,34.9
+2019,Haryana,Potato,23.12,32305.0,1307.0,24.6
+2019,Haryana,Corn,8.23,29926.0,1359.0,32.6
+2019,Haryana,Wheat,4.67,19729.0,1179.0,25.8
+2019,Haryana,Rice,7.06,21133.0,935.0,23.3
+2019,Haryana,Soybean,2.72,11598.0,801.0,22.6
+2019,Haryana,Cotton,2.09,24515.0,773.0,25.0
+2019,Gujarat,Tomato,28.56,9536.0,851.0,24.4
+2019,Gujarat,Potato,23.63,37111.0,1754.0,30.7
+2019,Gujarat,Corn,8.41,30161.0,1216.0,33.9
+2019,Gujarat,Wheat,5.11,49788.0,1024.0,22.2
+2019,Gujarat,Rice,6.71,35863.0,1675.0,24.1
+2019,Gujarat,Soybean,2.6,22109.0,1783.0,30.6
+2019,Gujarat,Cotton,2.0,2289.0,1054.0,28.7
+2019,Rajasthan,Tomato,31.36,41171.0,1157.0,24.2
+2019,Rajasthan,Potato,24.65,5362.0,477.0,24.1
+2019,Rajasthan,Corn,7.64,33603.0,438.0,32.4
+2019,Rajasthan,Wheat,4.76,31761.0,533.0,34.1
+2019,Rajasthan,Rice,6.55,46889.0,1721.0,32.4
+2019,Rajasthan,Soybean,2.61,12525.0,1358.0,31.8
+2019,Rajasthan,Cotton,2.34,29007.0,1234.0,33.5
+2020,Tamil Nadu,Tomato,29.98,39222.0,1028.0,23.9
+2020,Tamil Nadu,Potato,25.73,6486.0,1766.0,34.5
+2020,Tamil Nadu,Corn,7.04,36817.0,1153.0,30.1
+2020,Tamil Nadu,Wheat,5.05,48265.0,1699.0,28.6
+2020,Tamil Nadu,Rice,7.24,40951.0,1592.0,34.6
+2020,Tamil Nadu,Soybean,2.47,46476.0,1652.0,26.0
+2020,Tamil Nadu,Cotton,2.12,7774.0,1461.0,27.9
+2020,Maharashtra,Tomato,29.91,44129.0,898.0,28.7
+2020,Maharashtra,Potato,25.47,46428.0,1200.0,27.7
+2020,Maharashtra,Corn,8.03,25836.0,1013.0,22.1
+2020,Maharashtra,Wheat,4.5,9456.0,1537.0,25.4
+2020,Maharashtra,Rice,6.27,3294.0,1064.0,28.2
+2020,Maharashtra,Soybean,2.52,5591.0,1580.0,32.9
+2020,Maharashtra,Cotton,2.32,19632.0,519.0,29.7
+2020,Karnataka,Tomato,25.75,5484.0,1307.0,23.1
+2020,Karnataka,Potato,24.2,8734.0,1647.0,30.8
+2020,Karnataka,Corn,7.85,29931.0,1508.0,29.8
+2020,Karnataka,Wheat,5.72,21750.0,1665.0,24.0
+2020,Karnataka,Rice,7.07,36584.0,949.0,34.3
+2020,Karnataka,Soybean,2.69,33844.0,1587.0,30.6
+2020,Karnataka,Cotton,2.27,3451.0,460.0,26.6
+2020,Andhra Pradesh,Tomato,26.99,35956.0,762.0,32.3
+2020,Andhra Pradesh,Potato,26.23,39716.0,993.0,26.6
+2020,Andhra Pradesh,Corn,8.24,3157.0,1659.0,30.4
+2020,Andhra Pradesh,Wheat,5.42,9674.0,798.0,33.6
+2020,Andhra Pradesh,Rice,9.07,34856.0,1181.0,26.3
+2020,Andhra Pradesh,Soybean,2.27,19492.0,550.0,34.1
+2020,Andhra Pradesh,Cotton,2.5,29471.0,1603.0,30.6
+2020,Uttar Pradesh,Tomato,30.68,32418.0,654.0,30.3
+2020,Uttar Pradesh,Potato,25.46,44354.0,1697.0,31.1
+2020,Uttar Pradesh,Corn,8.1,14869.0,1254.0,27.0
+2020,Uttar Pradesh,Wheat,5.11,13184.0,771.0,30.0
+2020,Uttar Pradesh,Rice,6.99,2255.0,1034.0,26.1
+2020,Uttar Pradesh,Soybean,2.68,4173.0,416.0,29.3
+2020,Uttar Pradesh,Cotton,2.03,6008.0,599.0,34.8
+2020,Punjab,Tomato,32.75,18423.0,1464.0,32.7
+2020,Punjab,Potato,24.33,20925.0,1160.0,23.6
+2020,Punjab,Corn,7.54,25624.0,1203.0,32.3
+2020,Punjab,Wheat,5.1,11878.0,1148.0,28.9
+2020,Punjab,Rice,7.83,25589.0,1260.0,33.4
+2020,Punjab,Soybean,2.54,7736.0,762.0,28.2
+2020,Punjab,Cotton,2.3,49539.0,1454.0,27.8
+2020,Haryana,Tomato,29.79,29212.0,995.0,30.1
+2020,Haryana,Potato,26.21,4107.0,820.0,24.8
+2020,Haryana,Corn,8.48,41655.0,1221.0,31.8
+2020,Haryana,Wheat,5.87,36514.0,901.0,31.8
+2020,Haryana,Rice,7.17,30385.0,1541.0,35.0
+2020,Haryana,Soybean,2.74,43784.0,1401.0,23.4
+2020,Haryana,Cotton,2.26,11454.0,1408.0,33.6
+2020,Gujarat,Tomato,33.84,17745.0,1773.0,22.6
+2020,Gujarat,Potato,23.85,13471.0,1179.0,23.2
+2020,Gujarat,Corn,8.51,17290.0,1562.0,22.3
+2020,Gujarat,Wheat,5.18,9113.0,1669.0,25.6
+2020,Gujarat,Rice,7.22,15802.0,603.0,23.6
+2020,Gujarat,Soybean,2.64,5771.0,845.0,22.4
+2020,Gujarat,Cotton,2.29,10469.0,805.0,22.4
+2020,Rajasthan,Tomato,31.02,28794.0,963.0,22.8
+2020,Rajasthan,Potato,25.34,38025.0,1078.0,33.9
+2020,Rajasthan,Corn,8.95,37629.0,1481.0,23.6
+2020,Rajasthan,Wheat,5.58,13676.0,1154.0,31.8
+2020,Rajasthan,Rice,7.65,31894.0,1165.0,34.4
+2020,Rajasthan,Soybean,2.55,36745.0,1613.0,28.0
+2020,Rajasthan,Cotton,2.12,28006.0,536.0,23.0
+2021,Tamil Nadu,Tomato,34.41,14273.0,1124.0,34.9
+2021,Tamil Nadu,Potato,27.4,39577.0,1576.0,30.1
+2021,Tamil Nadu,Corn,9.22,46037.0,1277.0,34.3
+2021,Tamil Nadu,Wheat,5.26,27750.0,1263.0,29.0
+2021,Tamil Nadu,Rice,7.43,40434.0,749.0,34.7
+2021,Tamil Nadu,Soybean,2.45,20396.0,1266.0,27.7
+2021,Tamil Nadu,Cotton,2.28,46585.0,934.0,26.1
+2021,Maharashtra,Tomato,34.49,44734.0,526.0,26.4
+2021,Maharashtra,Potato,25.25,13800.0,839.0,30.6
+2021,Maharashtra,Corn,8.78,6422.0,1259.0,31.4
+2021,Maharashtra,Wheat,5.4,34297.0,482.0,30.9
+2021,Maharashtra,Rice,7.69,24410.0,906.0,31.1
+2021,Maharashtra,Soybean,2.54,19693.0,1373.0,26.6
+2021,Maharashtra,Cotton,2.35,4449.0,510.0,30.9
+2021,Karnataka,Tomato,26.52,4031.0,1566.0,29.0
+2021,Karnataka,Potato,25.7,38793.0,1531.0,24.7
+2021,Karnataka,Corn,7.6,16405.0,975.0,31.2
+2021,Karnataka,Wheat,5.87,7162.0,1121.0,25.4
+2021,Karnataka,Rice,7.9,19247.0,478.0,28.3
+2021,Karnataka,Soybean,2.81,3408.0,1232.0,30.5
+2021,Karnataka,Cotton,2.56,15756.0,590.0,28.9
+2021,Andhra Pradesh,Tomato,30.6,29438.0,650.0,25.8
+2021,Andhra Pradesh,Potato,28.8,19440.0,925.0,33.2
+2021,Andhra Pradesh,Corn,8.93,39490.0,1437.0,29.2
+2021,Andhra Pradesh,Wheat,5.38,22310.0,1097.0,22.7
+2021,Andhra Pradesh,Rice,8.07,39670.0,767.0,22.2
+2021,Andhra Pradesh,Soybean,2.54,39735.0,835.0,27.5
+2021,Andhra Pradesh,Cotton,2.22,18845.0,1459.0,26.4
+2021,Uttar Pradesh,Tomato,31.28,44731.0,1200.0,32.2
+2021,Uttar Pradesh,Potato,25.15,16118.0,847.0,24.9
+2021,Uttar Pradesh,Corn,7.9,39282.0,1527.0,22.4
+2021,Uttar Pradesh,Wheat,5.87,7412.0,1600.0,26.8
+2021,Uttar Pradesh,Rice,7.42,40148.0,1626.0,32.2
+2021,Uttar Pradesh,Soybean,2.79,42860.0,658.0,27.4
+2021,Uttar Pradesh,Cotton,2.26,35329.0,476.0,27.2
+2021,Punjab,Tomato,28.86,17366.0,1252.0,25.0
+2021,Punjab,Potato,26.43,3631.0,1373.0,30.8
+2021,Punjab,Corn,7.46,8853.0,661.0,24.3
+2021,Punjab,Wheat,5.44,15412.0,1749.0,32.4
+2021,Punjab,Rice,6.91,21981.0,1634.0,31.0
+2021,Punjab,Soybean,3.06,24223.0,962.0,31.9
+2021,Punjab,Cotton,2.47,31050.0,946.0,23.3
+2021,Haryana,Tomato,32.71,9667.0,1393.0,23.3
+2021,Haryana,Potato,28.02,19253.0,1761.0,28.5
+2021,Haryana,Corn,8.01,47871.0,1147.0,28.7
+2021,Haryana,Wheat,5.64,20024.0,484.0,31.9
+2021,Haryana,Rice,7.63,48992.0,421.0,28.2
+2021,Haryana,Soybean,2.77,26297.0,955.0,31.2
+2021,Haryana,Cotton,2.52,49590.0,579.0,33.4
+2021,Gujarat,Tomato,33.96,9472.0,1234.0,34.2
+2021,Gujarat,Potato,26.46,22760.0,1500.0,22.2
+2021,Gujarat,Corn,7.59,40294.0,1025.0,34.9
+2021,Gujarat,Wheat,5.14,21019.0,768.0,24.1
+2021,Gujarat,Rice,7.48,40787.0,507.0,31.5
+2021,Gujarat,Soybean,2.75,46057.0,475.0,28.9
+2021,Gujarat,Cotton,2.18,12212.0,1464.0,28.2
+2021,Rajasthan,Tomato,37.32,12171.0,884.0,29.7
+2021,Rajasthan,Potato,28.43,19908.0,1454.0,22.6
+2021,Rajasthan,Corn,8.76,28151.0,1763.0,30.3
+2021,Rajasthan,Wheat,5.48,19056.0,771.0,28.7
+2021,Rajasthan,Rice,7.44,16178.0,573.0,29.2
+2021,Rajasthan,Soybean,2.57,37808.0,1105.0,33.4
+2021,Rajasthan,Cotton,2.35,18739.0,1453.0,34.4
+2022,Tamil Nadu,Tomato,34.27,3310.0,1346.0,27.6
+2022,Tamil Nadu,Potato,25.01,15970.0,914.0,30.5
+2022,Tamil Nadu,Corn,8.95,17588.0,604.0,24.6
+2022,Tamil Nadu,Wheat,5.62,44123.0,556.0,34.3
+2022,Tamil Nadu,Rice,6.94,8554.0,1398.0,27.8
+2022,Tamil Nadu,Soybean,2.69,38718.0,1261.0,31.6
+2022,Tamil Nadu,Cotton,2.37,48880.0,1355.0,30.1
+2022,Maharashtra,Tomato,37.53,40964.0,519.0,27.7
+2022,Maharashtra,Potato,27.89,38904.0,1470.0,25.2
+2022,Maharashtra,Corn,8.08,15380.0,1298.0,31.6
+2022,Maharashtra,Wheat,5.83,24975.0,443.0,33.3
+2022,Maharashtra,Rice,7.11,28199.0,931.0,24.2
+2022,Maharashtra,Soybean,3.02,4566.0,1065.0,31.3
+2022,Maharashtra,Cotton,2.36,33098.0,485.0,33.0
+2022,Karnataka,Tomato,33.56,30730.0,942.0,25.2
+2022,Karnataka,Potato,29.12,3043.0,861.0,30.3
+2022,Karnataka,Corn,8.11,2627.0,1252.0,32.3
+2022,Karnataka,Wheat,5.2,12248.0,1407.0,28.5
+2022,Karnataka,Rice,7.56,8096.0,1274.0,25.0
+2022,Karnataka,Soybean,3.01,42541.0,1634.0,22.2
+2022,Karnataka,Cotton,2.21,43034.0,1609.0,32.2
+2022,Andhra Pradesh,Tomato,28.09,37275.0,1121.0,31.3
+2022,Andhra Pradesh,Potato,26.28,20421.0,1064.0,25.7
+2022,Andhra Pradesh,Corn,9.06,45345.0,1580.0,26.5
+2022,Andhra Pradesh,Wheat,6.07,9440.0,756.0,33.9
+2022,Andhra Pradesh,Rice,7.62,47820.0,766.0,27.6
+2022,Andhra Pradesh,Soybean,2.77,41467.0,694.0,29.0
+2022,Andhra Pradesh,Cotton,2.6,18720.0,492.0,29.8
+2022,Uttar Pradesh,Tomato,30.01,11655.0,1386.0,29.2
+2022,Uttar Pradesh,Potato,26.38,1763.0,1361.0,31.8
+2022,Uttar Pradesh,Corn,8.87,40222.0,1337.0,25.1
+2022,Uttar Pradesh,Wheat,5.82,30192.0,606.0,27.9
+2022,Uttar Pradesh,Rice,7.59,25615.0,1325.0,33.4
+2022,Uttar Pradesh,Soybean,2.84,37032.0,1525.0,29.4
+2022,Uttar Pradesh,Cotton,2.07,21854.0,1221.0,28.7
+2022,Punjab,Tomato,32.43,8595.0,1641.0,31.0
+2022,Punjab,Potato,27.73,3985.0,1790.0,26.1
+2022,Punjab,Corn,8.26,29360.0,586.0,28.2
+2022,Punjab,Wheat,5.69,14438.0,1029.0,23.8
+2022,Punjab,Rice,8.04,19465.0,451.0,23.2
+2022,Punjab,Soybean,2.78,36716.0,1238.0,31.7
+2022,Punjab,Cotton,2.45,19686.0,754.0,25.5
+2022,Haryana,Tomato,31.82,45323.0,1564.0,30.4
+2022,Haryana,Potato,26.67,30027.0,628.0,25.1
+2022,Haryana,Corn,9.09,28833.0,544.0,34.7
+2022,Haryana,Wheat,5.72,49281.0,1323.0,28.5
+2022,Haryana,Rice,7.56,20203.0,1544.0,34.3
+2022,Haryana,Soybean,2.87,28762.0,1777.0,28.7
+2022,Haryana,Cotton,2.53,26220.0,469.0,29.5
+2022,Gujarat,Tomato,29.65,46282.0,635.0,23.6
+2022,Gujarat,Potato,28.85,40995.0,421.0,25.0
+2022,Gujarat,Corn,8.6,44559.0,423.0,31.0
+2022,Gujarat,Wheat,5.81,19911.0,1008.0,23.5
+2022,Gujarat,Rice,8.39,45592.0,1111.0,30.2
+2022,Gujarat,Soybean,2.6,33902.0,1181.0,32.4
+2022,Gujarat,Cotton,2.33,24561.0,941.0,22.1
+2022,Rajasthan,Tomato,33.17,5097.0,814.0,26.8
+2022,Rajasthan,Potato,25.75,40046.0,804.0,33.9
+2022,Rajasthan,Corn,9.68,12526.0,1174.0,34.1
+2022,Rajasthan,Wheat,5.38,32844.0,1298.0,23.1
+2022,Rajasthan,Rice,7.57,26006.0,466.0,28.3
+2022,Rajasthan,Soybean,2.87,21636.0,1452.0,33.1
+2022,Rajasthan,Cotton,2.26,32434.0,673.0,26.0
+2023,Tamil Nadu,Tomato,34.21,43451.0,1224.0,32.8
+2023,Tamil Nadu,Potato,28.51,39715.0,449.0,24.6
+2023,Tamil Nadu,Corn,8.93,38882.0,424.0,32.9
+2023,Tamil Nadu,Wheat,5.85,20810.0,655.0,26.8
+2023,Tamil Nadu,Rice,7.87,40963.0,1721.0,34.4
+2023,Tamil Nadu,Soybean,2.69,29828.0,1013.0,23.0
+2023,Tamil Nadu,Cotton,2.57,1958.0,1365.0,27.7
+2023,Maharashtra,Tomato,38.51,48650.0,1336.0,27.5
+2023,Maharashtra,Potato,28.03,5509.0,418.0,30.4
+2023,Maharashtra,Corn,9.22,45891.0,819.0,23.1
+2023,Maharashtra,Wheat,6.11,5425.0,1577.0,34.9
+2023,Maharashtra,Rice,7.53,12015.0,795.0,32.5
+2023,Maharashtra,Soybean,3.23,27541.0,541.0,30.0
+2023,Maharashtra,Cotton,2.55,46197.0,1228.0,32.0
+2023,Karnataka,Tomato,38.26,24002.0,1132.0,22.2
+2023,Karnataka,Potato,26.83,38877.0,1464.0,27.6
+2023,Karnataka,Corn,10.05,27864.0,812.0,23.8
+2023,Karnataka,Wheat,6.14,27180.0,1194.0,30.1
+2023,Karnataka,Rice,8.38,8806.0,1250.0,32.2
+2023,Karnataka,Soybean,2.98,26870.0,1156.0,29.3
+2023,Karnataka,Cotton,2.48,26482.0,1289.0,23.5
+2023,Andhra Pradesh,Tomato,37.4,26928.0,1355.0,30.3
+2023,Andhra Pradesh,Potato,28.22,39298.0,502.0,22.4
+2023,Andhra Pradesh,Corn,8.08,40340.0,1000.0,26.7
+2023,Andhra Pradesh,Wheat,5.5,42351.0,1197.0,33.7
+2023,Andhra Pradesh,Rice,8.03,2145.0,1233.0,23.6
+2023,Andhra Pradesh,Soybean,2.99,47220.0,586.0,33.5
+2023,Andhra Pradesh,Cotton,2.51,38436.0,902.0,33.0
+2023,Uttar Pradesh,Tomato,37.44,31922.0,1208.0,32.8
+2023,Uttar Pradesh,Potato,24.88,10152.0,421.0,34.7
+2023,Uttar Pradesh,Corn,9.17,28112.0,408.0,34.3
+2023,Uttar Pradesh,Wheat,5.27,44969.0,916.0,23.8
+2023,Uttar Pradesh,Rice,8.47,4569.0,1045.0,26.4
+2023,Uttar Pradesh,Soybean,2.92,16403.0,1740.0,28.0
+2023,Uttar Pradesh,Cotton,2.58,23389.0,1388.0,30.7
+2023,Punjab,Tomato,33.27,7761.0,816.0,29.8
+2023,Punjab,Potato,30.05,39419.0,535.0,30.7
+2023,Punjab,Corn,9.64,41904.0,1172.0,25.6
+2023,Punjab,Wheat,6.08,30819.0,1229.0,34.2
+2023,Punjab,Rice,8.06,22351.0,648.0,23.8
+2023,Punjab,Soybean,3.04,47208.0,868.0,29.6
+2023,Punjab,Cotton,2.42,23015.0,1536.0,33.5
+2023,Haryana,Tomato,36.71,45757.0,770.0,31.5
+2023,Haryana,Potato,30.64,14054.0,585.0,32.7
+2023,Haryana,Corn,9.66,17984.0,811.0,28.3
+2023,Haryana,Wheat,5.63,41915.0,847.0,32.1
+2023,Haryana,Rice,8.29,7195.0,1583.0,23.8
+2023,Haryana,Soybean,2.72,42384.0,914.0,32.8
+2023,Haryana,Cotton,2.6,35805.0,425.0,31.5
+2023,Gujarat,Tomato,35.9,4105.0,959.0,34.0
+2023,Gujarat,Potato,25.01,45025.0,974.0,34.4
+2023,Gujarat,Corn,8.5,23509.0,696.0,23.8
+2023,Gujarat,Wheat,5.78,42533.0,1058.0,24.3
+2023,Gujarat,Rice,7.98,8985.0,1184.0,26.3
+2023,Gujarat,Soybean,2.74,36335.0,1503.0,22.1
+2023,Gujarat,Cotton,2.58,5359.0,1128.0,34.3
+2023,Rajasthan,Tomato,35.5,41025.0,656.0,31.0
+2023,Rajasthan,Potato,27.69,36137.0,737.0,23.8
+2023,Rajasthan,Corn,8.71,21565.0,945.0,34.1
+2023,Rajasthan,Wheat,6.23,46286.0,1513.0,26.9
+2023,Rajasthan,Rice,8.89,24592.0,482.0,26.6
+2023,Rajasthan,Soybean,2.86,28560.0,1377.0,34.3
+2023,Rajasthan,Cotton,2.43,5482.0,1204.0,34.7
+2024,Tamil Nadu,Tomato,37.23,30911.0,1581.0,33.5
+2024,Tamil Nadu,Potato,28.43,6351.0,1543.0,23.1
+2024,Tamil Nadu,Corn,9.35,10111.0,513.0,33.4
+2024,Tamil Nadu,Wheat,6.34,37450.0,718.0,32.6
+2024,Tamil Nadu,Rice,7.52,39903.0,475.0,29.4
+2024,Tamil Nadu,Soybean,3.27,10781.0,446.0,22.9
+2024,Tamil Nadu,Cotton,2.62,22079.0,839.0,22.2
+2024,Maharashtra,Tomato,35.43,47892.0,759.0,31.1
+2024,Maharashtra,Potato,28.86,49411.0,521.0,28.6
+2024,Maharashtra,Corn,9.41,39475.0,1186.0,26.3
+2024,Maharashtra,Wheat,5.51,15359.0,1535.0,23.8
+2024,Maharashtra,Rice,9.1,28807.0,1056.0,29.7
+2024,Maharashtra,Soybean,3.05,29081.0,1611.0,27.4
+2024,Maharashtra,Cotton,2.67,7444.0,760.0,34.4
+2024,Karnataka,Tomato,38.15,38534.0,979.0,31.5
+2024,Karnataka,Potato,27.37,48007.0,1510.0,28.7
+2024,Karnataka,Corn,9.67,7921.0,1064.0,32.5
+2024,Karnataka,Wheat,6.0,40736.0,516.0,33.7
+2024,Karnataka,Rice,8.8,36542.0,499.0,25.4
+2024,Karnataka,Soybean,2.69,3225.0,893.0,29.3
+2024,Karnataka,Cotton,2.6,30928.0,710.0,24.4
+2024,Andhra Pradesh,Tomato,35.04,23945.0,815.0,34.6
+2024,Andhra Pradesh,Potato,29.69,39400.0,1420.0,27.7
+2024,Andhra Pradesh,Corn,9.67,26677.0,1634.0,25.1
+2024,Andhra Pradesh,Wheat,5.85,43696.0,612.0,28.9
+2024,Andhra Pradesh,Rice,8.08,20876.0,782.0,29.1
+2024,Andhra Pradesh,Soybean,3.03,2907.0,1001.0,24.5
+2024,Andhra Pradesh,Cotton,2.48,27850.0,1786.0,35.0
+2024,Uttar Pradesh,Tomato,37.93,44659.0,1703.0,28.5
+2024,Uttar Pradesh,Potato,28.41,27811.0,1755.0,26.1
+2024,Uttar Pradesh,Corn,7.91,12165.0,1690.0,32.4
+2024,Uttar Pradesh,Wheat,5.96,31900.0,1590.0,27.3
+2024,Uttar Pradesh,Rice,7.93,7757.0,466.0,26.3
+2024,Uttar Pradesh,Soybean,2.77,22830.0,1022.0,25.6
+2024,Uttar Pradesh,Cotton,2.43,3456.0,904.0,30.1
+2024,Punjab,Tomato,36.47,18270.0,910.0,27.2
+2024,Punjab,Potato,31.13,11094.0,656.0,32.7
+2024,Punjab,Corn,9.59,30109.0,1157.0,26.3
+2024,Punjab,Wheat,5.89,38517.0,550.0,28.4
+2024,Punjab,Rice,8.62,35292.0,1423.0,30.7
+2024,Punjab,Soybean,2.97,30404.0,1645.0,23.3
+2024,Punjab,Cotton,2.51,5083.0,540.0,32.1
+2024,Haryana,Tomato,33.94,47129.0,533.0,34.8
+2024,Haryana,Potato,26.2,1936.0,860.0,25.8
+2024,Haryana,Corn,9.22,47179.0,1355.0,22.7
+2024,Haryana,Wheat,6.14,35432.0,635.0,22.3
+2024,Haryana,Rice,8.37,36137.0,919.0,25.0
+2024,Haryana,Soybean,2.98,41061.0,1705.0,31.1
+2024,Haryana,Cotton,2.47,5075.0,648.0,22.0
+2024,Gujarat,Tomato,37.47,5052.0,589.0,27.7
+2024,Gujarat,Potato,26.89,16374.0,1511.0,29.4
+2024,Gujarat,Corn,9.83,43724.0,483.0,24.1
+2024,Gujarat,Wheat,5.75,21466.0,1537.0,33.9
+2024,Gujarat,Rice,8.06,4868.0,555.0,24.8
+2024,Gujarat,Soybean,2.8,36254.0,656.0,33.4
+2024,Gujarat,Cotton,2.54,48364.0,1317.0,30.9
+2024,Rajasthan,Tomato,38.2,13722.0,1287.0,30.0
+2024,Rajasthan,Potato,29.83,2568.0,796.0,34.4
+2024,Rajasthan,Corn,9.93,25123.0,1471.0,31.2
+2024,Rajasthan,Wheat,6.27,42382.0,1049.0,29.2
+2024,Rajasthan,Rice,7.9,46607.0,1392.0,29.7
+2024,Rajasthan,Soybean,2.99,18942.0,439.0,25.0
+2024,Rajasthan,Cotton,2.5,37799.0,492.0,22.1

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+venv/
+.venv/
+agrifarm/
+.agrifarm/
+
+# Secrets — NEVER commit
+.env
+.env.local
+
+# Generated data
+data/plantvillage/
+data/*.pt
+agrifarm.db
+chroma_db/
+*.db
+logs/
+
+# AWS
+.aws/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
