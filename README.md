@@ -8,11 +8,6 @@
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-Free_Tier-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-<<<<<<< HEAD
-**Production-grade Agentic AI + AIOps platform for precision agriculture**
-=======
-** Agentic AI + AIOps platform for precision agriculture**
->>>>>>> ab87c161e923e5ef0e79b4006a985329c80268b7
 
 *Multi-agent tool-calling · ResNet18 disease vision · Prophet forecasting · ChromaDB RAG · LLM-powered AIOps*
 
