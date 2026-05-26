@@ -15,19 +15,7 @@
 
 ---
 
-<<<<<<< HEAD
-## 🏆 Resume Headline
 
-> *"Built a production-grade multi-agent AI platform for precision agriculture combining LLM tool-calling agents, computer vision disease detection (ResNet18 / PlantVillage), time-series yield forecasting (Prophet), RAG-powered market advisory (ChromaDB), and an AIOps monitoring layer with LLM root-cause analysis — deployed on AWS EC2 free tier at zero monthly cost."*
-
----
-
-## ✨ What Makes This Stand Out
-=======
-
----
-
->>>>>>> ab87c161e923e5ef0e79b4006a985329c80268b7
 
 | Feature | Technology | Resume Signal |
 |---|---|---|
@@ -228,7 +216,7 @@ Full documentation: [docs/API.md](docs/API.md)
 
 ---
 
-<<<<<<< HEAD
+
 ## 🎤 Interview Talking Points
 
 **"Walk me through your agentic AI implementation"**
