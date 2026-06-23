@@ -264,10 +264,3 @@ Full documentation: [docs/API.md](docs/API.md)
 
 ---
 
-<<<<<<< HEAD
-## 📝 License
-
-MIT — free to use for portfolios, interviews, and production projects.
-=======
-
->>>>>>> ab87c161e923e5ef0e79b4006a985329c80268b7
